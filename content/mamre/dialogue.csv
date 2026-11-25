@@ -1,0 +1,82 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Great spreading oaks, a big tent, and heat so strong the air shimmers. Everyone is resting in the shade.",
+arrive,,narrate,"Years have passed. Abram is ninety-nine now, and God has given him and Sarai new names: Abraham and Sarah. Sarah still has no child.",
+abraham_idle,Abraham,say,"Rest a while, {name}. It is too hot to do anything else.",
+heat,,quote,"Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent.",Genesis 18:1
+three_men,,quote,"And Abraham looked up and saw three men standing nearby. When he saw them, he ran from the entrance of his tent to meet them and bowed low to the ground.",Genesis 18:2
+ran,Abraham,quote,"My lord, | if I have found favor in your sight, please do not pass your servant by. Let a little water be brought, that you may wash your feet and rest yourselves under the tree. And I will bring a bit of bread so that you may refresh yourselves. …",Genesis 18:3-5
+ran,The visitors,quote,"Yes, | you may do as you have said.",Genesis 18:5
+ran,,think,"Abraham was ninety-nine, in the hottest part of the day, and he ran to welcome strangers.",
+serve_ask,Abraham,say,"Quick, {name}! Water from the well for their feet, flour to Sarah for bread, and curds and milk from by the goats.",
+look_water,,narrate,"A deep well, with a bucket on a rope.",
+look_flour,,narrate,"Sacks of fine flour.",
+look_milk,,narrate,"Jars of curds and fresh milk, kept cool in the shade.",
+look_tree,,narrate,"Cool shade under a great oak.",
+take_water,,narrate,"You fill a jar with cool water. Take it to the visitors.",
+take_flour,,narrate,"A big scoop of fine flour. Take it to Sarah, by the oven.",
+take_milk,,narrate,"A jar of curds and milk. Take it to the visitors.",
+hands_full,,narrate,"Your hands are full. Take that where it is needed first.",
+done_already,,narrate,"That has been done. What else do the guests need?",
+give_water,,narrate,"You pour cool water over their dusty feet. They smile their thanks.",
+give_milk,,narrate,"You set down the curds and milk in the shade.",
+give_flour,,narrate,"Sarah takes the flour and starts to knead it. Soon there will be fresh bread.",
+flour_to_sarah,,narrate,"The flour is for Sarah, by the oven at the tent.",
+visitor_1,Visitor,say,"Thank you for your kindness.",
+visitor_2,Visitor,say,"It is a long road, and a hot one.",
+visitor_3,Visitor,say,"Your master is very generous.",
+visitor_idle,Visitor,say,"Peace to you.",
+sarah_idle,Sarah,say,"Visitors? On a day this hot? Abraham never lets anyone pass by.",
+sarah_wait,Sarah,say,"Bring me flour, {name}, and I will bake bread for them.",
+sarah_after,Sarah,say,"I did not laugh. Well... maybe I did.",
+girl_idle,Servant girl,say,"My mistress has wanted a child for as long as I have known her.",
+hurried,,quote,"So Abraham hurried into the tent and said to Sarah, “Quick! Prepare three seahs of fine flour, knead it, and bake some bread.”",Genesis 18:6
+hurried,,quote,"Meanwhile, Abraham ran to the herd, selected a tender and choice calf, and gave it to a servant, who hurried to prepare it.",Genesis 18:7
+ate,,quote,"Then Abraham brought curds and milk and the calf that had been prepared, and he set them before the men and stood by them under the tree as they ate.",Genesis 18:8
+where_sarah,The visitors,quote,"Where is your wife Sarah?",Genesis 18:9
+where_sarah,Abraham,quote,"There, in the tent,",Genesis 18:9
+where_sarah,The LORD,quote,"I will surely return to you at this time next year, and your wife Sarah will have a son!",Genesis 18:10
+laughed,,quote,"… Now Sarah was behind him, listening at the entrance to the tent. And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing.",Genesis 18:10-11
+laughed,,quote,"So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?”",Genesis 18:12
+too_difficult,The LORD,quote,"Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’ Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.",Genesis 18:13-14
+too_difficult,,quote,"But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,” replied the LORD, “but you did laugh.”",Genesis 18:15
+too_difficult,,think,"Sarah laughed because it seemed impossible. God did not explain how He would do it. He asked a question instead: is anything too difficult for Him?",
+too_difficult,,note,"Long after, the angel Gabriel told Mary she would have a son, Jesus, and that seemed impossible too. He said:",
+too_difficult,,quote,"For no word from God will ever fail.",Luke 1:37
+see_off,,quote,"When the men got up to leave, they looked out over Sodom, and Abraham walked along with them to see them off.",Genesis 18:16
+a_year,,narrate,"The visitors walk on down the road. The device hums, and the days blur: weeks, months, a whole year...",
+year_later,,narrate,"A year later. The oaks are the same, but there is a new sound in the camp: a baby crying.",
+isaac,,quote,"Now the LORD attended to Sarah as He had said, and the LORD did for Sarah what He had promised. So Sarah conceived and bore a son to Abraham in his old age, at the very time God had promised.",Genesis 21:1-2
+isaac,,quote,"And Abraham gave the name Isaac to the son Sarah bore to him.",Genesis 21:3
+isaac,Sarah,quote,"God has made me laugh, and everyone who hears of this will laugh with me.",Genesis 21:6
+isaac,,note,"The name Isaac means ""he laughs.""",
+isaac,,think,"Sarah's laugh of doubt became a laugh of joy. God did exactly what He said, at exactly the time He said.",
+abraham_year,Abraham,say,"A hundred years old, and holding my own son. Nothing is too difficult for the LORD, {name}.",
+farewell,Abraham,say,"Twenty-five years we waited for this boy. God's promise was slow, but it was never late.",
+farewell,,narrate,"Your device hums. Time to go.",
+disc_newname,Herdsman,say,"Didn't you hear? Our master isn't Abram any more. God gave him a new name!",
+disc_newname,,quote,"No longer will you be called Abram, but your name will be Abraham, for I have made you a father of many nations.",Genesis 17:5
+disc_newname,,note,"Abraham means ""father of many."" He was given the name before he had a single child with Sarah.",
+disc_laughed,Eliezer,say,"Sarah is not the only one who laughed, you know. When God told the master that Sarah would have a son, he laughed too.",
+disc_laughed,,quote,"Abraham fell facedown. Then he laughed and said to himself, “Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?”",Genesis 17:17
+disc_angels,Servant,say,"Three strangers off the road, and my master has me cook his best calf! He treats them like kings.",
+disc_angels,,note,"A letter, written long after:",
+disc_angels,,quote,"Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it.",Hebrews 13:2
+disc_sarahfaith,Servant girl,say,"My mistress laughed when she heard. But in the end, she trusted God.",
+disc_sarahfaith,,note,"A letter, written long after:",
+disc_sarahfaith,,quote,"By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised.",Hebrews 11:11
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Is anything too difficult for the LORD?",Genesis 18:14
+game_verses,,quote,"Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it.",Hebrews 13:2
+end_truth,,quote,"Is anything too difficult for the LORD?",Genesis 18:14
+end_think,,think,"When God's promise seems impossible, His question still stands: is anything too difficult for the LORD?",
+end_bible,,note,"In the heat of the day, three men came to Abraham's tent at Mamre. He ran to welcome them and served them a meal under the tree. (18:1-8)",
+end_bible,,note,"The LORD said that by this time next year, Sarah would have a son. Sarah, listening, laughed. ""Is anything too difficult for the LORD?"" (18:9-15)",
+end_bible,,note,"Abraham walked with the men to see them off. (18:16)",
+end_bible,,note,"A year later Sarah had a son, Isaac, just as God had promised. ""God has made me laugh,"" she said. (21:1-7)",
+end_imagined,,note,"You, and that you fetched water, flour and milk for the guests. Abraham's servants did that.",
+end_imagined,,note,"The herdsman, the servant girl and the cook, and Eliezer being there. The Bible names Eliezer only in Genesis 15.",
+end_imagined,,note,"How the visitors looked. The Bible says ""the LORD appeared to Abraham"" and that he saw three men. Two of them are later called angels (Genesis 19:1).",
+end_left_out,,note,"Genesis 17: God's covenant with Abraham, and the new names Abraham and Sarah.",
+end_left_out,,note,"Genesis 18:16-33: Abraham pleaded with the LORD to spare Sodom for the sake of the righteous. Genesis 19: Sodom was destroyed, and Lot and his daughters were rescued.",
+end_left_out,,note,"Genesis 21:8-21: Sarah sent Hagar and Ishmael away, and God cared for them in the wilderness.",

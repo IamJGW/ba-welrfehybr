@@ -1,0 +1,95 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Beersheba again, many years later. Isaac and Rebekah had twin sons, and they are grown up now.",
+arrive,,quote,"When the boys grew up, Esau became a skillful hunter, a man of the field, while Jacob was a quiet man who stayed at home. Because Isaac had a taste for wild game, he loved Esau; but Rebekah loved Jacob.",Genesis 25:27-28
+jacob_idle,Jacob,say,"Mmm. Smell that, {name}?",
+jacob_night,Jacob,say,"A stone for a pillow and the sky for a roof. Not much of a bed, is it, {name}?",
+cooking,Jacob,say,"Red lentil stew, {name}. My brother will be in from hunting soon, and he is always starving.",
+stew,,quote,"One day, while Jacob was cooking some stew, Esau came in from the field and was famished.",Genesis 25:29
+stew,Esau,quote,"Let me eat some of that red stew, for I am famished.",Genesis 25:30
+stew,Jacob,quote,"First sell me your birthright,",Genesis 25:31
+stew,Esau,quote,"Look, | I am about to die, so what good is a birthright to me?",Genesis 25:32
+stew,Jacob,quote,"Swear to me first,",Genesis 25:33
+stew,,quote,"… So Esau swore to Jacob and sold him the birthright. Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright.",Genesis 25:33-34
+stew,,note,"The birthright belonged to the oldest son: the biggest share of what the family owned, and the right to lead the family one day.",
+stew,,think,"Esau traded something that mattered for ever for one bowl of stew, because he was hungry right then. And Jacob took advantage of his own brother.",
+years,,narrate,"Your device hums, and the years slip by...",
+old_isaac,,quote,"When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau …",Genesis 27:1
+old_isaac,Isaac,quote,"Take your weapons—your quiver and bow—and go out into the field to hunt some game for me. Then prepare a tasty dish that I love and bring it to me to eat, so that I may bless you before I die.",Genesis 27:3-4
+old_isaac,,narrate,"Esau has gone out hunting. And now Rebekah is whispering to Jacob.",
+isaac_idle,Isaac,say,"Who's there? My eyes are not what they were.",
+rebekah_idle,Rebekah,say,"Not now, {name}.",
+goatherd_idle,Goatherd,say,"Fine goats, these. The best in Beersheba.",
+esau_idle,Esau,say,"Out of my way! I'm hungry enough to eat a camel.",
+esau_angry,Esau,say,"Leave me alone.",
+plan,,quote,"Now Rebekah was listening to what Isaac told his son Esau. …",Genesis 27:5
+plan,Rebekah,quote,"Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father—the kind he loves.",Genesis 27:9
+plan,Jacob,quote,"Look, my brother Esau is a hairy man, but I am smooth-skinned. What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing.",Genesis 27:11-12
+plan,,quote,"And Rebekah took the finest clothes in the house that belonged to her older son Esau, and she put them on her younger son Jacob. She also put the skins of the young goats on his hands and on the smooth part of his neck.",Genesis 27:15-16
+deceive,Jacob,quote,"My father.",Genesis 27:18
+deceive,Isaac,quote,"Here I am! | Which one are you, my son?",Genesis 27:18
+deceive,Jacob,quote,"I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.",Genesis 27:19
+deceive,Isaac,quote,"Please come closer so I can touch you, my son. Are you really my son Esau, or not?",Genesis 27:21
+deceive,Isaac,quote,"The voice is the voice of Jacob, but the hands are the hands of Esau.",Genesis 27:22
+deceive,,quote,"Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him.",Genesis 27:23
+deceive,,think,"Jacob lied to his blind father, again and again. The Bible tells it honestly, and the lie will cost him.",
+blessing,Isaac,quote,"May God give to you the dew of heaven and the richness of the earth—an abundance of grain and new wine. May peoples serve you and nations bow down to you. …",Genesis 27:28-29
+esau_back,,quote,"As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt.",Genesis 27:30
+esau_back,Esau,quote,"My father, sit up and eat of your son’s game, so that you may bless me.",Genesis 27:31
+esau_back,Isaac,quote,"Who are you?",Genesis 27:32
+esau_back,Esau,quote,"I am Esau, your firstborn son,",Genesis 27:32
+esau_back,Isaac,quote,"Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him—and indeed, he will be blessed!",Genesis 27:33
+esau_back,,quote,"When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!”",Genesis 27:34
+grudge,,quote,"Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart, “The days of mourning for my father are at hand; then I will kill my brother Jacob.”",Genesis 27:41
+grudge,,think,"Lies split this family apart. Jacob got the blessing, but he is about to lose his home and his brother.",
+flee,Rebekah,quote,"Look, your brother Esau is consoling himself by plotting to kill you. So now, my son, obey my voice and flee at once to my brother Laban in Haran.",Genesis 27:42-43
+flee,,quote,"Meanwhile Jacob left Beersheba and set out for Haran.",Genesis 28:10
+journey,,narrate,"Jacob walks north for days with almost nothing: a staff, a small pack and a horn of oil.",
+sunset,,quote,"On reaching a certain place, he spent the night there because the sun had set. …",Genesis 28:11
+sunset,Jacob,say,"No inn, no tent, nothing. {name}, can you find me a stone to rest my head on?",
+look_stone,,narrate,"A stone.",
+stone_heavy,,narrate,"Far too big. You can't even move it.",
+stone_sharp,,narrate,"Too sharp and jagged for a pillow.",
+stone_good,,narrate,"Smooth and flat. Just right! Bring it to Jacob.",
+pillow,,quote,"… And taking one of the stones from that place, he put it under his head and lay down to sleep.",Genesis 28:11
+dream,,quote,"And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder.",Genesis 28:12
+the_lord,,quote,"And there at the top the LORD was standing and saying,",Genesis 28:13
+the_lord,The LORD,quote,"I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie. Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring. Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.",Genesis 28:13-15
+the_lord,,think,"Jacob had lied and run away. God did not scold him here. He gave Jacob the same promise He gave Abraham and Isaac, and said: I am with you.",
+son_of_man,,note,"Long after, Jesus told one of His first followers that He Himself is the way between heaven and earth. Jesus often called Himself ""the Son of Man"":",
+son_of_man,Jesus,quote,"Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.",John 1:51
+woke,Jacob,quote,"Surely the LORD is in this place, and I was unaware of it.",Genesis 28:16
+woke,Jacob,quote,"How awesome is this place! This is none other than the house of God; this is the gate of heaven!",Genesis 28:17
+dawn,Jacob,say,"Morning already. {name}, would you bring me the oil from my pack?",
+look_pack,,narrate,"Jacob's small pack, with a horn of oil.",
+take_oil,,narrate,"A horn of olive oil. Take it to Jacob.",
+bethel,,quote,"Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it, and he called that place Bethel, though previously the city had been named Luz.",Genesis 28:18-19
+bethel,,note,"Bethel means ""house of God.""",
+vow,Jacob,quote,"If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear, so that I may return safely to my father’s house, then the LORD will be my God. And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.",Genesis 28:20-22
+farewell,,narrate,"Jacob picks up his staff and walks on toward Haran: alone, but not alone. Your device hums. Time to go.",
+disc_twonations,Rebekah,say,"Before my boys were born, they fought inside me. I asked the LORD why, and He told me.",
+disc_twonations,The LORD,quote,"Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.",Genesis 25:23
+disc_twins,Old servant,say,"I was there the day they were born! Esau first, red and hairy all over. Then Jacob, hanging on to his brother's heel.",
+disc_twins,,quote,"The first one came out red, covered with hair like a fur coat; so they named him Esau. After this, his brother came out grasping Esau’s heel; so he was named Jacob. …",Genesis 25:25-26
+disc_twins,,note,"The name Jacob sounds like the Hebrew word for ""heel."" Esau later used it to call him a cheat (Genesis 27:36).",
+disc_reap,Goatherd,say,"Rebekah had me pick out two of my best young goats this morning. Now I know why.",
+disc_reap,,note,"Jacob tricked his father. Years later his uncle Laban would trick Jacob (Genesis 29:25).",
+disc_reap,,note,"A letter, written long after:",
+disc_reap,,quote,"Do not be deceived: God is not to be mocked. Whatever a man sows, he will reap in return.",Galatians 6:7
+disc_slumber,,narrate,"A huge, quiet sky. Somewhere out there is Haran, and Jacob is going there alone.",
+disc_slumber,,note,"A song for travelers, written long after:",
+disc_slumber,,quote,"He will not allow your foot to slip; your Protector will not slumber. Behold, the Protector of Israel will neither slumber nor sleep.",Psalm 121:3-4
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Look, I am with you, and I will watch over you wherever you go …",Genesis 28:15
+game_verses,,quote,"Surely the LORD is in this place, and I was unaware of it.",Genesis 28:16
+end_truth,,quote,"Surely the LORD is in this place, and I was unaware of it.",Genesis 28:16
+end_think,,think,"Jacob had lied and run away, yet God met him with a promise: I am with you. God's kindness to Jacob was not earned. It never is.",
+end_bible,,note,"Hungry Esau sold his birthright to his brother Jacob for a bowl of stew. (25:27-34)",
+end_bible,,note,"When Isaac was old and blind, Jacob dressed as Esau and tricked him into giving him Esau's blessing. (27:1-29)",
+end_bible,,note,"Esau cried out, then planned to kill Jacob, so Jacob fled toward Haran. (27:30-28:10)",
+end_bible,,note,"At Bethel Jacob dreamed of a ladder to heaven. The LORD promised to be with him and bring him home. Jacob set up his stone as a pillar. (28:11-22)",
+end_imagined,,note,"You, and that you found Jacob's stone and fetched the oil.",
+end_imagined,,note,"The old servant and the goatherd, and you going along with Jacob. The Bible says only that Jacob left Beersheba.",
+end_imagined,,note,"How quickly Jacob reached Bethel. It is about 55 miles (90 km) from Beersheba, several days on foot.",
+end_left_out,,note,"Genesis 26: Isaac lived in Gerar and dug wells, and God repeated the promise to him.",
+end_left_out,,note,"Genesis 28:1-9: before Jacob left, Isaac knowingly blessed him again and sent him to find a wife among Rebekah's family.",

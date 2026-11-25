@@ -1,0 +1,81 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. The hills between Bethel and Ai again, but crowded now: sheep, goats and cattle everywhere you look.",
+arrive,,quote,"Now Lot, who was traveling with Abram, also had flocks and herds and tents. But the land was unable to support both of them while they stayed together, for they had so many possessions that they were unable to coexist.",Genesis 13:5-6
+arrive,,narrate,"Over at the well, two herdsmen are shouting at each other.",
+quarrel_abrams,Abram's herdsman,say,"Our flocks were here first! Lot's men take all the water.",
+quarrel_lots,Lot's herdsman,say,"There's no grass left on this whole hill! Your goats eat everything.",
+abrams_idle,Abram's herdsman,say,"Peace at last. My master is a good man.",
+lots_idle,Lot's herdsman,say,"We'll see what my master decides.",
+discord,,quote,"And there was discord between the herdsmen of Abram and the herdsmen of Lot. …",Genesis 13:7
+kinsmen,Abram,quote,"Please let there be no contention between you and me, or between your herdsmen and my herdsmen. After all, we are kinsmen. Is not the whole land before you? Now separate yourself from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left.",Genesis 13:8-9
+kinsmen,,think,"Abram was the older one. He could have taken the best land. Instead he let Lot choose, and trusted God with whatever was left.",
+abram_idle,Abram,say,"Land is not worth a quarrel, {name}. Not with family.",
+abram_night,Abram,say,"Can you count them? Neither can I.",
+lot_idle,Lot,say,"Any land I like? Let me have a look.",
+look_plain,,narrate,"Far below, the plain of the Jordan, green and well watered.",
+lot_looks,,quote,"And Lot looked out and saw that the whole plain of the Jordan, all the way to Zoar, was well watered like the garden of the LORD, like the land of Egypt. …",Genesis 13:10
+lot_looks,Lot,say,"Look at it, {name}! Green all the way down. That is the land for me.",
+parted,,quote,"So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company.",Genesis 13:11
+parted,,quote,"… Lot settled in the cities of the plain and pitched his tent toward Sodom. But the men of Sodom were wicked, sinning greatly against the LORD.",Genesis 13:12-13
+parted,,think,"Lot chose by what looked best. He did not stop to ask what God wanted, and soon his tent was near a wicked city.",
+lift_eyes,,quote,"After Lot had departed, the LORD said to Abram,",Genesis 13:14
+lift_eyes,The LORD,quote,"Now lift up your eyes from the place where you are, and look to the north and south and east and west, for all the land that you see, I will give to you and your offspring forever.",Genesis 13:14-15
+look_cairn,,narrate,"A pile of stones on a hilltop.",
+see_north,,narrate,"To the north: hill after hill, as far as you can see.",
+see_south,,narrate,"To the south: the hills roll down toward the dry Negev.",
+see_east,,narrate,"To the east: the green plain of the Jordan, where Lot has gone.",
+see_west,,narrate,"To the west: the hills fall away toward the Great Sea, too far off to see.",
+dust,The LORD,quote,"I will make your offspring like the dust of the earth, so that if one could count the dust of the earth, then your offspring could be counted. Get up and walk around the land, through its length and breadth, for I will give it to you.",Genesis 13:16-17
+to_mamre,,quote,"So Abram moved his tent and went to live near the Oaks of Mamre at Hebron, where he built an altar to the LORD.",Genesis 13:18
+after,,narrate,"Time passes. There has been a war between the kings of the land. Lot was carried off, and Abram went after him and rescued him. Now it is night at Mamre.",
+after,,quote,"After these events, the word of the LORD came to Abram in a vision:",Genesis 15:1
+shield,The LORD,quote,"Do not be afraid, Abram. I am your shield, your very great reward.",Genesis 15:1
+heir,Abram,quote,"O Lord GOD, what can You give me, since I remain childless, and the heir of my house is Eliezer of Damascus? | Behold, You have given me no offspring, so a servant in my household will be my heir.",Genesis 15:2-3
+heir,The LORD,quote,"This one will not be your heir, but one who comes from your own body will be your heir.",Genesis 15:4
+heir,,quote,"And the LORD took him outside …",Genesis 15:5
+heir,The LORD,quote,"Now look to the heavens and count the stars, if you are able.",Genesis 15:5
+heir,,narrate,"Abram looks up. So do you. Go on: try it.",
+counted_here,,narrate,"You have already tried counting from here. Try another hilltop.",
+count_1,,narrate,"You start counting. Ten, twenty, fifty... a hundred... and that is just one small patch of sky.",
+count_2,,narrate,"Two hundred... three hundred... you lose your place and have to start again.",
+count_3,,narrate,"More and more appear the longer you look. You could count for a lifetime of nights and never finish.",
+so_shall,The LORD,quote,"So shall your offspring be.",Genesis 15:5
+so_shall,,think,"Abram had no children at all. God promised him more descendants than the stars he could not count.",
+believed,,quote,"Abram believed the LORD, and it was credited to him as righteousness.",Genesis 15:6
+believed,,think,"Abram was counted right with God because he believed God's promise, not because he had earned it.",
+believed,,think,"The New Testament says these words were written for us too: for everyone who trusts in Jesus (Romans 4:23-24).",
+farewell,Abram,say,"Every star a promise, {name}. Whenever you see them, remember: God keeps His word.",
+farewell,,narrate,"Your device hums. Time to go.",
+sarai_day,Sarai,say,"So many animals, {name}, and still no child in our tent.",
+disc_seed,Sarai,say,"Children as many as the stars? I would be glad of just one.",
+disc_seed,,note,"Long after, the apostle Paul wrote that everyone who belongs to Jesus is part of Abram's family:",
+disc_seed,,quote,"And if you belong to Christ, then you are Abraham’s seed and heirs according to the promise.",Galatians 3:29
+disc_eliezer,Eliezer,say,"I am Eliezer, from Damascus. I serve in Abram's household. If he never has a son, all of this will pass to me one day.",
+disc_eliezer,,quote,"… the heir of my house is Eliezer of Damascus …",Genesis 15:2
+disc_eliezer,,note,"In Abram's time, a man with no son could make a trusted servant his heir.",
+disc_wealth,,narrate,"Cattle, sheep, goats, donkeys and camels, more than you can count.",
+disc_wealth,,quote,"And Abram had become extremely wealthy in livestock and silver and gold.",Genesis 13:2
+disc_rescue,Servant,say,"You should have seen it! Four kings carried Lot off, and Abram went after them with every man of his household.",
+disc_rescue,,quote,"… he mobilized the 318 trained men born in his household, and they set out in pursuit as far as Dan.",Genesis 14:14
+disc_rescue,Servant,say,"And on the way home, the king of Salem came out to meet him.",
+disc_rescue,,quote,"Then Melchizedek king of Salem brought out bread and wine—since he was priest of God Most High—",Genesis 14:18
+disc_rescue,,note,"Long after, the letter to the Hebrews called Melchizedek a priest ""like the Son of God"" (Hebrews 7:3): a picture, ahead of time, of Jesus.",
+disc_names,Shepherd boy,say,"I know every one of my sheep by name. But the stars? Nobody could name them all.",
+disc_names,,note,"A psalm, written long after:",
+disc_names,,quote,"He determines the number of the stars; He calls them each by name.",Psalm 147:4
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Abram believed the LORD, and it was credited to him as righteousness.",Genesis 15:6
+game_verses,,quote,"He determines the number of the stars; He calls them each by name.",Psalm 147:4
+end_truth,,quote,"Abram believed the LORD, and it was credited to him as righteousness.",Genesis 15:6
+end_think,,think,"Abram could not see how God would keep His promise. He believed anyway, and God counted his faith as righteousness.",
+end_bible,,note,"Abram's and Lot's flocks grew too big to share the land, and their herdsmen quarreled. Abram let Lot choose, and Lot chose the green plain of the Jordan. (13:5-13)",
+end_bible,,note,"God told Abram that all the land he could see would belong to his offspring, as many as the dust of the earth. Abram moved to the Oaks of Mamre. (13:14-18)",
+end_bible,,note,"Later, God told Abram not to be afraid, and promised him a son of his own. (15:1-4)",
+end_bible,,note,"He took Abram outside to count the stars: so would his offspring be. Abram believed the LORD. (15:5-6)",
+end_imagined,,note,"You, and that you looked out from the hilltops and tried to count the stars.",
+end_imagined,,note,"What the herdsmen, Lot, Eliezer, the shepherd boy and the servant by the fire said.",
+end_imagined,,note,"That the night of the stars comes soon after the move to Mamre. Genesis 14 tells of a war in between, and Genesis 15 says only ""after these events"".",
+end_left_out,,note,"Genesis 14: Abram rescued Lot from four kings and was blessed by Melchizedek (the servant by the fire tells of it).",
+end_left_out,,note,"Genesis 15:7-21: God made a covenant with Abram, passing between the pieces of his offering as a smoking firepot and a flaming torch.",
+end_left_out,,note,"Genesis 16: Sarai gave her servant Hagar to Abram, and Hagar's son Ishmael was born. God saw Hagar in the desert and cared for her.",

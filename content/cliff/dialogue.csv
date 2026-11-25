@@ -1,0 +1,61 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story is about a battle. The Bible says that Jonathan and his armor-bearer killed about twenty men, and that panic spread and the Philistine army fled. The game shows the climb, and the Philistines running away, but not the fighting itself.",
+arrive,,narrate,"The device hums. A dry hill country in the land of Benjamin, with rocky ridges and thorny brush. A small army sits under a pomegranate tree, looking worried. Over the valley, on the far side, rises a high cliff with a Philistine outpost on its top.",
+arrive,,narrate,"King Saul has been on the throne for a couple of years. The Philistines are much stronger. Israel is worried, and hiding in caves and holes.",
+jonathan_idle,Jonathan,say,"We cannot just sit here, doing nothing.",
+no_blacksmith,,quote,"And no blacksmith could be found in all the land of Israel, because the Philistines had said, “The Hebrews must not be allowed to make swords or spears.”",1 Samuel 13:19
+sharpen,,quote,"Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles.",1 Samuel 13:20
+only_two,,quote,So on the day of battle not a sword or spear could be found in the hands of the troops with Saul and Jonathan; only Saul and his son Jonathan had weapons.,1 Samuel 13:22
+camp_one,,quote,"Meanwhile, Saul was staying under the pomegranate tree in Migron on the outskirts of Gibeah. And the troops who were with him numbered about six hundred men …",1 Samuel 14:2
+secret,,quote,"One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father.",1 Samuel 14:1
+secret,Jonathan,say,"I am Jonathan, {name}, the king's son. Do not tell my father, but I am going over there. Come with me, if you dare, and keep very quiet.",
+cliffs,,quote,"Now there were cliffs on both sides of the pass that Jonathan intended to cross to reach the Philistine outpost. One was named Bozez and the other Seneh. One cliff stood to the north toward Michmash, and the other to the south toward Geba.",1 Samuel 14:4-5
+perhaps,Jonathan,quote,"Come, let us cross over to the outpost of these uncircumcised men. Perhaps the LORD will work on our behalf. Nothing can hinder the LORD from saving, whether by many or by few.",1 Samuel 14:6
+bearer_replies,The armor-bearer,quote,Do all that is in your heart. Go ahead; I am with you heart and soul.,1 Samuel 14:7
+sign,Jonathan,quote,"Very well, | we will cross over toward these men and show ourselves to them. If they say, ‘Wait until we come to you,’ then we will stay where we are and will not go up to them. But if they say, ‘Come on up,’ then we will go up, because this will be our sign that the LORD has delivered them into our hands.",1 Samuel 14:8-10
+showed,,quote,"So the two of them showed themselves to the outpost of the Philistines, who exclaimed, “Look, the Hebrews are coming out of the holes in which they were hiding!”",1 Samuel 14:11
+holes,,narrate,Philistine soldiers lean out over the wall at the top of the cliff and point at you. They laugh.,
+come_up,The Philistines,quote,"Come on up, and we will teach you a lesson!",1 Samuel 14:12
+follow_me,Jonathan,quote,"Follow me, | for the LORD has delivered them into the hand of Israel.",1 Samuel 14:12
+follow_me,Jonathan,say,"That is our sign, {name}. They said to come up. Now we climb. Stay close behind us.",
+hold_idle,,narrate,It is not time to climb yet.,
+hold_tap,,narrate,You grab the handhold and haul yourself up the rock.,
+climbed,,quote,"So Jonathan climbed up on his hands and feet, with his armor-bearer behind him.",1 Samuel 14:13
+assault,,quote,"And the Philistines fell before Jonathan, and his armor-bearer followed and finished them off. In that first assault, Jonathan and his armor-bearer struck down about twenty men in about half an acre of land.",1 Samuel 14:13-14
+assault,,narrate,"You stay low behind a boulder at the top of the cliff, with your eyes closed and your hands over your ears. You hear shouts, and the clang of metal. And then it is over.",
+panic,,quote,"Then panic struck the Philistines in the camp, in the field, and among all the people. Even those in the outposts and raiding parties trembled. Indeed, the earth quaked, and panic spread from God.",1 Samuel 14:15
+watchmen,,quote,"Now when Saul’s watchmen at Gibeah in Benjamin looked and saw the troops melting away and scattering in every direction, Saul said to the troops who were with him, “Call the roll and see who has left us.”",1 Samuel 14:16-17
+roll,,quote,"And when they had called the roll, they saw that Jonathan and his armor-bearer were not there.",1 Samuel 14:17
+ark_ask,,quote,"Then Saul said to Ahijah, “Bring the ark of God.” (For at that time it was with the Israelites.) While Saul was talking to the priest, the commotion in the Philistine camp continued to increase. So Saul said to the priest, “Withdraw your hand.”",1 Samuel 14:18-19
+confusion,,quote,"Then Saul and all his troops assembled and marched to the battle, and they found the Philistines in total confusion, with each man wielding the sword against his neighbor.",1 Samuel 14:20
+hebrews_join,,quote,"And the Hebrews who had previously gone up into the surrounding camps to join the Philistines now went over to the Israelites who were with Saul and Jonathan. When all the Israelites who had been hiding in the hill country of Ephraim heard that the Philistines were fleeing, they also joined the battle in close pursuit.",1 Samuel 14:21-22
+saved,,quote,"So the LORD saved Israel that day, and the battle moved on beyond Beth-aven.",1 Samuel 14:23
+saved,,think,"Jonathan did not wait for a bigger army. He trusted that God could work through two men as easily as through six hundred. He was willing to be brave, and God used his courage.",
+romans,,note,"Long after, the apostle Paul asked a question that Jonathan would have understood:",
+romans,,quote,"What then shall we say in response to these things? If God is for us, who can be against us?",Romans 8:31
+farewell,Jonathan,say,"I did not know what would happen, {name}. I only knew that the LORD can save by many or by few. I had to try.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_bearer,Armor-bearer,say,"He said ""Follow me,"" and I did. I am not brave, {name}, but I follow someone who is. That is enough.",
+disc_bearer,,quote,Do all that is in your heart. Go ahead; I am with you heart and soul.,1 Samuel 14:7
+disc_saul,Saul,say,I am sitting under my pomegranate tree with six hundred men. Waiting. I do not know what else to do.,
+disc_saul,,quote,"Meanwhile, Saul was staying under the pomegranate tree in Migron on the outskirts of Gibeah.",1 Samuel 14:2
+disc_ahijah,Ahijah,say,"I am the priest here, {name}. I wear the ephod, and carry the ark when it is needed. My grandfather was Phinehas, Eli's son.",
+disc_ahijah,,quote,"… including Ahijah, who was wearing an ephod. He was the son of Ichabod’s brother Ahitub son of Phinehas, the son of Eli the priest of the LORD in Shiloh.",1 Samuel 14:3
+disc_trooper,Soldier,say,"I have a stick and a rock. That is my army gear, {name}. Saul and Jonathan have the only swords in the whole army.",
+disc_trooper,,quote,So on the day of battle not a sword or spear could be found in the hands of the troops with Saul and Jonathan …,1 Samuel 13:22
+disc_smith,Farmer,say,"Every time my plow needs sharpening, I have to walk down to the Philistines and pay them. It is humiliating, {name}.",
+disc_smith,,quote,"Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles.",1 Samuel 13:20
+disc_hider,Man in hiding,say,"I have been hiding in a hole for months, {name}. I never thought I would see Israelites coming out into the open.",
+disc_hider,,quote,"Look, the Hebrews are coming out of the holes in which they were hiding!",1 Samuel 14:11
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Nothing can hinder the LORD from saving, whether by many or by few.",1 Samuel 14:6
+end_truth,,quote,"Nothing can hinder the LORD from saving, whether by many or by few.",1 Samuel 14:6
+end_think,,think,"Jonathan had no sword, no army and no permission, but he had faith. He took a step and trusted God to do the rest. Sometimes God is waiting for someone to be brave and take the first step.",
+end_bible,,note,Israel had few weapons because the Philistines would not let them make any. (13:19-22),
+end_bible,,note,"Jonathan and his armor-bearer crossed the pass to the Philistine outpost, saying that nothing can hinder the LORD from saving by many or by few. (14:1-12)",
+end_bible,,note,"They climbed the cliff, and panic spread through the Philistine army, which fled. The LORD saved Israel that day. (14:13-23)",
+end_imagined,,note,"You, and that you climbed the cliff behind Jonathan.",
+end_imagined,,note,"The farmer, the soldier, the man in hiding and the armor-bearer's words. The armor-bearer is not named in the Bible.",
+end_imagined,,note,"The climb. The Bible says that Jonathan climbed up on his hands and feet, with his armor-bearer behind him. It does not describe the cliff.",
+end_left_out,,note,"1 Samuel 14:24-46: Saul made a rash vow that no one should eat that day. Jonathan, who had not heard it, ate some honey. The people saved him from being put to death.",

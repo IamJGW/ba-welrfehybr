@@ -1,0 +1,87 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A dry, dusty town in the hills of Moab, east of the Salt Sea. A woman in plain gray stands in the doorway of a mud house, looking out at the road that leads west, toward her homeland.",
+arrive,,narrate,"This is the time of the judges, when Israel had no king and many people did what seemed right to them. It is also a time of famine, and of quiet, ordinary grief.",
+naomi_idle,Naomi,say,I have buried my husband and both my sons in this country. I am ready to go home.,
+ruth_idle,Ruth,say,I will go wherever Naomi goes.,
+orpah_idle,Orpah,say,I love her. I do. But I cannot leave my family.,
+boaz_idle,Boaz,say,The LORD be with you.,
+elimelech,,quote,"In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.",Ruth 1:1
+sons,,quote,"The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.",Ruth 1:2
+died,,quote,"Then Naomi’s husband Elimelech died, and she was left with her two sons, who took Moabite women as their wives, one named Orpah and the other named Ruth. And after they had lived in Moab about ten years, both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.",Ruth 1:3-5
+heard,,quote,"When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.",Ruth 1:6
+pack_ask,Naomi,say,"{name}, I am an old woman with very little, but what I have, I take home. Would you help me pack it?",
+pack_idle,,narrate,It is not time to pack yet.,
+pack_tap,,narrate,You tie it up and add it to the bundles for the journey.,
+road_start,,quote,"Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah.",Ruth 1:7
+go_back,Naomi,quote,"Go back, each of you to your mother’s home. May the LORD show you loving devotion, as you have shown to your dead and to me. May the LORD enable each of you to find rest in the home of your new husband.",Ruth 1:8-9
+kiss,,quote,"And she kissed them as they wept aloud and said, “Surely we will return with you to your people.”",Ruth 1:9-10
+naomi_urges,Naomi,quote,"Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands? … No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.",Ruth 1:11-13
+orpah_goes,,quote,"Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her. “Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.”",Ruth 1:14-15
+vow,Ruth,quote,"Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.",Ruth 1:16
+vow2,Ruth,quote,"Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.",Ruth 1:17
+stopped_persuading,,quote,"When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her.",Ruth 1:18
+stopped_persuading,,think,"Ruth left her home, her family and her gods, for a mother-in-law who had nothing to offer her. She said that Naomi's God would be hers. That is a great promise.",
+arrive_bethlehem,,narrate,"A long walk later, the device lands you in a small town on a green hillside, where the barley fields are ready for harvest. Bethlehem. Naomi walks into the street, with Ruth behind her.",
+stirred,,quote,"So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”",Ruth 1:19
+mara,Naomi,quote,"Do not call me Naomi, | Call me Mara, because the Almighty has dealt quite bitterly with me.",Ruth 1:20
+empty,Naomi,quote,"I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.",Ruth 1:21
+empty,,think,"Naomi means ""pleasant"". Mara means ""bitter"". Naomi was honest with God about how she felt, and the Bible does not tell her to stop. The story is only beginning, and God had not left her.",
+barley_harvest,,quote,So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.,Ruth 1:22
+glean_ask,,quote,"And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied.",Ruth 2:2
+glean_ask,Ruth,say,"{name}, would you come with me? I want to find food for Naomi. Poor people may follow the harvesters and gather what they leave. I will glean the ears that fall.",
+glean_idle,,narrate,It is not time to glean yet.,
+glean_tap,,narrate,You pick up the ears of barley that the harvesters left behind.,
+happened_to_come,,quote,"So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech.",Ruth 2:3
+happened_to_come,,think,"The Bible says Ruth ""happened"" to come to Boaz's field. It looked like an accident, but nothing in this story is an accident.",
+boaz_arrives,,quote,"Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.",Ruth 2:4
+whose_young_woman,,quote,"And Boaz asked the foreman of his harvesters, “Whose young woman is this?”",Ruth 2:5
+foreman,Foreman,quote,"She is the Moabitess who returned with Naomi from the land of Moab. She has said, ‘Please let me glean and gather among the sheaves after the harvesters.’ So she came out and has continued from morning until now, except that she rested a short time in the shelter.",Ruth 2:6-7
+stay_here,Boaz,quote,"Listen, my daughter. Do not go and glean in another field, and do not go away from this place, but stay here close to my servant girls. Let your eyes be on the field they are harvesting, and follow along after these girls. Indeed, I have ordered the young men not to touch you. And when you are thirsty, go and drink from the jars the young men have filled.",Ruth 2:8-9
+why_favor,Ruth,quote,"Why have I found such favor in your eyes that you should take notice of me, even though I am a foreigner?",Ruth 2:10
+boaz_knows,Boaz,quote,"I have been made fully aware of all you have done for your mother-in-law since the death of your husband, how you left your father and mother and the land of your birth, and how you came to a people you did not know before. May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.",Ruth 2:11-12
+mealtime,,quote,"At mealtime Boaz said to her, “Come over here; have some bread and dip it into the vinegar sauce.” So she sat down beside the harvesters, and he offered her roasted grain, and she ate and was satisfied and had some left over.",Ruth 2:14
+leave_extra,Boaz,quote,"Even if she gathers among the sheaves, do not insult her. Rather, pull out for her some stalks from the bundles and leave them for her to gather. Do not rebuke her.",Ruth 2:15-16
+leave_extra,,narrate,"You watch the young men walk past, pulling out stalks as if by accident, and dropping them on the ground. Boaz is making sure that there is plenty for her.",
+extra_idle,,narrate,There are no extra stalks yet.,
+extra_tap,,narrate,You gather up the stalks that Boaz left behind for Ruth.,
+evening,,quote,"So Ruth gathered grain in the field until evening. And when she beat out what she had gleaned, it was about an ephah of barley.",Ruth 2:17
+beat_out,,think,"An ephah is about a bucketful of barley, many days' food for two women. God gave Ruth and Naomi their daily bread through the kindness of a stranger.",
+brought_home,,quote,"She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. And she brought out what she had saved from her meal and gave it to Naomi.",Ruth 2:18
+where_glean,,quote,"Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said.",Ruth 2:19
+kinsman,Naomi,quote,"May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead. | The man is a close relative. He is one of our kinsman-redeemers.",Ruth 2:20
+stay_with,Naomi,quote,"My daughter, it is good for you to work with his young women, so that nothing will happen to you in another field.",Ruth 2:22
+stay_with,,quote,So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law.,Ruth 2:23
+citizen,,note,"Ruth was a foreigner. Long after, Paul wrote to people who were foreigners to God's people:",
+citizen,,quote,"Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household,",Ephesians 2:19
+farewell,Naomi,say,"For the first time in years, {name}, I think there might be some hope. Thank you for being here with us.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_foreman,Foreman,say,"She has been working since morning, and she has barely stopped. I thought that Boaz should know about her.",
+disc_foreman,,quote,"So she came out and has continued from morning until now, except that she rested a short time in the shelter.",Ruth 2:7
+disc_girl,Servant girl,say,"Boaz told us to keep Ruth close, and to look after her. He said no one was to touch her. I am glad. She is a good person to work beside.",
+disc_girl,,quote,"Do not go and glean in another field, and do not go away from this place, but stay here close to my servant girls.",Ruth 2:8
+disc_woman,Woman,say,Is that really Naomi? She has changed so much since she left. And who is that young woman beside her?,
+disc_woman,,quote,"When they entered Bethlehem, the whole town was stirred because of them …",Ruth 1:19
+disc_woman2,Woman,say,Mara. Bitter. Poor woman. I do not know what to say to her.,
+disc_woman2,,quote,"Call me Mara, because the Almighty has dealt quite bitterly with me.",Ruth 1:20
+disc_moab,Moabite neighbor,say,"You are watching Naomi leave? She was a good neighbor. Her daughter-in-law Ruth is a Moabite like me, and she is going to a foreign people.",
+disc_moab,,quote,"… who took Moabite women as their wives, one named Orpah and the other named Ruth.",Ruth 1:4
+disc_child,Child,say,It has not rained in a long time. There is nothing to eat. Mother says Judah is better. Do you think it is?,
+disc_child,,quote,"In the days when the judges ruled, there was a famine in the land.",Ruth 1:1
+game_glean_intro,,quote,"So Ruth gathered grain in the field until evening. And when she beat out what she had gleaned, it was about an ephah of barley.",Ruth 2:17
+game_glean_intro,,note,"Walk behind the harvesters, and press Space to gather the ears they leave behind. Watch for the golden stalks that Boaz's young men leave for you on purpose.",
+game_glean_how,,note,"Arrow keys to walk. Space to gather the ears near you",
+game_glean_gift,,note,"Boaz's young men have left some stalks for you!",
+game_glean_done,,quote,"Rather, pull out for her some stalks from the bundles and leave them for her to gather.",Ruth 2:16
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,Do not urge me to leave you or to turn from following you.,Ruth 1:16
+game_verses,,quote,"For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.",Ruth 1:16
+end_truth,,quote,"… your people will be my people, and your God will be my God.",Ruth 1:16
+end_think,,think,"Ruth stayed with Naomi when it would have been easier to go. God saw her loyalty and kindness, and Boaz noticed, too. God uses ordinary kindness to take care of His people.",
+end_bible,,note,"Elimelech's family went to Moab during a famine. Elimelech and his sons died, and Naomi was left with her daughters-in-law, Orpah and Ruth. (1:1-5)",
+end_bible,,note,"Naomi returned to Bethlehem. Orpah went back, but Ruth clung to Naomi and promised, ""Your people will be my people, and your God will be my God."" (1:6-22)",
+end_bible,,note,"Ruth gleaned in the field of Boaz, a relative of Naomi's husband. Boaz was kind to her and made sure she had enough. (2:1-23)",
+end_imagined,,note,"You, and that you packed Naomi's things and gleaned with Ruth.",
+end_imagined,,note,"The foreman's and servant girl's words, the women of the town and the neighbor and child in Moab. The Bible does not name them.",
+end_imagined,,note,The road between Moab and Bethlehem. The Bible says only that they traveled until they came to Bethlehem.,
+end_left_out,,note,"Ruth 3-4: Naomi's plan, Ruth at the threshing floor, Boaz at the town gate, the wedding, and the birth of Obed. That is the next story.",

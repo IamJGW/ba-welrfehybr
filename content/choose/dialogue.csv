@@ -1,0 +1,82 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A broad valley between two high mountains, Ebal and Gerizim, shining in the afternoon sun. An enormous crowd covers the valley: families, elders, soldiers and children, from every corner of the land. Somewhere in the middle, an old man stands under a great oak tree.",
+arrive,,narrate,"Years have passed since Jericho. Joshua is old, and the Israelites live in the land that God promised. He has called them all to Shechem for one last time.",
+joshua_idle,Joshua,say,Gather round. I have something to say to you all.,
+assembled,,quote,"Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God.",Joshua 24:1
+banners_ask,Joshua,say,"{name}, thank you for coming. I am an old man, and I want every tribe to be here. Would you help me set up the banners, so they know where to stand?",
+banner_idle,,narrate,It is not time to set up the banners yet.,
+banner_tap,,narrate,You drive the banner pole into the ground and unfurl the cloth. A tribe will gather here.,
+banners_done,Joshua,say,"Good. Now every tribe has its place. But I have a few more things for you to do before I speak. Look at the stones on the hillside, {name}. Each one reminds us of something.",
+remember_start,,quote,"And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers, including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods.",Joshua 24:2
+stone_idle,,narrate,The stones remind the people of their story. Joshua has not yet asked you to look at them.,
+stone_tap,,narrate,You run your hand over the stone.,
+recall_abraham,,quote,"But I took your father Abraham from beyond the Euphrates and led him through all the land of Canaan, and I multiplied his descendants. I gave him Isaac,",Joshua 24:3
+recall_abraham,,note,"You remember Abraham, who left Haran with nothing but God's word.",
+recall_jacob,,quote,"… and to Isaac I gave Jacob and Esau. I gave Esau Mount Seir to possess, but Jacob and his sons went down to Egypt.",Joshua 24:4
+recall_jacob,,note,"You remember Jacob at Bethel, and his twelve sons, and Joseph.",
+recall_moses,,quote,"Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, and afterward I brought you out.",Joshua 24:5
+recall_moses,,note,"You remember a baby in a basket, a burning bush, ten plagues, and a night of lamb and blood.",
+recall_sea,,quote,"So your fathers cried out to the LORD, and He put darkness between you and the Egyptians, over whom He brought the sea and engulfed them. Your very eyes saw what I did to the Egyptians. Then you lived in the wilderness for a long time.",Joshua 24:7
+recall_sea,,note,"You remember the Red Sea, the manna, the mountain of God, and the forty years in the wilderness.",
+recall_jordan,,quote,"After this, you crossed the Jordan and came to Jericho. The people of Jericho fought against you, as did the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites, and I delivered them into your hand.",Joshua 24:11
+recall_jordan,,note,"You remember the river standing up in a heap, and the great wall that fell.",
+recall_land,,quote,"So I gave you a land on which you did not toil and cities that you did not build, and now you live in them and eat from vineyards and olive groves that you did not plant.’",Joshua 24:13
+recall_land,,think,All of this was a gift. The people had not earned any of it. God had done everything.,
+remember_end,Joshua,say,"Do you see, {name}? It is the whole story. Everything good that Israel has ever had came from the LORD. Now I will ask them what they will do about it.",
+fear_the_lord,,quote,"Now, therefore, fear the LORD and serve Him in sincerity and truth; cast aside the gods your fathers served beyond the Euphrates and in Egypt, and serve the LORD.",Joshua 24:14
+challenge,,quote,"But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your fathers served beyond the Euphrates, or the gods of the Amorites in whose land you are living.",Joshua 24:15
+choice,,narrate,"Joshua asks the whole valley, and he is looking at you too. Whom will you serve?",
+choice,,answer,We will serve the LORD!,
+choice,,option,The gods of the nations beyond the Euphrates.,
+choice,,option,The gods of the Amorites.,
+choice_again,Joshua,say,"No, no, {name}. Think about everything He has done for us. Whom will you serve?",
+as_for_me,Joshua,quote,"As for me and my house, we will serve the LORD!",Joshua 24:15
+people_reply,,quote,"The people replied, “Far be it from us to forsake the LORD to serve other gods! For the LORD our God brought us and our fathers out of the land of Egypt, out of the house of slavery, and performed these great signs before our eyes.",Joshua 24:16-17
+people_reply,The people,quote,"And the LORD drove out before us all the nations, including the Amorites who lived in the land. We too will serve the LORD, because He is our God!",Joshua 24:18
+not_able,,quote,"But Joshua said to the people, “You are not able to serve the LORD, for He is a holy God; He is a jealous God; He will not forgive your rebellion or your sins.",Joshua 24:19
+not_able,Joshua,quote,"If you forsake the LORD and serve foreign gods, He will turn and bring disaster on you and consume you, even after He has been good to you.",Joshua 24:20
+no_we_will,The people,quote,No! | We will serve the LORD!,Joshua 24:21
+witnesses,,quote,"Then Joshua told them, “You are witnesses against yourselves that you have chosen to serve the LORD.” “We are witnesses!” they said.",Joshua 24:22
+get_rid,Joshua,quote,"Now, therefore, | get rid of the foreign gods among you and incline your hearts to the LORD, the God of Israel.",Joshua 24:23
+get_rid,Joshua,say,"The foreign gods, {name}. Some families still have little idols hidden in their tents. Help me gather them.",
+idol_idle,,narrate,It is not time to gather the idols yet.,
+idol_tap,,narrate,"You pick up the little idol. It is lighter than you expected, and no more powerful than a piece of wood.",
+idols_done,,narrate,The idols are piled up and carried away. Joshua stands before the people and waits.,
+we_will_obey,,quote,"So the people said to Joshua, “We will serve the LORD our God and obey His voice.”",Joshua 24:24
+covenant,,quote,"On that day Joshua made a covenant for the people, and there at Shechem he established for them a statute and ordinance.",Joshua 24:25
+stone_set,,quote,Joshua recorded these things in the Book of the Law of God. Then he took a large stone and set it up there under the oak that was near the sanctuary of the LORD.,Joshua 24:26
+stone_set,Joshua,quote,"You see this stone. It will be a witness against us, for it has heard all the words the LORD has spoken to us, and it will be a witness against you if you ever deny your God.",Joshua 24:27
+sent_away,,quote,"Then Joshua sent the people away, each to his own inheritance.",Joshua 24:28
+died,,quote,"Some time later, Joshua son of Nun, the servant of the LORD, died at the age of 110. And they buried him in the land of his inheritance, at Timnath-serah in the hill country of Ephraim, north of Mount Gaash.",Joshua 24:29-30
+served,,quote,Israel had served the LORD throughout the days of Joshua and of the elders who outlived him and who had experienced all the works that the LORD had done for Israel.,Joshua 24:31
+bones,,quote,"And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants.",Joshua 24:32
+bones,,think,"Joseph had asked for his bones to be carried out of Egypt. Four hundred years later, they came to rest in the land his father Jacob had bought. God had kept the promise.",
+who_else,,note,"Long after, many people turned away from Jesus. He asked His twelve friends, ""Do you want to leave too?""",
+who_else,Peter,quote,"Lord, to whom would we go? You have the words of eternal life. We believe and know that You are the Holy One of God.",John 6:68-69
+farewell,Elder,say,"We served the LORD as long as Joshua lived, {name}. I hope we keep on doing it. It is not always easy.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_elder,Elder,say,"I have never seen so many people in one place, {name}. All twelve tribes, all together, with their elders and officers.",
+disc_elder,,quote,"He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God.",Joshua 24:1
+disc_judge,Judge,say,"Judges, officers, leaders. We are the ones who must keep the law in every town. It is a heavy job.",
+disc_judge,,quote,"He summoned the elders, leaders, judges, and officers of Israel …",Joshua 24:1
+disc_family,Father,say,"I have been talking about this with my wife all week, {name}. As for me and my house. I want to be able to say it too, and mean it.",
+disc_family,,quote,"As for me and my house, we will serve the LORD!",Joshua 24:15
+disc_wife,Mother,say,Do you know that the vineyard we eat from was planted by someone else? We did not plant a single vine. God gave it to us.,
+disc_wife,,quote,… and now you live in them and eat from vineyards and olive groves that you did not plant.,Joshua 24:13
+disc_youth,Young man,say,"Serve in sincerity and truth. Not just saying it, {name}. Meaning it. I have been thinking about that.",
+disc_youth,,quote,"Now, therefore, fear the LORD and serve Him in sincerity and truth …",Joshua 24:14
+disc_girl,Girl,say,"Why is Joshua putting up a big rock, {name}? The rock cannot hear. Can it?",
+disc_girl,,quote,"It will be a witness against us, for it has heard all the words the LORD has spoken to us …",Joshua 24:27
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"As for me and my house, we will serve the LORD!",Joshua 24:15
+game_verses,,quote,"Now, therefore, fear the LORD and serve Him in sincerity and truth …",Joshua 24:14
+end_truth,,quote,"As for me and my house, we will serve the LORD!",Joshua 24:15
+end_think,,think,"Joshua reminded the people of everything God had done, and then asked them to choose. Choosing to follow God is not a one-time thing. It is something we do again every day.",
+end_bible,,note,Joshua gathered all the tribes at Shechem and reminded them what God had done for them from Abraham to the land. (24:1-13),
+end_bible,,note,"He asked them to choose whom to serve, and said ""As for me and my house, we will serve the LORD."" The people said they would too. (24:14-24)",
+end_bible,,note,"Joshua made a covenant and set up a large stone as a witness. He died at 110, and Joseph's bones were buried at Shechem. (24:25-33)",
+end_imagined,,note,"You, and that you set up the banners and gathered the idols.",
+end_imagined,,note,"The father, the wife, the young man, the girl and the others, and what they said.",
+end_imagined,,note,Six stones that remind the people of their story. The Bible tells the story in Joshua's words and does not mention stones on the hillside.,
+end_left_out,,note,"Joshua 23: Joshua's earlier speech, and the whole conquest of the land in chapters 7-12: Ai, Gibeon, and the wars of the north and south. The next book, Judges, shows how often the people forgot what they promised here.",

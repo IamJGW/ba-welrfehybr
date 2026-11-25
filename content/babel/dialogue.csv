@@ -1,0 +1,60 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A flat, dusty plain, smoke from a hundred kilns, and in the middle, a tower going up and up.",
+arrive,,quote,"Now the whole world had one language and a common form of speech.",Genesis 11:1
+arrive,,quote,"And as people journeyed eastward, they found a plain in the land of Shinar and settled there.",Genesis 11:2
+foreman,The builders,quote,"Come, let us make bricks and bake them thoroughly.",Genesis 11:3
+foreman,The foreman,say,"You there, {name}! Every hand helps. Dig clay, bake it, and stack the bricks on the tower.",
+foreman_idle,The foreman,say,"Higher! Always higher!",
+look_clay,,narrate,"Wet, sticky clay.",
+clay_take,,narrate,"A lump of wet clay. Bake it in the kiln.",
+hands_full,,narrate,"Your hands are full.",
+look_kiln,,narrate,"The kiln is roaring hot.",
+kiln_bake,,narrate,"You set the clay in the kiln. It glows red...",
+kiln_ready,,narrate,"A hard, baked brick! Take it to the tower.",
+kiln_done,,narrate,"That brick is already baked. Take it to the tower.",
+look_stack,,narrate,"A stack of bricks, waiting to go up.",
+stack_clay,,narrate,"That clay needs baking first.",
+stack_empty,,narrate,"Bring a baked brick.",
+stack_set,,narrate,"Up it goes onto the tower.",
+name,The builders,quote,"Come, | let us build for ourselves a city with a tower that reaches to the heavens, that we may make a name for ourselves and not be scattered over the face of all the earth.",Genesis 11:4
+name,,think,"They wanted to make a great name for themselves, instead of honoring God's name.",
+came_down,,quote,"Then the LORD came down to see the city and the tower that the sons of men were building.",Genesis 11:5
+came_down,The LORD,quote,"If they have begun to do this as one people speaking the same language, then nothing they devise will be beyond them. Come, let Us go down and confuse their language, so that they will not understand one another’s speech.",Genesis 11:6-7
+builder_1,Builder,say,"One more row today!",
+builder_2,Builder,say,"From up there you will see the whole world.",
+builder_3,Builder,say,"Bricks! We need more bricks!",
+babble_1,Builder,say,"Gorra fen tikka? Mo mo zandu! Plif?",
+babble_1,,narrate,"He points and waves his arms. You can't understand a word.",
+babble_2,Builder,say,"Ulla brek-brek! Shonna wib dap!",
+babble_2,,narrate,"She looks just as confused as you are.",
+babble_3,Builder,say,"Tavi? Tavi nok? Zem-zem farrabo!",
+babble_3,,narrate,"Nobody can understand anybody. The builders put down their tools.",
+scattered,,quote,"So the LORD scattered them from there over the face of all the earth, and they stopped building the city.",Genesis 11:8
+babel,,quote,"That is why it is called Babel, for there the LORD confused the language of the whole world, and from that place the LORD scattered them over the face of all the earth.",Genesis 11:9
+babel,,think,"Next, God will call one man, Abram, and promise to make his name great. People could not make a great name for themselves; God gives it.",
+farewell,,narrate,"The half-built tower stands alone on the empty plain. Your device hums. Time to go.",
+disc_tar,,quote,"… So they used brick instead of stone, and tar instead of mortar.",Genesis 11:3
+disc_shinar,,narrate,"Scratched into the post: the name of this land.",
+disc_shinar,,quote,"And as people journeyed eastward, they found a plain in the land of Shinar and settled there.",Genesis 11:2
+disc_nations,Old man,say,"My grandfather's grandfather knew Noah's sons. Every family here comes from them.",
+disc_nations,,quote,"All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood.",Genesis 10:32
+disc_proud,Builder,say,"Higher than the clouds! Everyone will know our name!",
+disc_proud,,note,"A proverb, written long after:",
+disc_proud,,quote,"Pride goes before destruction, and a haughty spirit before a fall.",Proverbs 16:18
+disc_plans,Town crier,say,"Hear, hear! The tower will reach the heavens!",
+disc_plans,,note,"A psalm, written long after:",
+disc_plans,,quote,"The LORD frustrates the plans of the nations; He thwarts the devices of the peoples.",Psalm 33:10
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Pride goes before destruction, and a haughty spirit before a fall.",Proverbs 16:18
+game_verses,,quote,"Now the whole world had one language and a common form of speech.",Genesis 11:1
+end_truth,,quote,"So the LORD scattered them from there over the face of all the earth, and they stopped building the city.",Genesis 11:8
+end_think,,think,"A great name comes from God, not from building ourselves up. God's plans stand, even when people's plans fall.",
+end_bible,,note,"Everyone spoke one language, and they settled on the plain of Shinar. (11:1-2)",
+end_bible,,note,"They made bricks to build a city and a tower, to make a name for themselves. (11:3-4)",
+end_bible,,note,"The LORD came down and confused their language. (11:5-7)",
+end_bible,,note,"He scattered them over the earth, and the city was called Babel. (11:8-9)",
+end_imagined,,note,"You, and that you made bricks for the tower.",
+end_imagined,,note,"The foreman, the builders, the crier and the old man, and the nonsense words.",
+end_imagined,,note,"How the tower looked. The Bible says it was meant to reach the heavens, not what shape it was.",
+end_left_out,,note,"Genesis 11:10-32 lists the families from Noah's son Shem down to Abram. That is where the next arc begins.",

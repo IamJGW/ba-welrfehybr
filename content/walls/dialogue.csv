@@ -1,0 +1,67 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This is the hardest story in this part of the Bible. God told the Israelites to take Jericho, and the Bible says that the city and everything in it was destroyed, except Rahab and her family (Joshua 6:17, 21, 24). The game does not show or describe the fighting. It shows the march, the shout, and the wall falling, and ends with Rahab and her family brought out safe.",
+parent_note,,note,"Many people ask how a loving God could command this. It is a good question to ask together. One thing the story says plainly is that Rahab, a foreigner of Jericho who trusted God, was saved.",
+arrive,,narrate,"The device hums. A flat green plain with a river behind you, a big camp to the south, and straight ahead, a great walled city with a high gate. Jericho. Its gate is shut, and the wall is crowded with men watching.",
+joshua_idle,Joshua,say,"I am thinking, {name}. I am looking at those walls and thinking.",
+rahab_idle,Rahab,say,I never thought I would be on this side of the wall.,
+commander_idle,The Commander,say,Take off your sandals.,
+joshua,Joshua,say,"{name}, I went out alone to look at Jericho. I think someone is standing over there.",
+are_you_for_us,,quote,"Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in His hand. Joshua approached Him and asked, “Are You for us or for our enemies?”",Joshua 5:13
+neither,The Commander,quote,"Neither, | I have now come as Commander of the LORD’s army.",Joshua 5:14
+neither,,quote,"Then Joshua fell facedown in reverence and asked Him, “What does my Lord have to say to His servant?”",Joshua 5:14
+sandals,,quote,"The Commander of the LORD’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.",Joshua 5:15
+sandals,,think,"Joshua asked, ""Are You for us or for our enemies?"" The answer was, ""Neither."" God is not on anyone's side. The question is whether we are on His. Joshua bowed down.",
+shut_up,,quote,Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.,Joshua 6:1
+delivered,,quote,"And the LORD said to Joshua, “Behold, I have delivered Jericho into your hand, along with its king and its mighty men of valor.",Joshua 6:2
+march_plan,The LORD,quote,"March around the city with all the men of war, circling the city one time. Do this for six days. Have seven priests carry seven rams’ horns in front of the ark. Then on the seventh day, march around the city seven times, while the priests blow the horns.",Joshua 6:3-4
+mighty_shout,The LORD,quote,"And when there is a long blast of the ram’s horn and you hear its sound, have all the people give a mighty shout. Then the wall of the city will collapse and all your people will charge straight into the city.",Joshua 6:5
+silence,Joshua,quote,Do not give a battle cry or let your voice be heard; do not let one word come out of your mouth until the day I tell you to shout. Then you are to shout!,Joshua 6:10
+silence,Joshua,say,"So that is the plan, {name}. A silent march. Walk behind the ark, and do not say a word.",
+first_march,,quote,"So Joshua son of Nun summoned the priests and said, “Take up the ark of the covenant and have seven priests carry seven rams’ horns in front of the ark of the LORD.” And he told the people, “Advance and march around the city, with the armed troops going ahead of the ark of the LORD.”",Joshua 6:6-7
+first_march,,quote,"After Joshua had spoken to the people, seven priests carrying seven rams’ horns before the LORD advanced and blew the horns, and the ark of the covenant of the LORD followed them. While the horns continued to sound, the armed troops marched ahead of the priests who blew the horns, and the rear guard followed the ark.",Joshua 6:8-9
+camp_night,,quote,"So he had the ark of the LORD carried around the city, circling it once. And the people returned to the camp and spent the night there.",Joshua 6:11
+six_days_pass,,quote,So on the second day they marched around the city once and returned to the camp. They did this for six days.,Joshua 6:14
+six_days_pass,,narrate,"Six days. Six circles of silence. The men on the wall stop jeering at some point. They just stare. You can hear your own breathing, and the sound of the horns.",
+seventh_day,,quote,"Then on the seventh day, they got up at dawn and marched around the city seven times in the same manner. That was the only day they circled the city seven times.",Joshua 6:15
+only_day,,narrate,"Dawn. Seven times around. The sun is high and your legs ache. Joshua stands at the head of the army, and the whole camp is perfectly silent.",
+only_day,Joshua,say,"Wait for it, {name}. Do not say a word. Not yet. Not until you hear the long blast of the horn.",
+too_soon,,narrate,Not yet! Joshua said no one is to say a word until the long blast.,
+horn_note,,narrate,"The long blast of the ram's horn! Now! Press Space by Joshua, and shout!",
+shout,,quote,"After the seventh time around, the priests blew the horns, and Joshua commanded the people, “Shout! For the LORD has given you the city!",Joshua 6:16
+collapse,,quote,"So when the rams’ horns sounded, the people shouted. When they heard the blast of the horn, the people gave a great shout, and the wall collapsed. Then all the people charged straight into the city and captured it.",Joshua 6:20
+dust,,narrate,"A great cloud of dust fills the air. When it clears, there is a wide gap where the wall stood. The people go in. You stay outside the camp, with the dust in your eyes and your ears ringing, and you do not look.",
+rahab_out,,quote,"Meanwhile, Joshua told the two men who had spied out the land, “Go into the house of the prostitute and bring out the woman and all who are with her, just as you promised her.” So the young spies went in and brought out Rahab, her father and mother and brothers, and all who belonged to her. They brought out her whole family and settled them outside the camp of Israel.",Joshua 6:22-23
+rahab_thanks,Rahab,say,"Thank you, {name}. They kept their word. We are all here. Every one of us. I saw the cord in the window, and I saw the men come for us.",
+spared,,quote,"And Joshua spared Rahab the prostitute, with her father’s household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day.",Joshua 6:25
+by_faith,,note,"Long after, the letter to the Hebrews said:",
+by_faith,,quote,"By faith the walls of Jericho fell, after the people had marched around them for seven days.",Hebrews 11:30
+fame,,quote,"So the LORD was with Joshua, and his fame spread throughout the land.",Joshua 6:27
+farewell,Joshua,say,"The LORD gave us the city, {name}, not our swords or our strength. We only had to walk, and wait, and shout when He said to.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_father,Rahab's father,say,"I did not know what my daughter was doing, {name}. I thought she was mad. But now we are alive and out of the city, and she was right.",
+disc_father,,quote,They brought out her whole family and settled them outside the camp of Israel.,Joshua 6:23
+disc_watcher,Man on the wall,say,"We are shut in, and they are marching around us. It is the strangest thing I have ever seen. They never say a word.",
+disc_watcher,,quote,Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.,Joshua 6:1
+disc_camper,Woman,say,"Six days I have walked behind the ark, and I have not said a word to my own children. Even they have been silent. I have never known such a quiet.",
+disc_camper,,quote,Do not give a battle cry or let your voice be heard; do not let one word come out of your mouth …,Joshua 6:10
+disc_boy,Boy,say,"Seven priests, seven horns, seven times around on the seventh day! Does it all have to be sevens?",
+disc_boy,,quote,Have seven priests carry seven rams’ horns in front of the ark.,Joshua 6:4
+game_march_intro,,quote,"Then on the seventh day, they got up at dawn and marched around the city seven times in the same manner.",Joshua 6:15
+game_march_intro,,note,"Press the left and right arrows in time with the drum as you march. Then wait for the long blast of the horn, and press Space for the shout!",
+game_march_how,,note,"Left and right with the drum. At the end, Space for the shout",
+game_march_done,,quote,"After the seventh time around, the priests blew the horns, and Joshua commanded the people, “Shout! For the LORD has given you the city!",Joshua 6:16
+game_march_good,,note,"The walls are coming down!",
+game_march_try,,note,"Keep time and try again!",
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,Shout! For the LORD has given you the city!,Joshua 6:16
+game_verses,,quote,"By faith the walls of Jericho fell, after the people had marched around them for seven days.",Hebrews 11:30
+end_truth,,quote,"By faith the walls of Jericho fell, after the people had marched around them for seven days.",Hebrews 11:30
+end_think,,think,"The Israelites did not break the wall down. They walked, they waited, they trusted and they shouted, and God did the rest. Sometimes our part is to obey, and to let God do what only He can do.",
+end_bible,,note,"A man with a drawn sword said He was the Commander of the LORD's army, and told Joshua to take off his sandals. (5:13-15)",
+end_bible,,note,"God told Joshua to march around Jericho once a day for six days, and seven times on the seventh, with seven priests blowing rams' horns. (6:1-14)",
+end_bible,,note,On the seventh day the people shouted and the wall fell. Rahab and her family were brought out and spared. (6:15-25),
+end_imagined,,note,"You, and that you followed the ark in silence and shouted when Joshua said to.",
+end_imagined,,note,"The man on the wall, the woman, the boy and Rahab's father, and what they said.",
+end_imagined,,note,"How the march looked. The Bible does not describe it beyond the order of the priests, the ark, the troops and the rear guard.",
+end_left_out,,note,"Joshua 6:17, 21 and 24: the city and everything in it was devoted to the LORD for destruction, and the people of Jericho were put to death, except Rahab's family. The Bible says this plainly, and the game does not show or describe it.",

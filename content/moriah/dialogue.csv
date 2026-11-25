@@ -1,0 +1,87 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This level tells how God tested Abraham by asking him to offer his son Isaac (Genesis 22:1-19).",
+parent_note,,note,"It follows the Bible's words, gently. The hardest moment is shown only as words on a dark screen. Isaac is never shown on the altar, and he is never hurt.",
+parent_note,,note,"The level centers on Abraham's trust that ""God Himself will provide the lamb,"" and on God stopping him and providing a ram instead. It then points to Jesus, ""the Lamb of God.""",
+parent_note,,note,"You may want to play it together and talk about it afterward.",
+arrive,,narrate,"The device hums. Beersheba, early in the morning: a feathery tamarisk tree, a deep well and Abraham's tents. Isaac is a boy now, old enough to carry a load.",
+tested,,quote,"Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.",Genesis 22:1
+tested,God,quote,"Take your son, | your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.",Genesis 22:2
+tested,,think,"This is hard to hear. The Bible calls it a test. Abraham did not understand it, but he knew God had promised that Isaac's children would be as many as the stars.",
+look_pile,,narrate,"A pile of split firewood.",
+hands_full,,narrate,"Your arms are full. Take that to the donkey first.",
+take_wood,,narrate,"An armful of split wood. Load it onto the donkey.",
+look_donkey,,narrate,"The donkey flicks its ears.",
+donkey_empty,,narrate,"Bring wood to load onto the donkey.",
+wood_loaded,,narrate,"You tie the wood onto the donkey's back.",
+set_out,,quote,"So Abraham got up early the next morning, saddled his donkey, and took along two of his servants and his son Isaac. He split the wood for a burnt offering and set out for the place God had designated.",Genesis 22:3
+set_out,Abraham,say,"Come with us, {name}. Stay close to Isaac.",
+journey,,narrate,"For three days you walk north through dry hills. Nobody says very much.",
+third_day,,quote,"On the third day Abraham looked up and saw the place in the distance.",Genesis 22:4
+third_day,Abraham,quote,"Stay here with the donkey, | The boy and I will go over there to worship, and then we will return to you.",Genesis 22:5
+third_day,,think,"Listen to what Abraham said: ""we will return."" He trusted God to bring Isaac back down the mountain with him.",
+abraham_idle,Abraham,say,"Stay close, {name}.",
+abraham_ram,Abraham,say,"The ram, {name}! Bring it here.",
+abraham_after,Abraham,say,"The LORD Will Provide. I will never forget this place.",
+isaac_idle,Isaac,say,"It's a long way, {name}. Father hardly says a word.",
+servant_idle,Servant,say,"Three days' walk, they say. Pack light!",
+servant_ready,Servant,say,"We leave as soon as the donkey is loaded.",
+servant_wait,Servant,say,"We will wait here with the donkey.",
+together,,quote,"Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together.",Genesis 22:6
+together,Isaac,quote,"My father!",Genesis 22:7
+together,Abraham,quote,"Here I am, my son,",Genesis 22:7
+together,Isaac,quote,"The fire and the wood are here, | but where is the lamb for the burnt offering?",Genesis 22:7
+together,Abraham,quote,"God Himself will provide the lamb for the burnt offering, my son.",Genesis 22:8
+together,,quote,"… And the two walked on together.",Genesis 22:8
+together,,think,"Isaac carried the wood up the mountain. Abraham did not know how, but he believed God would provide.",
+wait_here,Abraham,say,"Wait here, {name}.",
+wait_here,,narrate,"Abraham and Isaac go on together to the top.",
+altar,,quote,"When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood.",Genesis 22:9
+knife,,quote,"Then Abraham reached out his hand and took the knife …",Genesis 22:10
+angel,,quote,"Just then the angel of the LORD called out to him from heaven,",Genesis 22:11
+angel,The angel of the LORD,quote,"Abraham, Abraham!",Genesis 22:11
+angel,Abraham,quote,"Here I am,",Genesis 22:11
+angel,The angel of the LORD,quote,"Do not lay a hand on the boy or do anything to him, | for now I know that you fear God, since you have not withheld your only son from me.",Genesis 22:12
+safe,,narrate,"Isaac is safe. Abraham holds him tight.",
+safe,Abraham,say,"{name}! Look, behind us, in the thicket!",
+safe,,quote,"Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. …",Genesis 22:13
+ram_follows,,narrate,"You untangle the ram's horns from the thorns. It follows you.",
+instead,,quote,"… So he went and took the ram and offered it as a burnt offering in place of his son.",Genesis 22:13
+instead,,think,"The ram died in Isaac's place. That is what a substitute is: one in the place of another.",
+provide,,quote,"And Abraham called that place The LORD Will Provide. So to this day it is said, “On the mountain of the LORD it will be provided.”",Genesis 22:14
+provide,,think,"Isaac asked, ""Where is the lamb?"" Long after, on these same hills, God answered. When John the Baptist saw Jesus, he said:",
+provide,John the Baptist,quote,"Look, the Lamb of God, who takes away the sin of the world!",John 1:29
+provide,,think,"God stopped Abraham from giving up his son. But God did not hold back His own Son. Jesus gave His life in our place.",
+second_time,,quote,"And the angel of the LORD called to Abraham from heaven a second time,",Genesis 22:15
+second_time,The angel of the LORD,quote,"By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son, I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.",Genesis 22:16-18
+back_down,,quote,"Abraham went back to his servants, and they got up and set out together for Beersheba. …",Genesis 22:19
+back_down,,narrate,"Abraham, Isaac and the servants start for home, all of them together. Your device hums. Time to go.",
+disc_return,Servant,say,"Did you hear what the master said? ""We will return."" Both of them!",
+disc_return,,note,"A letter, written long after:",
+disc_return,,quote,"Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death.",Hebrews 11:19
+disc_spare,Isaac,say,"I asked Father where the lamb was. He said God would provide it. And He did.",
+disc_spare,,note,"Long after, the apostle Paul wrote about God and His own Son, Jesus:",
+disc_spare,,quote,"He who did not spare His own Son but gave Him up for us all, how will He not also, along with Him, freely give us all things?",Romans 8:32
+disc_tamarisk,,narrate,"A feathery tamarisk tree. Abraham planted it himself.",
+disc_tamarisk,,quote,"And Abraham planted a tamarisk tree in Beersheba, and there he called upon the name of the LORD, the Eternal God.",Genesis 21:33
+disc_well,,narrate,"Abraham dug this well. The town is named after a promise made beside it.",
+disc_well,,quote,"So that place was called Beersheba, because it was there that the two of them swore an oath.",Genesis 21:31
+disc_well,,note,"Beersheba means ""well of the oath"" or ""well of seven.""",
+disc_moriah,,narrate,"From up here you can see hills in every direction.",
+disc_moriah,,note,"Long after, the Bible names Mount Moriah as the place where King Solomon built the temple:",
+disc_moriah,,quote,"Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah …",2 Chronicles 3:1
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"God Himself will provide the lamb for the burnt offering, my son.",Genesis 22:8
+game_verses,,quote,"Look, the Lamb of God, who takes away the sin of the world!",John 1:29
+end_truth,,quote,"God Himself will provide the lamb for the burnt offering, my son.",Genesis 22:8
+end_think,,think,"Abraham trusted God with the one he loved most, and God provided. Long after, God gave His own Son, Jesus, the Lamb of God, for us.",
+end_bible,,note,"God tested Abraham: He told him to take Isaac to the land of Moriah and offer him there as a burnt offering. (22:1-2)",
+end_bible,,note,"Abraham set out early with Isaac, two servants and the wood. On the third day he told the servants, ""We will return to you."" (22:3-5)",
+end_bible,,note,"Isaac asked where the lamb was. ""God Himself will provide the lamb,"" Abraham said. (22:6-8)",
+end_bible,,note,"Abraham built the altar and was ready to obey, but the angel of the LORD stopped him. (22:9-12)",
+end_bible,,note,"Abraham offered a ram caught in a thicket in Isaac's place, named the place The LORD Will Provide, and heard God's promise again. (22:13-19)",
+end_imagined,,note,"You, and that you loaded the wood and freed the ram.",
+end_imagined,,note,"What the servants and Isaac said to you. The Bible does not name the servants.",
+end_imagined,,note,"Isaac's age. The Bible calls him ""the boy"" and says he carried the wood up the mountain, but not how old he was.",
+end_imagined,,note,"The dark screen. The Bible tells this moment plainly; the game shows its words without pictures.",
+end_left_out,,note,"Genesis 23: Sarah died at 127, and Abraham bought the cave of Machpelah, near Mamre, to bury her.",

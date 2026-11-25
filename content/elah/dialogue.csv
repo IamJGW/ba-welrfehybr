@@ -1,0 +1,133 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. The air folds. Then you are standing on a dusty road, and someone is coming with his arms full.",
+meet_david,David,say,"{name}! Shalom! You always turn up when something is about to happen.",
+meet_david,David,say,"My father sent food for my brothers in King Saul's army. Could you carry the cheese?",
+david_idle,David,say,"This way, {name}!",
+david_brook,David,say,"Smooth ones. Keep looking!",
+quartermaster,Quartermaster,say,"More food from Bethlehem? Set it there, by the jars.",
+quartermaster,,quote,"Then David left his supplies in the care of the quartermaster and ran to the battle line.",1 Samuel 17:22
+quartermaster_idle,Quartermaster,say,"Grain, bread, cheese. An army eats a lot, even when it is not fighting.",
+brothers_greet,,quote,"And as he was speaking with them, suddenly the champion named Goliath, the Philistine from Gath, came forward from the ranks of the Philistines …",1 Samuel 17:23
+goliath_challenge,Goliath,quote,"I defy the ranks of Israel this day! Give me a man to fight!",1 Samuel 17:10
+israel_flees,,quote,"When all the men of Israel saw Goliath, they fled from him in great fear.",1 Samuel 17:24
+david_asks,David,quote,"Just who is this … Philistine, that he should defy the armies of the living God?",1 Samuel 17:26
+david_asks,Eliab,quote,"Why have you come down here? | And with whom did you leave those few sheep in the wilderness?",1 Samuel 17:28
+david_asks,David,quote,"What have I done now? | Was it not just a question?",1 Samuel 17:29
+david_asks,,quote,"Now David’s words were overheard and reported to Saul, who sent for him.",1 Samuel 17:31
+david_asks,,think,"The soldiers measured Goliath against themselves. David measured Goliath against God.",
+saul_idle,,narrate,"King Saul stares toward the valley. He does not seem to notice you.",
+saul_after,,narrate,"King Saul watches David go. He says nothing.",
+saul,David,quote,"Let no man’s heart fail on account of this Philistine. Your servant will go and fight him!",1 Samuel 17:32
+saul,King Saul,quote,"You are just a boy, and he has been a warrior from his youth.",1 Samuel 17:33
+saul,David,quote,"The LORD, who delivered me from the claws of the lion and the bear, will deliver me from the hand of this Philistine.",1 Samuel 17:37
+saul,King Saul,quote,"Go, | and may the LORD be with you.",1 Samuel 17:37
+saul,,think,"David's courage was not a guess. God had helped him before, with the lion and the bear, so he trusted God to help him again.",
+armor_on,,quote,"Then Saul clothed David in his own tunic, put a bronze helmet on his head, and dressed him in armor.",1 Samuel 17:38
+armor_off,David,quote,"I cannot walk in these, | I am not accustomed to them.",1 Samuel 17:39
+to_brook,David,say,"I need stones for my sling. Come with me to the brook!",
+brook_intro,David,say,"Help me look, {name}. I need smooth ones.",
+stone_idle,,narrate,"A stone, cool from the water.",
+stone_rough1,,narrate,"Too jagged.",
+stone_rough2,,narrate,"Cracked down the middle.",
+stone_rough3,,narrate,"All sharp corners.",
+stone_smooth,,narrate,"Smooth! David takes it.",
+stones_done,,quote,"… selected five smooth stones from the brook, and put them in the pouch of his shepherd’s bag.",1 Samuel 17:40
+duel_watch,,narrate,"This part is not yours to do. You climb back to the soldiers and watch.",
+duel_approach,,quote,"Now the Philistine came closer and closer to David, with his shield-bearer before him.",1 Samuel 17:41
+duel_words,Goliath,quote,"Am I a dog, | that you come at me with sticks?",1 Samuel 17:43
+duel_words,David,quote,"You come against me with sword and spear and javelin, but I come against you in the name of the LORD of Hosts …",1 Samuel 17:45
+duel_words,David,quote,"… it is not by sword or spear that the LORD saves; for the battle is the LORD’s …",1 Samuel 17:47
+duel_sling,,quote,"Then David reached into his bag, took out a stone, and slung it, striking the Philistine on the forehead.",1 Samuel 17:49
+duel_fall,,quote,"Thus David prevailed over the Philistine with a sling and a stone …",1 Samuel 17:50
+philistines_run,,quote,"When the Philistines saw that their hero was dead, they turned and ran.",1 Samuel 17:51
+philistines_run,,think,"A shepherd boy with a sling beat a giant in armor, so everyone could see that the battle belongs to the LORD.",
+farewell,King Saul,quote,"Whose son are you, young man?",1 Samuel 17:58
+farewell,David,quote,"I am the son of your servant Jesse of Bethlehem,",1 Samuel 17:58
+farewell,,narrate,"Your device buzzes. Time to go.",
+brother_eliab,Eliab,say,"I am Eliab, the oldest. Stay out of the way.",
+brother_abinadab,Abinadab,say,"Abinadab. Second oldest. Did David bring anything from home?",
+brother_shammah,Shammah,say,"I am Shammah. Third of eight brothers!",
+disc_brothers,,quote,"The firstborn was Eliab, the second was Abinadab, and the third was Shammah.",1 Samuel 17:13
+soldier_1,Soldier,say,"Do not go near the valley.",
+soldier_2,Soldier,say,"My knees have not stopped shaking all week.",
+soldier_3,Soldier,say,"Every morning. Every evening. He just keeps coming.",
+soldier_fire,Soldier,say,"Riches or no riches, I am staying right here by the fire.",
+soldier_after,Soldier,say,"Did you see that? One stone!",
+disc_forty,Soldier,say,"One scratch on this post for every day he has come out.",
+disc_forty,,quote,"For forty days the Philistine came forward every morning and evening to take his stand.",1 Samuel 17:16
+disc_height,,quote,"He was six cubits and a span in height,",1 Samuel 17:4
+disc_height,,note,"About 9 feet 9 inches. Taller than a doorway!",
+disc_reward,Soldier,quote,"To the man who kills him the king will give great riches.",1 Samuel 17:25
+disc_mail,,quote,"He wore a bronze coat of mail weighing five thousand shekels,",1 Samuel 17:5
+disc_mail,,note,"About 125 pounds, just for the coat.",
+disc_terms,Commander,say,"Thank Jesse for the cheese. You know what the giant is offering?",
+disc_terms,,quote,"If he is able to fight me and kill me, then we will be your servants. But if I prevail against him and kill him, then you shall be our servants and work for us.",1 Samuel 17:9
+disc_spear,,quote,"The shaft of his spear was like a weaver’s beam, and its iron point weighed six hundred shekels.",1 Samuel 17:7
+disc_spear,,note,"About 15 pounds, just for the point. You can barely lift one of these!",
+lookout_climb,,narrate,"You scramble up the rock. From here you can see everything.",
+disc_hills,,quote,"The Philistines stood on one hill and the Israelites stood on another, with the valley between them.",1 Samuel 17:3
+helmet_locked,,narrate,"The king's own armor. Better not touch it.",
+helmet_on,,narrate,"You lift King Saul's bronze helmet onto your head. It slides right down over your eyes.",
+helmet_off,,narrate,"Way too big. You put it back before anyone sees.",
+cook_busy,Cook,say,"Hands full? Come back when they are empty.",
+cook_ask,Cook,say,"The men at the front have stood in the sun for forty days. Take this water to three of them.",
+cook_remind,Cook,say,"Three soldiers at the front. Go on!",
+cook_done,Cook,say,"Thank you. They will not say so, but that water mattered.",
+cook_after,Cook,say,"Nobody is thirsty now. Listen to them shout!",
+water_1,Soldier,say,"Thank you. I have not slept. Every time I close my eyes, I see him.",
+water_2,Soldier,say,"I keep thinking someone braver will go. Then I remember everyone is thinking that.",
+water_3,Soldier,say,"If our champion loses, we all become servants. Who would risk that?",
+disc_afraid,,quote,"On hearing the words of the Philistine, Saul and all the Israelites were dismayed and greatly afraid.",1 Samuel 17:11
+lamb_ask,Soldier,say,"I keep hearing bleating behind the tents. Would you go and look?",
+lamb_found,,narrate,"A lamb! It must have followed David all the way from Bethlehem.",
+lamb_done,Soldier,say,"So that is what I heard! One of Jesse's, I would bet. Keep it close until David can take it home.",
+look_pot,,narrate,"Lentil stew. It smells better than it looks.",
+look_grain,,note,"Roasted grain. Jesse sent an ephah of it, about 22 liters.",
+look_tent,,narrate,"You peek inside. Bedrolls, a water skin, and one sandal with no partner.",
+look_tree,,note,"Elah is the Hebrew word for this kind of tree, the terebinth. This is the Valley of the Terebinth.",
+look_fire,,narrate,"The fire is warm. Nobody around it is singing.",
+look_kingtent,,narrate,"A guard's voice comes from inside: The king is not to be disturbed.",
+bump_line,Soldier,say,"Stay back! No one goes down into the valley.",
+bump_valley,,narrate,"Out there is where Goliath stands. This is as far as you go.",
+bump_road,,narrate,"That road leads back to Bethlehem. But something is about to happen here.",
+game_stones_intro,,quote,"… selected five smooth stones from the brook …",1 Samuel 17:40
+game_stones_intro,,note,"The brook is murky. Stones look the same until you wade close. Space picks one up. A rough stone costs 3 seconds.",
+game_stones_smooth,,note,"Smooth! Keep it.",
+game_stones_rough,,note,"Too rough. That cost you 3 seconds!",
+game_stones_done,,note,"Five smooth stones, ready for a shepherd's bag.",
+game_sling_intro,,note,"This is only an echo your device recorded. Nothing here changes what happened.",
+game_sling_intro,,quote,"… he had a bronze helmet on his head. He wore a bronze coat of mail …",1 Samuel 17:5
+game_sling_intro,,note,"David carried five stones and needed one. Hold Space to whirl your sling. Let go to throw.",
+game_sling_how,,note,"Hold Space to whirl your sling",
+game_sling_let_go,,note,"Let go to throw!",
+game_sling_shield,,note,"Blocked! His shield bearer is in the way.",
+game_sling_helmet,,note,"Clang! Off his bronze helmet.",
+game_sling_mail,,note,"Clang! His coat of mail stops it.",
+game_sling_legs,,note,"Clang! Bronze armor on his legs too.",
+game_sling_short,,note,"Not enough spin. Whirl it longer!",
+game_sling_miss,,note,"Missed!",
+game_sling_struck,,note,"A hit!",
+game_sling_out,,note,"Out of stones. That shot is harder than it looks. David did it with his very first stone.",
+game_sling_close,,note,"The echo fades before he reaches you. Try throwing a little sooner.",
+game_sling_hit,,note,"You did it with practice. David said why he would win before he ever threw:",
+game_sling_hit,,quote,"… the battle is the LORD’s …",1 Samuel 17:47
+game_verses,David,quote,"Let no man’s heart fail on account of this Philistine. Your servant will go and fight him!",1 Samuel 17:32
+game_verses,David,quote,"The LORD, who delivered me from the claws of the lion and the bear, will deliver me from the hand of this Philistine.",1 Samuel 17:37
+game_verses,David,quote,"You come against me with sword and spear and javelin, but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied.",1 Samuel 17:45
+game_verses,David,quote,"And all those assembled here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and He will give all of you into our hands.",1 Samuel 17:47
+door_hint,,note,"The glowing door behind you leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+end_truth,,quote,"And all those assembled here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and He will give all of you into our hands.",1 Samuel 17:47
+end_think,,think,"Courage comes from trusting God, not from being the biggest.",
+end_bible,,note,"Jesse sent David to the camp with grain, bread and cheese. (17:17-18)",
+end_bible,,note,"Goliath challenged Israel for forty days, and the soldiers fled in fear. (17:4-11, 16, 24)",
+end_bible,,note,"Eliab was angry with his youngest brother. (17:28)",
+end_bible,,note,"David told Saul about the lion and the bear. (17:34-37)",
+end_bible,,note,"David tried on Saul's armor and took it off. (17:38-39)",
+end_bible,,note,"David chose five smooth stones from the brook. (17:40)",
+end_bible,,note,"David struck Goliath with one stone from his sling. (17:49-50)",
+end_imagined,,note,"You! No time traveler appears in the Bible.",
+end_imagined,,note,"That someone carried the cheese and helped look for stones. The Bible says David chose the stones himself.",
+end_imagined,,note,"What the camp looked like, and the small talk of David, his brothers and the soldiers.",
+end_imagined,,note,"The cook, the water carrying, the lost lamb, the tally post and trying on the king's helmet.",
+end_left_out,,note,"The Bible also tells what David did right after Goliath fell (1 Samuel 17:51-54). We did not show it. Read it together with a parent.",

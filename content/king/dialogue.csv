@@ -1,0 +1,73 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Hebron. Banners, tents, and more people than you have ever seen in one place. Many years have passed.",
+hebron,David,say,"{name}! You have not changed at all. I cannot say the same!",
+hebron,,quote,"… David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD.",2 Samuel 2:1
+hebron,,quote,"Then the men of Judah came to Hebron, and there they anointed David king over the house of Judah.",2 Samuel 2:4
+hebron,,narrate,"That was more than seven years ago. Today the rest of Israel is on its way.",
+hebron,,think,"Even after years of running and waiting, David asked God before he made his move. He did not grab the crown for himself.",
+david_idle,David,say,"So many faces, {name}. Help me welcome them.",
+elder_idle,,narrate,"The elder nods to you.",
+crowd_idle,,narrate,"Everyone is craning to see David.",
+tribe_benjamin,Elder of Benjamin,say,"We are from Benjamin, King Saul's own tribe. Even we have come.",
+tribe_asher,Elder of Asher,say,"Asher, from the coast. Lead on, young one.",
+tribe_zebulun,Elder of Zebulun,say,"Zebulun, from the north. We brought food enough for everyone.",
+tribe_reuben,Elder of Reuben,say,"Reuben, from across the Jordan. It was a long road.",
+seated,,narrate,"They take their places.",
+tribes,The elders,quote,"Here we are, your own flesh and blood.",2 Samuel 5:1
+witness_ask,Elder,say,"You have walked beside David since he was a boy with the sheep. Before we anoint him, tell us what you saw.",
+q1,Elder,say,"When the prophet Samuel came to Bethlehem, where was David?",
+q1,,answer,"Out tending his father's sheep",
+q1,,option,"Leading the army",
+q1,,option,"Playing the harp for the king",
+q2,Elder,say,"What did David carry when he faced the giant?",
+q2,,answer,"A sling and five smooth stones",
+q2,,option,"King Saul's armor and sword",
+q2,,option,"A spear like a weaver's beam",
+q3,Elder,say,"In the cave, when Saul was in his hands, what did David do?",
+q3,,answer,"He cut a corner of the robe and let him go",
+q3,,option,"He took the king prisoner",
+q3,,option,"He took the king's spear and crown",
+q_wrong,Elder,say,"That is not how I heard it. Think again.",
+witness,The elders,quote,"And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’",2 Samuel 5:2
+anoint,,quote,"So all the elders of Israel came to the king at Hebron, where King David made with them a covenant before the LORD. And they anointed him king over Israel.",2 Samuel 5:3
+crowned,,quote,"… And all the rest of the Israelites were of one mind to make David king.",1 Chronicles 12:38
+crowned,,think,"Remember the shepherd boy in Bethlehem? God chose him to be king that day. It took many years and many hard days, but God kept His word.",
+crowned,,note,"Long after, the angel Gabriel told Mary about her son, Jesus:",
+crowned,,quote,"He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever. His kingdom will never end!",Luke 1:32-33
+farewell,David,say,"It is a long road from the sheepfold, {name}. You saw every step of it.",
+farewell,,quote,"He chose David His servant and took him from the sheepfolds; from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance.",Psalm 78:70-71
+home,,narrate,"Your device buzzes one last time. Time to go home.",
+cook_ask,Cook,say,"Three days of feasting and I have only two hands! Carry three loads from the donkeys to the table, would you?",
+cook_remind,Cook,say,"Three loads. Donkeys to the table.",
+cook_done,Cook,say,"Eat! There is plenty.",
+load_none,,narrate,"The donkeys are piled high with food.",
+load_take,,narrate,"Fig cakes, raisin cakes and oil. Take them to the table.",
+table_none,,narrate,"A long table, filling up fast.",
+load_set,,narrate,"On the table it goes.",
+disc_joy,Cook,say,"Thank you! Now look at them all.",
+disc_joy,,quote,"… abundant supplies of flour, fig cakes and raisin cakes, wine and oil, oxen and sheep. Indeed, there was joy in Israel.",1 Chronicles 12:40
+disc_thirty,Scribe,say,"I am writing it all down. Every tribe, every name.",
+disc_thirty,,note,"Later the Bible sums up David's whole reign like this:",
+disc_thirty,,quote,"David was thirty years old when he became king, and he reigned forty years.",2 Samuel 5:4
+disc_thirty,,quote,"In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.",2 Samuel 5:5
+disc_heart,Old man,say,"I was there the day Samuel said this to King Saul. I never forgot it.",
+disc_heart,Samuel,quote,"… the LORD has sought a man after His own heart and appointed him ruler over His people …",1 Samuel 13:14
+disc_brother,,narrate,"A bow, hung with care. It was Jonathan's. He fell in battle beside his father, and David sang this for him:",
+disc_brother,David,quote,"I grieve for you, Jonathan, my brother. You were delightful to me …",2 Samuel 1:26
+disc_greater,,quote,"And David became greater and greater, for the LORD God of Hosts was with him.",2 Samuel 5:10
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"So David shepherded them with integrity of heart and guided them with skillful hands.",Psalm 78:72
+game_verses,,quote,"Wait patiently for the LORD; be strong and courageous. Wait patiently for the LORD!",Psalm 27:14
+end_truth,,quote,"And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’",2 Samuel 5:2
+end_think,,think,"God keeps His promises in His own time, even when the waiting is long.",
+end_bible,,note,"David asked the LORD where to go, and was sent to Hebron. (2 Samuel 2:1)",
+end_bible,,note,"The men of Judah made him their king first. (2:4)",
+end_bible,,note,"More than seven years later all the tribes of Israel came to him. (5:1-2, 5)",
+end_bible,,note,"The elders anointed David king over all Israel. (5:3)",
+end_bible,,note,"He was thirty when he first became king, and he reigned forty years in all. (5:4-5)",
+end_imagined,,note,"You, and that you welcomed the elders and answered their questions.",
+end_imagined,,note,"Which elders spoke and what they said. 1 Chronicles 12 lists the tribes that came.",
+end_imagined,,note,"The cook and the donkeys. The feast itself is in 1 Chronicles 12:39-40.",
+end_imagined,,note,"Jonathan's bow hanging in Hebron, and the crown. The Bible says David was anointed that day. It does not mention a crown.",
+end_left_out,,note,"Between the cave and the crown lie many hard years, and the deaths of Saul and Jonathan (1 Samuel 25 to 2 Samuel 4). Read them together when you are ready.",

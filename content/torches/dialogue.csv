@@ -1,0 +1,90 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A green valley, with a clear spring on one side and a vast camp spread out on the other. Thousands of soldiers are camped around the spring. Across the valley, the sky is dark with the smoke of the Midianite fires.",
+arrive,,narrate,"Gideon has called Israel to arms, and thirty-two thousand men have answered. It sounds like plenty. It is not many, compared with what is facing them.",
+gideon_idle,Gideon,say,We must trust the LORD for the victory.,
+camped,,quote,"Early in the morning Jerubbaal (that is, Gideon) and all the men with him camped beside the spring of Harod. And the camp of Midian was north of them in the valley near the hill of Moreh.",Judges 7:1
+too_many,,quote,"Then the LORD said to Gideon, “You have too many men for Me to deliver Midian into their hands, lest Israel glorify themselves over Me, saying, ‘My own hand has saved me.’",Judges 7:2
+fearful,,quote,"Now, therefore, proclaim in the hearing of the men: ‘Whoever is fearful and trembling may turn back and leave Mount Gilead.’” So twenty-two thousand of them turned back, but ten thousand remained.",Judges 7:3
+fearful,Gideon,say,"{name}, I could not believe it. Twenty-two thousand men walked away. Two out of every three! But God said that I still have too many.",
+still_too_many,,quote,"Then the LORD said to Gideon, “There are still too many men. Take them down to the water, and I will sift them for you there.",Judges 7:4
+sift_rule,The LORD,quote,Separate those who lap the water with their tongues like a dog from those who kneel to drink.,Judges 7:5
+sift_ask,Gideon,say,"{name}, I need your help. I will show you six men drinking at the spring. Tell me which of them to keep, and which to send home.",
+man_amos,,narrate,Amos kneels down on both knees and puts his whole face in the water to drink.,
+man_amos,,answer,Send Amos home. He knelt to drink.,
+man_amos,,option,Keep Amos with the army.,
+man_dan,,narrate,"Dan stays on his feet, scoops water in his hand, and laps it from his palm as he keeps watch.",
+man_dan,,answer,Keep Dan. He lapped with his hand to his mouth.,
+man_dan,,option,Send Dan home.,
+man_eli,,narrate,Eli gets down on his knees at the edge of the spring and drinks deeply.,
+man_eli,,answer,Send Eli home. He knelt to drink.,
+man_eli,,option,Keep Eli with the army.,
+man_jonah,,narrate,"Jonah scoops up water with one hand, bringing it to his mouth, his eyes on the hills.",
+man_jonah,,answer,Keep Jonah. He lapped with his hand to his mouth.,
+man_jonah,,option,Send Jonah home.,
+man_seth,,narrate,"Seth falls down at the water's edge and drinks straight from the spring, his weapon laid on the ground.",
+man_seth,,answer,Send Seth home. He knelt to drink.,
+man_seth,,option,Keep Seth with the army.,
+man_zeke,,narrate,"Zeke scoops water to his mouth in his hand and laps it quickly, then he is on his feet again.",
+man_zeke,,answer,Keep Zeke. He lapped with his hand to his mouth.,
+man_zeke,,option,Send Zeke home.,
+right_pick,Gideon,say,"Yes, that is the one. Thank you, {name}.",
+wrong_pick,Gideon,say,"Hm. Look again, {name}. The LORD said that those who lap are the ones to keep. That is how He decides.",
+three_hundred,,quote,And the number of those who lapped the water with their hands to their mouths was three hundred men; all the others knelt to drink.,Judges 7:6
+save_you,The LORD,quote,With the three hundred men who lapped the water I will save you and deliver the Midianites into your hand. But all the others are to go home.,Judges 7:7
+rest_home,,quote,"So Gideon sent the rest of the Israelites to their tents but kept the three hundred men, who took charge of the provisions and rams’ horns of the others. And the camp of Midian lay below him in the valley.",Judges 7:8
+rest_home,,think,"Three hundred men against an army as countless as the sand. God made the army smaller, so that no one could say they had won by themselves.",
+afraid_night,,quote,"That night the LORD said to Gideon, “Get up and go down against the camp, for I have delivered it into your hand. But if you are afraid to do so, then go down to the camp with your servant Purah and listen to what they are saying. Then your hands will be strengthened to attack the camp.”",Judges 7:9-11
+locusts_valley,,quote,"Now the Midianites, Amalekites, and all the other people of the east had settled in the valley like a swarm of locusts, and their camels were as countless as the sand on the seashore.",Judges 7:12
+dream,Midianite,quote,"Behold, I had a dream, | and I saw a loaf of barley bread come tumbling into the Midianite camp. It struck the tent so hard that the tent overturned and collapsed.",Judges 7:13
+meaning,His friend,quote,"This is nothing less than the sword of Gideon son of Joash, the Israelite. God has delivered Midian and the whole camp into his hand.",Judges 7:14
+worship,,quote,"When Gideon heard the dream and its interpretation, he bowed in worship. He returned to the camp of Israel and said, “Get up, for the LORD has delivered the camp of Midian into your hand.”",Judges 7:15
+three_companies,,quote,"And he divided the three hundred men into three companies and gave each man a ram’s horn in one hand and a large jar in the other, containing a torch.",Judges 7:16
+three_companies,Gideon,say,"{name}, we need three things for every man: a ram's horn, a big jar, and a torch hidden inside it. Bring them over to me.",
+gear_idle,,narrate,It is not time to hand out the gear yet.,
+gear_hands,,narrate,Your hands are full. Take that to Gideon first.,
+gear_gone,,narrate,You have already brought that.,
+gear_take,,narrate,You pick up {item}. Take it to Gideon.,
+gear_empty,,narrate,Pick up some of the gear first.,
+gear_give,,narrate,Gideon takes it and passes it on to the men.,
+gear_given,Gideon,say,"Good, {name}. Now every man has what he needs.",
+watch_me,Gideon,quote,"Watch me and do as I do, | When I come to the outskirts of the camp, do exactly as I do. When I and all who are with me blow our horns, then you are also to blow your horns from all around the camp and shout, ‘For the LORD and for Gideon!’",Judges 7:17-18
+outskirts,,quote,"Gideon and the hundred men with him reached the outskirts of the camp at the beginning of the middle watch, just after the changing of the guard. They blew their horns and broke the jars that were in their hands.",Judges 7:19
+broke_jars,,quote,"The three companies blew their horns and shattered their jars. Holding the torches in their left hands and the horns in their right hands, they shouted, “A sword for the LORD and for Gideon!”",Judges 7:20
+shouted,,narrate,"The night explodes with noise: horns blaring from every side, the crash of breaking pottery, and torches flaring in the dark all around the camp.",
+fled,,quote,"Each Israelite took his position around the camp, and the entire Midianite army fled, crying out as they ran.",Judges 7:21
+fled,,quote,"And when the three hundred rams’ horns sounded, the LORD set all the men in the camp against one another with their swords. The army fled to Beth-shittah toward Zererah as far as the border of Abel-meholah near Tabbath.",Judges 7:22
+pursued,,quote,"Then the men of Israel were called out from Naphtali, Asher, and all Manasseh, and they pursued the Midianites.",Judges 7:23
+rule_over_us,,quote,"Then the Israelites said to Gideon, “Rule over us—you and your son and grandson—for you have saved us from the hand of Midian.”",Judges 8:22
+lord_shall_rule,,quote,"But Gideon replied, “I will not rule over you, nor will my son. The LORD shall rule over you.”",Judges 8:23
+lord_shall_rule,,think,"The people wanted to make Gideon their king. Gideon said no, because the LORD was their king. Sadly, Gideon did not always follow his own words later.",
+farewell,Gideon,say,"We did not win that victory with swords, {name}. We won it with jars and torches and a very large God. I will not forget it.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_purah,Purah,say,"I am only Gideon's servant, {name}. But I went down to the Midianite camp with him in the dark. He said it was the bravest thing he had ever done, and the most frightening.",
+disc_purah,,quote,So he went with Purah his servant to the outposts where armed men were guarding the camp.,Judges 7:11
+disc_afraid,Man,say,"I am afraid, {name}. I will admit it. I have already said so. Gideon was kind about it. I am going home.",
+disc_afraid,,quote,Whoever is fearful and trembling may turn back and leave Mount Gilead.,Judges 7:3
+disc_wife,Wife,say,My husband was sent home with twenty-two thousand others. I was glad. And now I am ashamed of being glad.,
+disc_wife,,quote,"… lest Israel glorify themselves over Me, saying, ‘My own hand has saved me.’",Judges 7:2
+disc_dream,Soldier,say,"I had the strangest dream last night. A loaf of bread, rolling right into our camp! I wonder what it means.",
+disc_dream,,quote,"Behold, I had a dream, | and I saw a loaf of barley bread come tumbling into the Midianite camp.",Judges 7:13
+disc_dream2,Friend,say,It is no mystery. It is the sword of Gideon. I am afraid God has given our whole camp into his hand.,
+disc_dream2,,quote,"This is nothing less than the sword of Gideon son of Joash, the Israelite.",Judges 7:14
+game_jars_intro,,quote,"The three companies blew their horns and shattered their jars. Holding the torches in their left hands and the horns in their right hands, they shouted, “A sword for the LORD and for Gideon!”",Judges 7:20
+game_jars_intro,,note,"Press Left to break a jar, Up to raise a torch, and Right to blow the horn, each as it reaches the line. Three hundred men make a lot of noise!",
+game_jars_how,,note,"Left for the jar, Up for the torch, Right for the horn",
+game_jars_done,,quote,"Each Israelite took his position around the camp, and the entire Midianite army fled, crying out as they ran.",Judges 7:21
+game_jars_good,,note,"The whole camp is running!",
+game_jars_try,,note,"Try again, Gideon's men need you!",
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,With the three hundred men who lapped the water I will save you and deliver the Midianites into your hand.,Judges 7:7
+end_truth,,quote,With the three hundred men who lapped the water I will save you …,Judges 7:7
+end_think,,think,"God made Gideon's army smaller and smaller until there was nothing left to trust but Him. When we are weak, God's strength shows more clearly.",
+end_bible,,note,"God told Gideon he had too many men, and sent most of them home. Three hundred remained. (7:1-8)",
+end_bible,,note,"Gideon overheard a Midianite's dream about a barley loaf, and worshiped. (7:9-15)",
+end_bible,,note,"Gideon's three hundred men surrounded the camp with horns, jars and torches. The Midianites fled in panic. (7:16-22)",
+end_bible,,note,"The Israelites asked Gideon to rule over them, and he said no, because the LORD would rule over them. (8:22-23)",
+end_imagined,,note,"You, and that you picked the men at the water and brought the gear.",
+end_imagined,,note,"The six men, the soldiers and their wives, and the Midianite who has a dream. The Bible does not name them. The six men at the spring are an example. The test was done for ten thousand men.",
+end_imagined,,note,The exact test. The Bible says that three hundred lapped with their hands to their mouths and the others knelt to drink.,
+end_left_out,,note,"Judges 7:24-8:21: the pursuit of the Midianites, the killing of their princes Oreb and Zeeb and the kings Zebah and Zalmunna. Judges 8:24-27: Gideon made an ephod of gold that became a trap for him and his family.",

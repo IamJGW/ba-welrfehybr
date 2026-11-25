@@ -1,0 +1,67 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story ends with Pharaoh's army being swept into the sea. The Bible says so plainly (Exodus 14:27-30). The game does not show anyone in the water. It shows the waters returning, and the Israelites safe on the other side.",
+arrive,,narrate,"The device hums. A wide sandy plain, and beyond it the edge of a sea that goes on to the horizon. Thousands of people in simple tents, with sheep, donkeys, children and carts. A great white column stands at the edge of the camp.",
+arrive,,narrate,"The Israelites are free, but only just. They have been traveling for days. Ahead of them is water, and nowhere to go.",
+moses_idle,Moses,say,God will lead us. He always has.,
+aaron_idle,Aaron,say,The cloud has not moved all day. That means we stay.,
+led,,quote,"When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.”",Exodus 13:17
+led,,quote,So God led the people around by the way of the wilderness toward the Red Sea. And the Israelites left the land of Egypt arrayed for battle.,Exodus 13:18
+pillar,,quote,"And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night. Neither the pillar of cloud by day nor the pillar of fire by night left its place before the people.",Exodus 13:21-22
+camp_ask,Moses,say,"{name}, I am glad you are here. We have camped by the sea, just as the LORD said. But something is wrong. The people are looking back. Please talk to that father, over there.",
+pursuit,,quote,"When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have released Israel from serving us.” So Pharaoh prepared his chariot and took his army with him.",Exodus 14:5-6
+pursuit,,quote,"The Egyptians—all Pharaoh’s horses and chariots, horsemen and troops—pursued the Israelites and overtook them as they camped by the sea near Pi-hahiroth, opposite Baal-zephon.",Exodus 14:9
+terrified,,quote,"As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD.",Exodus 14:10
+graves,,quote,"They said to Moses, “Was it because there were no graves in Egypt that you brought us into the wilderness to die? What have you done to us by bringing us out of Egypt?",Exodus 14:11
+be_still,Moses,quote,"Do not be afraid. Stand firm and you will see the LORD’s salvation, which He will accomplish for you today; for the Egyptians you see today, you will never see again.",Exodus 14:13
+be_still,Moses,quote,The LORD will fight for you; you need only to be still.,Exodus 14:14
+be_still,Moses,say,"{name}, would you stand with me, and be still? Just for a moment. God is about to act.",
+forward,,quote,"Then the LORD said to Moses, “Why are you crying out to Me? Tell the Israelites to go forward. And as for you, lift up your staff and stretch out your hand over the sea and divide it, so that the Israelites can go through the sea on dry ground.",Exodus 14:15-16
+cloud_behind,,quote,"And the angel of God, who had gone before the camp of Israel, withdrew and went behind them. The pillar of cloud also moved from before them and stood behind them, so that it came between the camps of Egypt and Israel. The cloud was there in the darkness, but it lit up the night. So all night long neither camp went near the other.",Exodus 14:19-20
+divided,,quote,"Then Moses stretched out his hand over the sea, and all that night the LORD drove back the sea with a strong east wind that turned it into dry land. So the waters were divided, and the Israelites went through the sea on dry ground, with walls of water on their right and on their left.",Exodus 14:21-22
+divided,Moses,say,"Go on, everyone! This way! Walk, {name}. God has made a path.",
+dry_ground,,quote,"But the Israelites had walked through the sea on dry ground, with walls of water on their right and on their left.",Exodus 14:29
+confusion,,quote,"And the Egyptians chased after them—all Pharaoh’s horses, chariots, and horsemen—and followed them into the sea.",Exodus 14:23
+confusion,,quote,"At morning watch, however, the LORD looked down on the army of the Egyptians from the pillar of fire and cloud, and He threw their camp into confusion. He caused their chariot wheels to wobble, so that they had difficulty driving.",Exodus 14:24-25
+flee,The Egyptians,quote,"Let us flee from the Israelites, | for the LORD is fighting for them against Egypt!",Exodus 14:25
+returned,,quote,"So Moses stretched out his hand over the sea, and at daybreak the sea returned to its normal state. As the Egyptians were retreating, the LORD swept them into the sea.",Exodus 14:27
+returned,,narrate,"The waters flow back together with a rushing roar and a cloud of spray. When it settles, there is only the sea again, calm and wide. The army is gone.",
+believed,,quote,"When Israel saw the great power that the LORD had exercised over the Egyptians, the people feared the LORD and believed in Him and in His servant Moses.",Exodus 14:31
+believed,,think,"At the water's edge, the people had been terrified. Now they were safe, and it had taken nothing from them but trust. Moses had said, ""You need only to be still.""",
+miriam_idle,Miriam,say,Come and sing with us!,
+tambourine,,quote,"Then Miriam the prophetess, Aaron’s sister, took a tambourine in her hand, and all the women followed her with tambourines and dancing.",Exodus 15:20
+song,,quote,"Then Moses and the Israelites sang this song to the LORD: “I will sing to the LORD, for He is highly exalted. The horse and rider He has thrown into the sea.",Exodus 15:1
+song,,quote,"The LORD is my strength and my song, and He has become my salvation. He is my God, and I will praise Him, my father’s God, and I will exalt Him.",Exodus 15:2
+warrior,,quote,"The LORD is a warrior, the LORD is His name.",Exodus 15:3
+warrior,Miriam,quote,"Sing to the LORD, for He is highly exalted; the horse and rider He has thrown into the sea.",Exodus 15:21
+faith,,note,"Long after, the letter to the Hebrews named this crossing as an example of faith:",
+faith,,quote,"By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to follow, they were drowned.",Hebrews 11:29
+farewell,Moses,say,"God did what no one could have done, {name}. Next we go into the wilderness. It will be hard. But He is leading us.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_father,Father,say,"We were slaves in Egypt, and now we are trapped by the sea with an army coming. I never thought I would be so frightened, {name}.",
+disc_father,,quote,"As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD.",Exodus 14:10
+disc_mother,Mother,say,"My baby is asleep and has no idea. I am glad. When we cross, I will hold her tight.",
+disc_mother,,quote,"Then Miriam the prophetess, Aaron’s sister, took a tambourine in her hand, and all the women followed her with tambourines and dancing.",Exodus 15:20
+disc_boy,Boy,say,"I can see the bottom of the sea, {name}. It is dry! And the water is standing up like walls!",
+disc_boy,,quote,"… and the Israelites went through the sea on dry ground, with walls of water on their right and on their left.",Exodus 14:22
+disc_bones,Old man,say,"Moses is carrying Joseph's bones. Joseph made our fathers promise. Four hundred years later, we are keeping it.",
+disc_bones,,quote,"Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”",Exodus 13:19
+game_tambourine_intro,,quote,"Then Miriam the prophetess, Aaron’s sister, took a tambourine in her hand, and all the women followed her with tambourines and dancing.",Exodus 15:20
+game_tambourine_intro,,note,"Press Space on every beat, just as it reaches the line. Keep up with Miriam's song!",
+game_tambourine_how,,note,"Press Space as each beat reaches the line",
+game_tambourine_done,,quote,"Sing to the LORD, for He is highly exalted; the horse and rider He has thrown into the sea.",Exodus 15:21
+game_tambourine_good,,note,"Miriam would be proud!",
+game_tambourine_try,,note,"A good try! Try again.",
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,The LORD will fight for you; you need only to be still.,Exodus 14:14
+game_verses,,quote,"The LORD is my strength and my song, and He has become my salvation.",Exodus 15:2
+end_truth,,quote,The LORD will fight for you; you need only to be still.,Exodus 14:14
+end_think,,think,"The Israelites had nowhere to go, and God made a way where there was none. When you cannot see a way forward, you can be still, and trust the One who can.",
+end_bible,,note,God led the people toward the Red Sea with a pillar of cloud by day and a pillar of fire by night. Pharaoh changed his mind and chased them. (13:17-14:9),
+end_bible,,note,"The people were terrified. Moses said, ""The LORD will fight for you."" God divided the sea, and the Israelites went through on dry ground. (14:10-22)",
+end_bible,,note,"When the Egyptians followed, the sea returned and covered Pharaoh's army. Not one of them survived. The Israelites believed in the LORD. (14:23-31)",
+end_bible,,note,"Moses and the Israelites sang to the LORD, and Miriam led the women with tambourines and dancing. (15:1-21)",
+end_imagined,,note,"You, and that you stood still with Moses and walked through the sea.",
+end_imagined,,note,"The frightened father, the mother, the boy and the old man, and what they said. In the Bible, the people are named only as the Israelites.",
+end_imagined,,note,"The exact place. Pi-hahiroth is named in the Bible, but where it was is not known. The Bible also does not say how wide the path was or how long the crossing took.",
+end_left_out,,note,"Exodus 14:28 and 30: the whole army was lost, and Israel saw the Egyptians dead on the shore. The game does not show this.",

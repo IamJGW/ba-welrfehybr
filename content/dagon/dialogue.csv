@@ -1,0 +1,92 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story includes a battle in which many Israelites die, the deaths of Eli's sons, a plague in the Philistine cities, and, later, a judgment in which seventy men died for looking inside the ark. The game names these things in short, plain sentences from the Bible. It does not show them.",
+arrive,,narrate,"The device hums. A dusty plain, a long way from Shiloh, with a rough camp of tents and a mood of fear. Soldiers sit on the ground with their heads in their hands. Not far away, over a low hill, the Philistines have set up their own camp, and there are far more of them.",
+elder_idle,Elder,say,We have lost four thousand men. We have to do something.,
+battle,,quote,"Thus the word of Samuel came to all Israel. Now the Israelites went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek.",1 Samuel 4:1
+defeat,,quote,"The Philistines arrayed themselves against Israel, and as the battle spread, Israel was defeated by the Philistines, who struck down about four thousand men on the battlefield.",1 Samuel 4:2
+bring_ark,,quote,"When the troops returned to the camp, the elders of Israel asked, “Why has the LORD brought defeat on us before the Philistines today? Let us bring the ark of the covenant of the LORD from Shiloh, so that it may go with us to save us from the hand of our enemies.”",1 Samuel 4:3
+bring_ark,,think,The elders asked why the LORD had let them lose. But they did not ask the LORD. They decided that the ark would work like a good-luck charm. God is not a charm.,
+ark_comes,,quote,"So the people sent men to Shiloh, and they brought back the ark of the covenant of the LORD of Hosts, who sits enthroned between the cherubim. And the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",1 Samuel 4:4
+great_shout,,quote,"When the ark of the covenant of the LORD entered the camp, all the Israelites raised such a great shout that the ground shook.",1 Samuel 4:5
+philistines_afraid,,quote,"On hearing the noise of the shout, the Philistines asked, “What is this loud shouting in the camp of the Hebrews?” And when they realized that the ark of the LORD had entered the camp, the Philistines were afraid.",1 Samuel 4:6-7
+woe,The Philistines,quote,"The gods have entered their camp! | Woe to us, for nothing like this has happened before. Woe to us! Who will deliver us from the hand of these mighty gods? These are the gods who struck the Egyptians with all kinds of plagues in the wilderness.",1 Samuel 4:7-8
+be_men,The Philistines,quote,"Take courage and be men, O Philistines! Otherwise, you will serve the Hebrews just as they served you. Now be men and fight!",1 Samuel 4:9
+defeated_ark,,quote,"So the Philistines fought, and Israel was defeated, and each man fled to his tent. The slaughter was very great—thirty thousand foot soldiers of Israel fell. The ark of God was captured, and Eli’s two sons, Hophni and Phinehas, died.",1 Samuel 4:10-11
+ichabod,,quote,"And she named the boy Ichabod, saying, “The glory has departed from Israel,” because the ark of God had been captured and her father-in-law and her husband had been killed.",1 Samuel 4:21
+ichabod,Woman,quote,"The glory has departed from Israel, | for the ark of God has been captured.",1 Samuel 4:22
+ichabod_think,,think,"The ark was just a box. God was not trapped in it, and He was not inside the Philistines' hands. But the people had begun to treat it as if it were the same as God. The next part of the story shows who was in charge.",
+to_ashdod,,quote,"After the Philistines had captured the ark of God, they took it from Ebenezer to Ashdod, carried it into the temple of Dagon, and set it beside his statue.",1 Samuel 5:1-2
+beside_statue,,narrate,"The Philistine temple at Ashdod is huge and dim, with columns and heavy shadows. At the far end stands a great statue of Dagon, their god, half man and half fish. Beside it, rather small by comparison, stands the golden ark.",
+fallen_first,,quote,"When the people of Ashdod got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD.",1 Samuel 5:3
+priest_idle,Priest,say,We stood him up again. Do not tell anyone he fell.,
+ruler_idle,Ruler,say,We must decide what to do.,
+dagon_look,,narrate,"The statue of Dagon, fallen on its face.",
+dagon_idle,,narrate,The statue is still standing.,
+dagon_tap,,narrate,You and the priests heave the heavy statue back onto its stand.,
+returned_to_place,,quote,So they took Dagon and returned him to his place.,1 Samuel 5:3
+fallen_second,,quote,"But when they got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD, with his head and his hands broken off and lying on the threshold. Only the torso remained.",1 Samuel 5:4
+threshold,,quote,"That is why, to this day, the priests of Dagon and all who enter the temple of Dagon in Ashdod do not step on the threshold.",1 Samuel 5:5
+hand_heavy,,quote,"Now the hand of the LORD was heavy on the people of Ashdod and its vicinity, ravaging them and afflicting them with tumors.",1 Samuel 5:6
+moved_gath,,quote,"And when the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay here with us, because His hand is heavy upon us and upon our god Dagon.” So they called together all the rulers of the Philistines and asked, “What shall we do with the ark of the God of Israel?” “It must be moved to Gath,” they replied.",1 Samuel 5:7-8
+ekron,,quote,"So they sent the ark of God to Ekron, but as it arrived, the Ekronites cried out, “They have brought us the ark of the God of Israel in order to kill us and our people!”",1 Samuel 5:10
+send_away,,quote,"Then the Ekronites called together all the rulers of the Philistines and said, “Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!”",1 Samuel 5:11
+seven_months,,quote,"When the ark of the LORD had been in the land of the Philistines seven months, the Philistines summoned the priests and diviners, saying, “What shall we do with the ark of the LORD? Tell us how to send it back to its place.”",1 Samuel 6:1-2
+priests_advice,The priests,quote,"If you return the ark of the God of Israel, do not send it away empty, but by all means return it to Him with a guilt offering. Then you will be healed, and you will understand why His hand has not been lifted from you.",1 Samuel 6:3
+new_cart,,quote,"Now, therefore, prepare one new cart with two milk cows that have never been yoked. Hitch the cows to the cart, but take their calves away and pen them up.",1 Samuel 6:7
+new_cart,Diviner,say,"{name}, we need to test this. Cows will not leave their calves, so the calves must be taken away. Would you help?",
+calf_idle,,narrate,There are no calves to pen yet.,
+calf_tap,,narrate,You lead the calf away to the pen. It bleats behind you.,
+never_yoked,,narrate,"The two cows stand in the yoke, restless. They have never pulled a cart. Every instinct will make them turn back toward their calves.",
+test,,quote,"Take the ark of the LORD, set it on the cart, and in a chest beside it put the gold objects you are sending back to Him as a guilt offering. Then send the ark on its way, but keep watching it. If it goes up the road to its homeland, toward Beth-shemesh, it is the LORD who has brought on us this great disaster. But if it does not, then we will know that it was not His hand that punished us and that it happened by chance.",1 Samuel 6:8-9
+gold_idle,,narrate,It is not time for the offering yet.,
+gold_hands,,narrate,Your hands are full. Put that in the chest first.,
+gold_gone,,narrate,You have already put that in.,
+gold_take,,narrate,You pick up {item}. Put it in the chest beside the ark.,
+gold_empty,,narrate,Pick up some of the gold first.,
+gold_give,,narrate,You lay it in the chest.,
+chest_beside,,quote,"Then they put the ark of the LORD on the cart, along with the chest containing the gold rats and the images of the tumors.",1 Samuel 6:11
+send_on_way,,quote,"So the men did as instructed. They took two milk cows, hitched them to the cart, and penned up their calves.",1 Samuel 6:10
+headed_straight,,quote,"And the cows headed straight up the road toward Beth-shemesh, staying on that one highway and lowing as they went, never straying to the right or to the left.",1 Samuel 6:12
+rulers_follow,,quote,The rulers of the Philistines followed behind them to the border of Beth-shemesh.,1 Samuel 6:12
+harvesting,,quote,Now the people of Beth-shemesh were harvesting wheat in the valley …,1 Samuel 6:13
+overjoyed,,quote,"… and when they looked up and saw the ark, they were overjoyed at the sight.",1 Samuel 6:13
+stopped_at_rock,,quote,The cart came to the field of Joshua of Beth-shemesh and stopped there near a large rock.,1 Samuel 6:14
+chopped,,quote,The people chopped up the cart and offered the cows as a burnt offering to the LORD.,1 Samuel 6:14
+levites,,quote,"And the Levites took down the ark of the LORD and the chest containing the gold objects, and they placed them on the large rock. That day the men of Beth-shemesh offered burnt offerings and made sacrifices to the LORD.",1 Samuel 6:15
+who_can_stand,,quote,"The men of Beth-shemesh asked, “Who can stand in the presence of the LORD, this holy God? To whom should the ark go up from here?”",1 Samuel 6:20
+kiriath,,quote,"So they sent messengers to the people of Kiriath-jearim, saying, “The Philistines have returned the ark of the LORD. Come down and take it up with you.”",1 Samuel 6:21
+twenty_years,,quote,"And from that day a long time passed, twenty years in all, as the ark remained at Kiriath-jearim. And all the house of Israel mournfully sought the LORD.",1 Samuel 7:2
+samuel_idle,Samuel,say,The LORD brought us this far.,
+return_to_lord,Samuel,quote,"If you are returning to the LORD with all your hearts, then put away the foreign gods and Ashtoreths among you, prepare your hearts for the LORD, and serve Him only. And He will deliver you from the hand of the Philistines.",1 Samuel 7:3
+put_away,,quote,So the Israelites put away the Baals and Ashtoreths and served only the LORD.,1 Samuel 7:4
+ebenezer,,quote,"Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”",1 Samuel 7:12
+ebenezer,,think,"Ebenezer means ""stone of help."" The people remembered what God had done, and they said so out loud. Looking back at what God has done is a good way to trust Him with what is coming.",
+farewell,Samuel,say,"{name}, I am an old man now, and I have seen a great deal. But I can say it still: thus far the LORD has helped us.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_hophni,Hophni,say,"Phinehas and I will carry the ark. It is our privilege as priests. And it will protect us, I am sure.",
+disc_hophni,,quote,"And the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",1 Samuel 4:4
+disc_soldier,Soldier,say,Four thousand men gone by lunchtime. And now the elders want to bring a box from Shiloh. A box!,
+disc_soldier,,quote,… who struck down about four thousand men on the battlefield.,1 Samuel 4:2
+disc_woman,Woman,say,"They say my husband is among those who fell. I do not know what to think, {name}. I cannot cry yet.",
+disc_woman,,quote,The glory has departed from Israel …,1 Samuel 4:22
+disc_diviner,Diviner,say,"A guilt offering. That is what the priests recommend: five golden tumors, five golden rats. One for each of our rulers.",
+disc_diviner,,quote,"… do not send it away empty, but by all means return it to Him with a guilt offering.",1 Samuel 6:3
+disc_ashdod,Man of Ashdod,say,"I will not step on the threshold of that temple. Not after what I saw. No one will, from now on.",
+disc_ashdod,,quote,"That is why, to this day, the priests of Dagon and all who enter the temple of Dagon in Ashdod do not step on the threshold.",1 Samuel 5:5
+disc_harvest,Harvester,say,"We were bringing in the wheat, {name}, and then we saw it coming down the road. The ark! No one could believe it.",
+disc_harvest,,quote,"… and when they looked up and saw the ark, they were overjoyed at the sight.",1 Samuel 6:13
+disc_levite,Levite,say,"Only the Levites are supposed to handle the ark, and even we must not look inside it. We are being very, very careful.",
+disc_levite,,quote,And the Levites took down the ark of the LORD and the chest containing the gold objects …,1 Samuel 6:15
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,Thus far the LORD has helped us.,1 Samuel 7:12
+end_truth,,quote,Thus far the LORD has helped us.,1 Samuel 7:12
+end_think,,think,"The people treated the ark like a good-luck charm, and lost it. The Philistines thought their god was greater, and he fell down. God is not a tool to use, but a Lord to follow, and He is able to look after Himself.",
+end_bible,,note,"Israel lost a battle at Ebenezer, and the elders brought the ark from Shiloh. Israel lost again, the ark was captured, and Eli's sons died. (4:1-22)",
+end_bible,,note,"The Philistines put the ark in the temple of Dagon in Ashdod. Dagon fell on his face, twice, and a plague broke out. The ark was moved from city to city. (5:1-12)",
+end_bible,,note,"After seven months, the Philistines sent the ark back on a cart pulled by two cows, which went straight to Beth-shemesh. (6:1-21)",
+end_bible,,note,"Twenty years later, Samuel called Israel to return to the LORD, and set up the stone Ebenezer. (7:1-12)",
+end_imagined,,note,"You, and that you helped stand Dagon up, penned the calves and carried the gold.",
+end_imagined,,note,"The people at Ebenezer, Ashdod and Beth-shemesh, and what they said. The elder is not named in the Bible.",
+end_imagined,,note,How the temple looked. The Bible says that Dagon fell before the ark and that his head and hands were broken off.,
+end_left_out,,note,1 Samuel 4:12-20: Eli died when he heard the news. 1 Samuel 6:19: seventy men of Beth-shemesh died because they looked inside the ark. The game does not describe either.,

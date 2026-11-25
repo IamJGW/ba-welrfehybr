@@ -1,0 +1,79 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A hillside town in Ephraim, with a courtyard full of pilgrims and a long, low tent at the top of a rise. This is Shiloh, where God's tent has stood since the days of Joshua. People have come from all over the land.",
+arrive,,narrate,"It is the time of the judges, a rough and unsettled age. But in a family from the hills, a quiet story is about to begin.",
+elkanah_idle,Elkanah,say,I love her. I just do not know how to help her.,
+hannah_idle,Hannah,say,I will be all right. Please do not worry.,
+peninnah_idle,Peninnah,say,I have six children. What does she have?,
+eli_idle,Eli,say,May the God of Israel be with you.,
+elkanah,,quote,"Now there was a man named Elkanah who was from Ramathaim-zophim in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.",1 Samuel 1:1
+two_wives,,quote,"He had two wives, one named Hannah and the other Peninnah. And Peninnah had children, but Hannah had none.",1 Samuel 1:2
+year_after_year,,quote,"Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD.",1 Samuel 1:3
+portions_ask,Elkanah,say,"{name}, it is the day of the sacrifice, and my family is waiting for the meal. Would you carry the portions to the table?",
+portion_idle,,narrate,It is not time for the meal yet.,
+portion_hands,,narrate,Your hands are full. Set that before the family first.,
+portion_gone,,narrate,You have already carried that.,
+portion_take,,narrate,You pick up {item}. Take it to the family's table.,
+portion_empty,,narrate,Take a portion first.,
+portion_give,,narrate,You set it down on the table.,
+portions,,quote,"And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters. But to Hannah he would give a double portion, for he loved her even though the LORD had closed her womb.",1 Samuel 1:4-5
+taunt,,quote,"Because the LORD had closed Hannah’s womb, her rival would provoke her viciously to taunt her. And this went on year after year. Whenever Hannah went up to the house of the LORD, her rival taunted her until she wept and would not eat.",1 Samuel 1:6-7
+taunt,,think,"Peninnah was cruel to Hannah. Hannah had done nothing to deserve it, but it happened year after year. The Bible does not hide how much people hurt each other.",
+why_crying,Elkanah,quote,"Hannah, why are you crying? | Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?",1 Samuel 1:8
+hannah_answers,Hannah,say,"I know you love me, Elkanah. I do. But it is not enough. {name}, would you walk with me to the house of the LORD? I want to pray.",
+go_pray,,quote,"So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD.",1 Samuel 1:9
+stood_up,,quote,"In her bitter distress, Hannah prayed to the LORD and wept with many tears.",1 Samuel 1:10
+bitter,,narrate,"Hannah kneels near the doorway, her face to the wall, her lips moving but no sound coming out. You stand a little way back. You can see her shoulders shaking.",
+vow,,quote,"And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.”",1 Samuel 1:11
+eli_watched,,quote,"As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!”",1 Samuel 1:12-14
+hannah_reply,Hannah,quote,"No, my lord, | I am a woman troubled in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.",1 Samuel 1:15-16
+go_in_peace,Eli,quote,"Go in peace, | and may the God of Israel grant the petition you have asked of Him.",1 Samuel 1:17
+face_not_downcast,,quote,"“May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.",1 Samuel 1:18
+face_not_downcast,,think,"Eli's mistake was a hurtful one. But Hannah answered him gently, and Eli blessed her. And after she had prayed, her face was no longer downcast. She was still waiting, but she had put the burden in God's hands.",
+remembered,,quote,"The next morning they got up early to bow in worship before the LORD, and then they returned home to Ramah. … and the LORD remembered her.",1 Samuel 1:19
+conceived,,quote,"So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”",1 Samuel 1:20
+conceived,Hannah,say,"This is Samuel, {name}. His name sounds like the Hebrew words for ""heard by God."" He is the answer to my prayer. I asked, and God heard me.",
+weaned,,quote,"Then Elkanah and all his house went up to make the annual sacrifice to the LORD and to fulfill his vow, but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the LORD and to stay there permanently.”",1 Samuel 1:21-22
+confirm,,quote,"“Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the LORD confirm His word.” So Hannah stayed and nursed her son until she had weaned him.",1 Samuel 1:23
+bring_ask,Hannah,say,"It is time, {name}. I made a promise. Would you help me carry the offering: a bull, an ephah of flour, and a skin of wine?",
+gift_idle,,narrate,It is not time for the offering yet.,
+gift_hands,,narrate,Your hands are full. Take that to the altar first.,
+gift_gone,,narrate,You have already brought that.,
+gift_take,,narrate,You pick up {item}. Take it to the altar.,
+gift_empty,,narrate,Pick up some of the offering first.,
+gift_give,,narrate,You set it by the altar.,
+three_year_old,,quote,"Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the LORD at Shiloh.",1 Samuel 1:24
+presented,,quote,"And when they had slaughtered the bull, they brought the boy to Eli.",1 Samuel 1:25
+hannah_speaks,Hannah,quote,"Please, my lord, | as surely as you live, my lord, I am the woman who stood here beside you praying to the LORD.",1 Samuel 1:26
+dedicate,Hannah,quote,"I prayed for this boy, and since the LORD has granted me what I asked of Him, I now dedicate the boy to the LORD. For as long as he lives, he is dedicated to the LORD.",1 Samuel 1:27-28
+dedicate,,quote,So they worshiped the LORD there.,1 Samuel 1:28
+hannah_song,,quote,"At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.",1 Samuel 2:1
+hannah_song,Hannah,quote,"There is no one holy like the LORD. Indeed, there is no one besides You! And there is no Rock like our God.",1 Samuel 2:2
+minister,,quote,"Then Elkanah went home to Ramah, but the boy began ministering to the LORD before Eli the priest.",1 Samuel 2:11
+little_robe,,quote,Now Samuel was ministering before the LORD—a boy wearing a linen ephod. Each year his mother would make him a little robe and bring it to him when she went with her husband to offer the annual sacrifice.,1 Samuel 2:18-19
+more_children,,quote,"And Eli would bless Elkanah and his wife, saying, “May the LORD give you children by this woman in place of the one she dedicated to the LORD.” … So the LORD attended to Hannah, and she conceived and gave birth to three sons and two daughters.",1 Samuel 2:20-21
+grew,,quote,And the boy Samuel continued to grow in stature and in favor with the LORD and with man.,1 Samuel 2:26
+mary,,note,"Long after, the young woman Mary, who would be Jesus' mother, sang a song very like Hannah's:",
+mary,Mary,quote,"My soul magnifies the Lord, and my spirit rejoices in God my Savior! For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed.",Luke 1:46-48
+farewell,Hannah,say,"I gave him back to God, {name}. It hurts. But I know that God is with him, and that is all I need to know.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_children,Child,say,"Mother says that Hannah is sad because she has no children. I do not understand. I have lots of friends. I would play with her, if she wanted.",
+disc_children,,quote,"And Peninnah had children, but Hannah had none.",1 Samuel 1:2
+disc_priest,Hophni,say,"I am a priest, and so is my brother Phinehas. It is a job. You get a share of every sacrifice, you know. A good share.",
+disc_priest,,quote,"Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD.",1 Samuel 1:3
+disc_woman,Woman,say,"I saw Hannah at the doorway, praying with her lips moving and no sound. I have never seen anyone pray like that.",
+disc_woman,,quote,"In her bitter distress, Hannah prayed to the LORD and wept with many tears.",1 Samuel 1:10
+disc_pilgrim,Pilgrim,say,"Every year, {name}, my family comes up to Shiloh. It is a long walk, but it is the best week of the year.",
+disc_pilgrim,,quote,Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh …,1 Samuel 1:3
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"There is no one holy like the LORD. Indeed, there is no one besides You! And there is no Rock like our God.",1 Samuel 2:2
+end_truth,,quote,"I prayed for this boy, and since the LORD has granted me what I asked of Him, I now dedicate the boy to the LORD.",1 Samuel 1:27-28
+end_think,,think,"Hannah poured out her heart to God, and He heard her. And when He gave her what she asked, she gave it back to Him. Prayer is not only asking. It is also trusting and giving.",
+end_bible,,note,"Elkanah went up to Shiloh each year with his two wives. Peninnah had children and taunted Hannah, who had none. (1:1-8)",
+end_bible,,note,"Hannah prayed at Shiloh and promised to give any son to the LORD. Eli thought she was drunk, then blessed her. (1:9-18)",
+end_bible,,note,"Samuel was born. When he was weaned, Hannah brought him to Eli at Shiloh and gave him to the LORD. She prayed a song of praise. (1:19-2:11)",
+end_bible,,note,"Samuel served the LORD as a boy, and Hannah had five more children. (2:18-26)",
+end_imagined,,note,"You, and that you carried the portions and the offering.",
+end_imagined,,note,"The pilgrim, the woman at the doorway, Hophni's words and the child. The Bible does not say who else was at Shiloh.",
+end_imagined,,note,"That Hannah is shown kneeling at the doorway. The Bible says she stood up and prayed, and Eli was sitting by the doorpost of the temple.",
+end_left_out,,note,"1 Samuel 2:12-17 and 22-25: Eli's sons, Hophni and Phinehas, took the best of the meat for themselves and did wrong in other ways. The next story says what the LORD said about that.",

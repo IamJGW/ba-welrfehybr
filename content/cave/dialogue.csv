@@ -1,0 +1,57 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Hot rock, dry wind, and soldiers everywhere. Somewhere above you is a cave.",
+scout,Scout,say,"Shh! Get down. Saul is hunting David, and David is up in that cave. Stay in the brush when a soldier looks your way.",
+scout,,quote,"So Saul took three thousand chosen men from all Israel and went to look for David and his men in the region of the Rocks of the Wild Goats.",1 Samuel 24:2
+scout_idle,Scout,say,"Stay low. Move when they look away.",
+spotted,,narrate,"A soldier turns your way! You dive back into the brush.",
+inside,,narrate,"You slip inside. It is cool and dark.",
+quiet,David,say,"{name}! Not a sound. Someone is coming in.",
+saul_enters,,quote,"… there was a cave, and he went in to relieve himself. And David and his men were hiding in the recesses of the cave.",1 Samuel 24:3
+men,David's men,quote,"This is the day about which the LORD said to you, ‘Behold, I will deliver your enemy into your hand, that you may do with him as you wish.’",1 Samuel 24:4
+cut,,quote,"Then David crept up and stealthily cut off a corner of Saul’s robe.",1 Samuel 24:4
+forbid,David,quote,"The LORD forbid that I should do such a thing to my master, the LORD’s anointed.",1 Samuel 24:6
+forbid,,think,"David's men said this was God's chance for revenge. It looked like the perfect moment. But David trusted God to make him king in God's own time, without harming the king God had anointed.",
+saul_leaves,,quote,"Then Saul left the cave and went on his way.",1 Samuel 24:7
+call,David,quote,"My lord the king!",1 Samuel 24:8
+plea,David,quote,"See, my father, look at the corner of your robe in my hand. For I cut it off, but I did not kill you.",1 Samuel 24:11
+plea,David,quote,"May the LORD judge between you and me, … but my hand will never be against you.",1 Samuel 24:12
+plea,,think,"David left the judging to God. That is mercy: choosing not to pay back evil with evil.",
+plea,,note,"Long after, the apostle Peter wrote that Jesus did this too, when people hurt Him:",
+plea,,quote,"When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly.",1 Peter 2:23
+weeps,King Saul,quote,"You are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil.",1 Samuel 24:17
+weeps,King Saul,quote,"Now I know for sure that you will be king and that the kingdom of Israel will be established in your hands.",1 Samuel 24:20
+parted,,quote,"Then Saul returned home, but David and his men went up to the stronghold.",1 Samuel 24:22
+farewell,David,say,"You climbed past all those soldiers to find me? You are braver than you look, {name}.",
+farewell,,narrate,"Your device buzzes. Time to go.",
+david_idle,David,say,"Stay low, {name}.",
+man_idle,Man,say,"We have been hiding in these hills for weeks.",
+water_ask,Scout,say,"The men up there are parched. Fill this skin at the spring and carry it up to them.",
+water_remind,Scout,say,"The spring is over by the palms. Then up to the cave.",
+water_none,,narrate,"The spring of En Gedi. Cold water in the desert.",
+water_fill,,narrate,"The skin is full. Carry it up to the cave.",
+disc_spring,Man,say,"Water! Bless you.",
+disc_spring,,quote,"And David went up from there and lived in the strongholds of En-gedi.",1 Samuel 23:29
+disc_spring,,note,"En Gedi means Spring of the Young Goat.",
+disc_goats,,narrate,"A wild goat kid, balanced on a ledge no wider than your hand.",
+disc_goats,,quote,"The high mountains are for the wild goats, the cliffs a refuge for the rock badgers.",Psalm 104:18
+disc_psalm,,narrate,"A harp, wrapped in a cloak. David wrote this song while hiding from Saul in a cave:",
+disc_psalm,,quote,"Have mercy on me, O God, have mercy, for in You my soul takes refuge.",Psalm 57:1
+disc_fourhundred,Man,say,"Why do I follow David? I had nothing left. None of us did.",
+disc_fourhundred,,quote,"And all who were distressed or indebted or discontented rallied around him, and he became their leader.",1 Samuel 22:2
+disc_flea,Man,say,"Did you hear what he called himself? In front of the king!",
+disc_flea,David,quote,"Against whom has the king of Israel come out? Whom are you pursuing? A dead dog? A flea?",1 Samuel 24:14
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"May the LORD judge between you and me, and may the LORD take vengeance on you, but my hand will never be against you.",1 Samuel 24:12
+game_verses,,quote,"Do not be overcome by evil, but overcome evil with good.",Romans 12:21
+end_truth,,quote,"May the LORD judge between you and me, … but my hand will never be against you.",1 Samuel 24:12
+end_think,,think,"Mercy means leaving revenge to God and doing good even to someone who has hurt you.",
+end_bible,,note,"Saul hunted David with three thousand men. (24:1-2)",
+end_bible,,note,"Saul went into the very cave where David was hiding. (24:3)",
+end_bible,,note,"David cut a corner from Saul's robe, and would not let his men harm him. (24:4-7)",
+end_bible,,note,"David showed Saul the piece of robe and left the judging to God. (24:8-15)",
+end_bible,,note,"Saul wept, and said David would be king. (24:16-22)",
+end_imagined,,note,"You, the scout in the brush, and the climb past the soldiers.",
+end_imagined,,note,"Carrying water up to David's men.",
+end_imagined,,note,"The harp in the cave. Psalm 57 says David wrote it in a cave, but not which cave or on which day.",
+end_left_out,,note,"David said a great deal more to Saul, and swore an oath to him (24:9-22). Read the whole chapter together.",

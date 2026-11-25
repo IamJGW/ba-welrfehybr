@@ -1,0 +1,87 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"Chapter 3 of Ruth describes an old Israelite custom: Ruth goes to the threshing floor at night and asks Boaz to marry her. The Bible tells it plainly and respectfully. The game tells it briefly, quotes only Ruth's request and Boaz's reply, and does not describe the details.",
+arrive,,narrate,"The device hums. Bethlehem again, a few months later. The barley harvest is over, and the wheat is nearly in. Naomi sits outside the house, watching Ruth come and go with a faraway, thoughtful look.",
+naomi_idle,Naomi,say,I have a plan. I think it is a good one.,
+ruth_idle,Ruth,say,I will do whatever Naomi says.,
+boaz_idle,Boaz,say,A good harvest is a gift.,
+redeemer_idle,Relative,say,"I am a busy man, but Boaz asked me to come.",
+elder_idle,,narrate,The elders are not needed at the gate yet.,
+resting_place,,quote,"One day Ruth’s mother-in-law Naomi said to her, “My daughter, should I not seek a resting place for you, that it may be well with you?",Ruth 3:1
+boaz_winnowing,Naomi,quote,"Now is not Boaz, with whose servant girls you have been working, a relative of ours? In fact, tonight he is winnowing barley on the threshing floor.",Ruth 3:2
+instructions,Naomi,quote,"Therefore wash yourself, put on perfume, and wear your best clothes. Go down to the threshing floor, but do not let the man know you are there until he has finished eating and drinking.",Ruth 3:3
+ruth_agrees,,quote,"“I will do everything you say,” Ruth answered.",Ruth 3:5
+ruth_agrees,Naomi,say,"Will you help Ruth get ready, {name}? Water to wash, her best clothes, and a little perfume.",
+ready_idle,,narrate,It is not time to get ready yet.,
+ready_hands,,narrate,Your hands are full. Take that to Ruth first.,
+ready_gone,,narrate,You have already brought that.,
+ready_take,,narrate,You pick up {item}. Take it to Ruth.,
+ready_empty,,narrate,Pick up something for Ruth first.,
+ready_give,,narrate,"Ruth takes it, smiling.",
+ready_done,,quote,So she went down to the threshing floor and did everything her mother-in-law had instructed her to do.,Ruth 3:6
+floor_arrive,,narrate,"The threshing floor is a wide, flat place of packed earth on the hill above the town, where the grain is tossed in the wind to blow away the chaff. This evening, Boaz and his workers are winnowing the barley.",
+winnow_idle,,narrate,It is not time to winnow yet.,
+winnow_tap,,narrate,"You toss the barley in the air. The wind carries off the chaff, and the grain falls in a golden shower.",
+boaz_eats,,quote,"After Boaz had finished eating and drinking and was in good spirits, he went to lie down at the end of the heap of grain.",Ruth 3:7
+quietly,,narrate,"The workers have gone home. Boaz is asleep at the end of the heap of grain. Ruth goes forward softly. You stay by the edge of the floor, and keep watch.",
+quietly,,quote,Then Ruth went in secretly …,Ruth 3:7
+midnight,,quote,"At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!",Ruth 3:8
+who_are_you,Boaz,quote,Who are you?,Ruth 3:9
+who_are_you,Ruth,quote,"I am your servant Ruth, | Spread the corner of your garment over me, for you are a kinsman-redeemer.",Ruth 3:9
+blessing,Boaz,quote,"May the LORD bless you, my daughter. You have shown more kindness now than before, because you have not run after the younger men, whether rich or poor. And now do not be afraid, my daughter. I will do for you whatever you request, since all my fellow townspeople know that you are a woman of noble character.",Ruth 3:10-11
+nearer_redeemer,Boaz,quote,"Yes, it is true that I am a kinsman-redeemer, but there is a redeemer nearer than I.",Ruth 3:12
+as_the_lord_lives,Boaz,quote,"Stay here tonight, and in the morning, if he wants to redeem you, good. Let him redeem you. But if he does not want to redeem you, as surely as the LORD lives, I will.",Ruth 3:13
+before_dawn,,quote,"So she lay down at his feet until morning, but she got up before anyone else could recognize her. Then Boaz said, “Do not let it be known that a woman came to the threshing floor.”",Ruth 3:14
+before_dawn,,quote,"And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he poured in six measures of barley and placed it on her. Then he went into the city.",Ruth 3:15
+how_did_it_go,,quote,"When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?” Then Ruth told her all that Boaz had done for her.",Ruth 3:16
+not_empty_handed,Ruth,quote,"He gave me these six measures of barley, for he said, ‘Do not go back to your mother-in-law empty-handed.’",Ruth 3:17
+wait_daughter,Naomi,quote,"Wait, my daughter, | until you find out how things go, for he will not rest unless he has resolved the matter today.",Ruth 3:18
+gate_start,,quote,"Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.",Ruth 4:1
+gate_start,Boaz,say,"{name}, I need ten elders of the town to witness this, and it must be done properly. Would you bring me three, and I will find the rest?",
+elder_one,Elder,say,"Boaz needs witnesses at the gate? Of course. I am coming, {name}.",
+elder_two,Elder,say,"A matter of redemption, in the town gate. I will be there.",
+elder_three,Elder,say,"Let us hear it, then. I will bring my staff.",
+ten_elders,,quote,"Then Boaz took ten of the elders of the city and said, “Sit here,” and they did so.",Ruth 4:2
+friend,,narrate,"The town gate is where legal business is done. A bench has been set up, with the elders on it, and Boaz and the other relative face to face.",
+buy_back,Boaz,quote,"Naomi, who has returned from the land of Moab, is selling the piece of land that belonged to our brother Elimelech. I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people.",Ruth 4:3-4
+buy_back,Boaz,quote,"If you want to redeem it, do so. But if you will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.",Ruth 4:4
+i_will_redeem,The other relative,quote,"I will redeem it,",Ruth 4:4
+and_ruth,Boaz,quote,"On the day you buy the land from Naomi and also from Ruth the Moabitess, you must also acquire the widow of the deceased in order to raise up the name of the deceased on his inheritance.",Ruth 4:5
+cannot_redeem,The other relative,quote,"I cannot redeem it myself, or I would jeopardize my own inheritance. Take my right of redemption, because I cannot redeem it.",Ruth 4:6
+sandal,,quote,"Now in former times in Israel, concerning the redemption or exchange of property, to make any matter legally binding a man would remove his sandal and give it to the other party, and this was a confirmation in Israel. So the kinsman-redeemer removed his sandal and said to Boaz, “Buy it for yourself.”",Ruth 4:7-8
+witnesses,Boaz,quote,"You are witnesses today that I am buying from Naomi all that belonged to Elimelech, Chilion, and Mahlon. Moreover, I have acquired Ruth the Moabitess, Mahlon’s widow, as my wife, to raise up the name of the deceased through his inheritance, so that his name will not disappear from among his brothers or from the gate of his home. You are witnesses today.",Ruth 4:9-10
+blessing_elders,The elders,quote,"We are witnesses, | May the LORD make the woman entering your home like Rachel and Leah, who together built up the house of Israel. May you be prosperous in Ephrathah and famous in Bethlehem. And may your house become like the house of Perez, whom Tamar bore to Judah, because of the offspring the LORD will give you by this young woman.",Ruth 4:11-12
+took_ruth,,quote,"So Boaz took Ruth, and she became his wife. … the LORD enabled her to conceive, and she gave birth to a son.",Ruth 4:13
+women_say,The women,quote,"Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a kinsman-redeemer. May his name become famous in Israel. He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given him birth.”",Ruth 4:14-15
+nurse,,quote,"And Naomi took the child, placed him on her lap, and became a nurse to him.",Ruth 4:16
+obed,,quote,"The neighbor women said, “A son has been born to Naomi,” and they named him Obed. He became the father of Jesse, the father of David.",Ruth 4:17
+obed,,think,"Naomi had said, ""Call me Mara."" Now the women said, ""A son has been born to Naomi."" God took a bitter story and made it sweet, as only He can.",
+generations,,quote,"Now these are the generations of Perez: Perez was the father of Hezron, Hezron was the father of Ram, Ram was the father of Amminadab, Amminadab was the father of Nahshon, Nahshon was the father of Salmon, Salmon was the father of Boaz, Boaz was the father of Obed,",Ruth 4:18-21
+david,,quote,"Obed was the father of Jesse, and Jesse was the father of David.",Ruth 4:22
+jesus_line,,note,And Matthew's list of the family line of Jesus has the same names:,
+jesus_line,,quote,"Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse, and Jesse the father of David the king.",Matthew 1:5-6
+redemption,,note,A kinsman-redeemer buys back what a family has lost. Christians see this as a picture of what Jesus did:,
+redemption,,quote,"In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace …",Ephesians 1:7
+farewell,Naomi,say,"I called myself bitter, {name}. But God had not forgotten me, and He had better plans than mine. Go well. And tell the people you meet that He is faithful.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_worker,Worker,say,"We toss the barley up into the wind. The heavy grain falls, and the light chaff blows away. It is hard work, but it feels good.",
+disc_worker,,quote,"In fact, tonight he is winnowing barley on the threshing floor.",Ruth 3:2
+disc_women,Woman,say,"Naomi, who was so bitter, now has a grandson on her lap. If you had told me a year ago, I would not have believed it.",
+disc_women,,quote,"Blessed be the LORD, who has not left you this day without a kinsman-redeemer.",Ruth 4:14
+disc_women2,Woman,say,"Better than seven sons. That is what they say about Ruth. Seven sons, {name}! To a woman who needs them.",
+disc_women2,,quote,"… your daughter-in-law, who loves you and is better to you than seven sons …",Ruth 4:15
+disc_child,Boy,say,"My father says that when a man takes off his sandal, it means the deal is done. I wonder how many sandals are left in the gate.",
+disc_child,,quote,"… a man would remove his sandal and give it to the other party, and this was a confirmation in Israel.",Ruth 4:7
+disc_baker,Bread seller,say,"Perez was the son of Tamar and Judah, a long, long time ago. They are saying that Boaz's house should be like his.",
+disc_baker,,quote,"And may your house become like the house of Perez, whom Tamar bore to Judah …",Ruth 4:12
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Blessed be the LORD, who has not left you this day without a kinsman-redeemer.",Ruth 4:14
+end_truth,,quote,"Blessed be the LORD, who has not left you this day without a kinsman-redeemer.",Ruth 4:14
+end_think,,think,"God was working behind the scenes of Ruth's life the whole time, in a famine, in a field, in a town gate. Naomi felt empty and forgotten, but God was bringing her a family, and a king's great-grandfather.",
+end_bible,,note,"Naomi sent Ruth to the threshing floor, where Ruth asked Boaz to be her redeemer. Boaz promised to act, and said there was a nearer relative. (3:1-18)",
+end_bible,,note,"At the town gate, Boaz asked the nearer relative, who declined, and Boaz bought Elimelech's land and took Ruth as his wife. (4:1-12)",
+end_bible,,note,"Ruth and Boaz had a son, Obed, the grandfather of David. (4:13-22)",
+end_imagined,,note,"You, and that you helped Ruth get ready, winnowed the barley and called the elders.",
+end_imagined,,note,"The workers, the women, the boy at the gate, and the bread seller, and what they said. The nearer relative is not named in the Bible.",
+end_imagined,,note,"The details of the night on the threshing floor, which the Bible tells briefly.",
+end_left_out,,note,"Ruth 4:13: the Bible says that the LORD enabled Ruth to have a child. Ruth is one of only a handful of women named in the family line of Jesus, in Matthew 1, and one of them (Rahab) was also a foreigner.",

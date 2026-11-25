@@ -1,0 +1,61 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story is about a battle. The Bible says that Jabin's whole army was lost, and that Jael, a woman, killed their commander Sisera in her tent (Judges 4:21). The game does not show or describe the battle or Sisera's death. It shows the storm, the flooded river, and Sisera going into Jael's tent, and then moves on.",
+arrive,,narrate,"The device hums. Green hill country, with a single great palm tree in a clearing, and a line of people waiting beneath it. This is the time of the judges, when Israel had no king, and leaders rose up when they were needed.",
+arrive,,quote,"After Ehud died, the Israelites again did evil in the sight of the LORD.",Judges 4:1
+deborah_idle,Deborah,say,"Wait your turn, and God will help us to settle it.",
+barak_idle,Barak,say,"I will go, if Deborah goes with me.",
+jael_idle,Jael,say,A tired man needs somewhere to rest.,
+sisera_idle,Sisera,say,Leave me alone. I need to rest.,
+oppressed,,quote,"So the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his forces was Sisera, who lived in Harosheth-hagoyim.",Judges 4:2
+cried_out,,quote,"Then the Israelites cried out to the LORD, because Jabin had nine hundred chariots of iron, and he had harshly oppressed the Israelites for twenty years.",Judges 4:3
+deborah,,quote,"Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time. And she would sit under the Palm of Deborah between Ramah and Bethel in the hill country of Ephraim, where the Israelites would go up to her for judgment.",Judges 4:4-5
+petitioners,Deborah,say,"{name}, welcome. Every day, people come to me with their troubles. Would you listen to the three who are waiting, and tell them that I will see them soon?",
+petition_idle,,narrate,It is not time to hear their troubles yet.,
+recruit_idle,,narrate,It is not time to call the men yet.,
+case_farmer,Farmer,say,"My neighbor has been diverting the water from my field, {name}. For two months my barley has had nothing. I have come for Deborah to help.",
+case_widow,Widow,say,My husband has died and his brother wants our field. I have three children. I only want to feed them. Will Deborah say it is mine?,
+case_brothers,Brothers,say,"Our father left us a flock, and we have fought ever since over who gets which sheep. We are tired of fighting, {name}. We want Deborah to decide.",
+cases_done,Deborah,say,"Thank you, {name}. I will see each one. This is what I do. And the people come to me because they trust that God will give me His wisdom. But there is something more urgent today.",
+barak_arrives,,narrate,"A tall soldier arrives at the clearing. He looks tired, and worried. Deborah calls him over.",
+summoned,,quote,"She summoned Barak son of Abinoam from Kedesh in Naphtali and said to him, “Surely the LORD, the God of Israel, is commanding you: ‘Go and march to Mount Tabor, taking with you ten thousand men of Naphtali and Zebulun. And I will draw out Sisera the commander of Jabin’s army, his chariots, and his troops to the River Kishon, and I will deliver him into your hand.’”",Judges 4:6-7
+if_you_go,,quote,"Barak said to her, “If you will go with me, I will go; but if you will not go with me, I will not go.”",Judges 4:8
+no_honor,,quote,"“I will certainly go with you,” Deborah replied, “but the road you are taking will bring you no honor, because the LORD will be selling Sisera into the hand of a woman.” So Deborah got up and went with Barak to Kedesh,",Judges 4:9
+kedesh,,quote,"where he summoned Zebulun and Naphtali. Ten thousand men followed him, and Deborah also went with him.",Judges 4:10
+ten_thousand,Barak,say,"Ten thousand men, {name}. And none of them has an iron chariot. I do not know how we are going to do this. But if the LORD says so, we will go.",
+heber,,quote,"Now Heber the Kenite had moved away from the Kenites, the descendants of Hobab the father-in-law of Moses, and had pitched his tent by the great tree of Zaanannim, which was near Kedesh.",Judges 4:11
+recruit_one,Man of Naphtali,say,"Barak is calling us to Mount Tabor? Against Sisera? I will come, {name}. I will bring my sons.",
+recruit_two,Man of Zebulun,say,"Twenty years of iron chariots, {name}. If Deborah says that the LORD is going before us, I will march.",
+recruit_three,Shepherd,say,"I have a sling and a stick, and I am not afraid. Tell Barak that I am coming.",
+sisera_told,,quote,"When Sisera was told that Barak son of Abinoam had gone up Mount Tabor, he summoned all nine hundred of his iron chariots and all the men with him, from Harosheth-hagoyim to the River Kishon.",Judges 4:12-13
+arise,,quote,"Then Deborah said to Barak, “Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?” So Barak came down from Mount Tabor with ten thousand men following him.",Judges 4:14
+kishon,,quote,"From the heavens the stars fought; from their courses they fought against Sisera. The River Kishon swept them away, the ancient river, the River Kishon.",Judges 5:20-21
+kishon,,narrate,"Black clouds roll over the valley and the rain comes down in sheets. The Kishon rises, brown and fast, and the heavy chariots sink into the soaked ground. The horses scream. The charioteers cannot move.",
+routed,,quote,"And in front of him the LORD routed with the sword Sisera, all his charioteers, and all his army. Sisera abandoned his chariot and fled on foot.",Judges 4:15
+fled,,quote,"Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite.",Judges 4:17
+jael_greets,,quote,"Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket.",Judges 4:18
+milk,,quote,"Sisera said to her, “Please give me a little water to drink, for I am thirsty.” So she opened a container of milk, gave him a drink, and covered him again.",Judges 4:19
+milk,,narrate,"You turn away. You are not meant to see what happens in that tent. The Bible tells it in a single verse. You walk down toward the river, and wait for the quiet.",
+subdued,,quote,On that day God subdued Jabin king of Canaan before the Israelites.,Judges 4:23
+subdued,,think,"Deborah said that the honor would go to a woman, and it did. God used Deborah the judge, and Jael, who was not even an Israelite, to save His people. He chooses whoever He wants.",
+song,,quote,On that day Deborah and Barak son of Abinoam sang this song:,Judges 5:1
+song2,Deborah and Barak,quote,"When the princes take the lead in Israel, when the people volunteer, bless the LORD. Listen, O kings! Give ear, O princes! I will sing to the LORD; I will sing praise to the LORD, the God of Israel.",Judges 5:2-3
+peace,,quote,"So may all Your enemies perish, O LORD! But may those who love You shine like the sun at its brightest.” And the land had rest for forty years.",Judges 5:31
+farewell,Deborah,say,"We have peace, {name}. For forty years, if the people will remember who gave it to them. I will sit under my palm, and the people will come, and I will listen.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_scout,Scout,say,Nine hundred iron chariots. I counted them myself. Our people have only farm tools. We do not stand a chance. Unless God has something to say about it.,
+disc_scout,,quote,"Jabin had nine hundred chariots of iron, and he had harshly oppressed the Israelites for twenty years.",Judges 4:3
+disc_child,Child,say,"I have never known a time without Jabin, {name}. I do not know what it is like to feel safe.",
+disc_child,,quote,… he had harshly oppressed the Israelites for twenty years.,Judges 4:3
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?",Judges 4:14
+end_truth,,quote,Has not the LORD gone before you?,Judges 4:14
+end_think,,think,"Barak had ten thousand farmers and Sisera had nine hundred iron chariots, but God fought for Israel. The LORD went before them, and with Him ahead, the people did not need to be afraid.",
+end_bible,,note,"Israel did evil again, and the LORD let Jabin king of Canaan oppress them for twenty years. They cried out for help. (4:1-3)",
+end_bible,,note,"Deborah, a prophetess, judged Israel under a palm tree. She told Barak to gather ten thousand men at Mount Tabor, and he asked her to go with him. (4:4-10)",
+end_bible,,note,"The LORD routed Sisera's army by the River Kishon. Sisera fled to Jael's tent, and God subdued Jabin that day. (4:11-24)",
+end_bible,,note,"Deborah and Barak sang a song, and the land had rest for forty years. (5:1-31)",
+end_imagined,,note,"You, and that you listened to the people waiting for Deborah and called the men to Mount Tabor.",
+end_imagined,,note,"The three people waiting, the scout, the child, and what they said. The Bible says that Israelites came to Deborah for judgment, and gives no examples.",
+end_imagined,,note,"The storm. The Bible says the LORD routed Sisera's army and that the River Kishon swept them away, and Deborah's song says that the stars fought. It does not describe the weather.",
+end_left_out,,note,"Judges 4:21-22: Jael killed Sisera in her tent with a tent peg, and Barak found him dead. The game does not show or describe it. Judges 5:24-30 praises Jael in Deborah's song.",

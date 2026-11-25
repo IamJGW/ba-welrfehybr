@@ -1,0 +1,70 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story is about the night the LORD struck down the firstborn sons of Egypt, and passed over the homes of the Israelites. The Bible says this plainly, and the game does too, in the Bible's own words. It does not show any harm. The people in the story are in their house all night, listening to the sounds outside.",
+parent_note,,note,"It is also the story behind the Jewish festival of Passover and, for Christians, one of the pictures of what Jesus did. Many children find it troubling. That is a fine thing to talk about together.",
+arrive,,narrate,"The device hums. A street of small houses in Goshen, in the evening light. Families are busy in their yards, and the air is full of the smell of woodsmoke. Everyone seems to be getting ready for something.",
+arrive,,narrate,"This is the last night of the Israelites' slavery in Egypt, though they do not know it yet.",
+father_idle,Father,say,This is the most important night of our lives. We must get everything right.,
+instructions,Father,say,"{name}, you are just in time! Moses has told us what God has commanded. I will tell you what it says.",
+instructions,,quote,This month is the beginning of months for you; it shall be the first month of your year.,Exodus 12:2
+lamb_rules,,quote,"Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household.",Exodus 12:3
+lamb_rules,,quote,"Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats.",Exodus 12:5
+lamb_ask,Father,say,We have three lambs in the pen. One of them is perfect. Would you help me look at each one? We need the one that has no defect at all.,
+lamb_idle,,narrate,The family has not chosen the lamb yet.,
+lamb_lamb1,,narrate,This lamb has a torn ear. The LORD asked for a lamb with no blemish. Not this one.,
+lamb_lamb3,,narrate,This lamb limps a little on one foot. The LORD asked for a lamb with no blemish. Not this one.,
+lamb_chosen,Father,say,"That one. Healthy, a year old, with no flaw. We will keep it close for four days, just as the LORD said.",
+lamb_chosen,,quote,"You must keep it until the fourteenth day of the month, when the whole assembly of the congregation of Israel will slaughter the animals at twilight.",Exodus 12:6
+meal_rules,,quote,"They are to eat the meat that night, roasted over the fire, along with unleavened bread and bitter herbs.",Exodus 12:8
+meal_rules,Mother,say,"Thank you, {name}. Everything is ready.",
+dressed,,quote,"This is how you are to eat it: You must be fully dressed for travel, with your sandals on your feet and your staff in your hand. You are to eat in haste; it is the LORD’s Passover.",Exodus 12:11
+dressed,,think,"The family was told to eat dressed and ready to travel. They were about to leave the only home they had ever known, and they would not have long to pack.",
+meal_idle,,narrate,It is not yet time to prepare the meal.,
+meal_hands,,narrate,Your hands are full. Take that to the table first.,
+meal_gone,,narrate,You have already taken that to the table.,
+meal_take,,narrate,You pick up {item}. Take it to the table.,
+meal_empty,,narrate,Pick up something for the meal first.,
+meal_give,,narrate,You set it down on the table.,
+doorway,Father,say,"Now for the blood. This is the sign. The LORD said, ""When I see the blood, I will pass over you.""",
+doorway,,quote,They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.,Exodus 12:7
+hyssop,,quote,"Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning.",Exodus 12:22
+hyssop,,quote,"The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you. No plague will fall on you to destroy you when I strike the land of Egypt.",Exodus 12:13
+blood_idle,,narrate,The doorframe is not ready for the blood yet.,
+blood_tap,,narrate,You dip the hyssop in the basin and brush the blood across the wood.,
+inside,,narrate,"The family crowds inside and the door is shut. The room is dim, lit by a single lamp. No one speaks. The little girl holds her mother's hand. The oldest son sits close beside his father.",
+midnight,,quote,"Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock.",Exodus 12:29
+wailing,,quote,During the night Pharaoh got up—he and all his officials and all the Egyptians—and there was loud wailing in Egypt; for there was no house without someone dead.,Exodus 12:30
+wailing,,narrate,"Through the walls, from the houses of Egypt, a sound rises. It is the sound of people crying. It goes on and on. No one in this room says a word. The family sits together in the dark, safe under the blood on the door.",
+summoned,,quote,"Then Pharaoh summoned Moses and Aaron by night and said, “Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested. Take your flocks and herds as well, just as you have said, and depart! And bless me also.”",Exodus 12:31-32
+memorial,,quote,"And this day will be a memorial for you, and you are to celebrate it as a feast to the LORD, as a permanent statute for the generations to come.",Exodus 12:14
+moses_idle,Moses,say,God has done what He said. Now we must go.,
+departure,,quote,"Furthermore, the Israelites acted on Moses’ word and asked the Egyptians for articles of silver and gold, and for clothing. And the LORD gave the people such favor in the sight of the Egyptians that they granted their request.",Exodus 12:35-36
+exodus,,quote,"The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children. And a mixed multitude also went up with them, along with great droves of livestock, both flocks and herds.",Exodus 12:37-38
+exodus,,quote,"Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves.",Exodus 12:39
+why,,quote,"When your children ask you, ‘What does this service mean to you?’ you are to reply, ‘It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt when He struck down the Egyptians and spared our homes.’” Then the people bowed down and worshiped.",Exodus 12:26-27
+lamb_of_god,,note,"Long after, the apostle Paul wrote about Jesus using the same picture:",
+lamb_of_god,,quote,"For Christ, our Passover lamb, has been sacrificed.",1 Corinthians 5:7
+lamb_of_god,,think,"The lamb died and the family was spared. Christians believe that Jesus is the Lamb who died, so that everyone who trusts Him can be saved. This is why the Passover story matters so much.",
+farewell,Father,say,"We are going, {name}. We do not know where. But we are free.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_mother,Mother,say,"There was no time to let the bread rise, so we make it without yeast. Flat, quick bread. We will eat it for seven days every year to remember.",
+disc_mother,,quote,"Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves.",Exodus 12:39
+disc_son,Oldest son,say,"I am the firstborn. Father keeps looking at me. I know why. I am scared, {name}, but he says that God will keep His promise.",
+disc_son,,quote,"The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you.",Exodus 12:13
+disc_girl,Little girl,say,Why do we have to sit so quietly? Why can't I go and play? Mother says I will understand when I am older.,
+disc_girl,,quote,"When your children ask you, ‘What does this service mean to you?’",Exodus 12:26
+disc_neighbor,Neighbor,say,"We are only two in our house. Too small for a whole lamb, so we share with the next family. We will eat together tonight.",
+disc_neighbor,,quote,"If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly.",Exodus 12:4
+disc_elder,Elder,say,This will be the first month of our new year from now on. Everything starts again tonight.,
+disc_elder,,quote,This month is the beginning of months for you; it shall be the first month of your year.,Exodus 12:2
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you.",Exodus 12:13
+end_truth,,quote,"… when I see the blood, I will pass over you.",Exodus 12:13
+end_think,,think,"The Israelites were saved because they trusted God's word and did what He said, not because they were better than anyone. Passover is remembered every year so that each generation knows what God did.",
+end_bible,,note,"God told Moses that each family should choose a lamb with no blemish, put its blood on the doorframe, and eat the meal ready to travel. (12:1-14)",
+end_bible,,note,"At midnight the LORD struck down every firstborn male in Egypt, and passed over the houses marked with blood. There was loud wailing in Egypt. (12:29-30)",
+end_bible,,note,"Pharaoh told the Israelites to leave. They took silver, gold and clothing, and left with about 600,000 men on foot, besides women and children. (12:31-39)",
+end_imagined,,note,"You, and that you chose the lamb, carried the meal and brushed the blood on the doorframe.",
+end_imagined,,note,"The family: the father, the mother, the oldest son, the little girl and the neighbor, and what they said. The Bible says only what each household was told to do.",
+end_imagined,,note,"The three lambs. The Bible says only that the lamb must be unblemished, and does not describe how it was chosen.",
+end_left_out,,note,"Exodus 12:43-51 and 13: more laws about the feast, and God's command that every firstborn son be set apart to Him.",

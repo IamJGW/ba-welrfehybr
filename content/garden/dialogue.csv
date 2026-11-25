@@ -1,0 +1,76 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Green everywhere, sweet air, and the sound of running water. A garden.",
+garden,,quote,"And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed.",Genesis 2:8
+garden,,quote,"Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it.",Genesis 2:15
+garden,The LORD God,quote,"You may eat freely from every tree of the garden, but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.",Genesis 2:16-17
+animals,,quote,"And out of the ground the LORD God formed every beast of the field and every bird of the air, and He brought them to the man to see what he would name each one.",Genesis 2:19
+man_idle,,narrate,"The man smiles and goes back to his work.",
+man_waiting,,narrate,"The man looks around for the next animal.",
+animal_follows,,narrate,"It follows you.",
+naming,,narrate,"The man looks at the creature for a long time, and then he gives it its name.",
+named,,quote,"… And whatever the man called each living creature, that was its name.",Genesis 2:19
+named,,quote,"The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found.",Genesis 2:20
+sleep,,quote,"So the LORD God caused the man to fall into a deep sleep …",Genesis 2:21
+woman,,quote,"… He made a woman and brought her to him.",Genesis 2:22
+woman,The man,quote,"This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.",Genesis 2:23
+trees,,quote,"… And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",Genesis 2:9
+serpent,,quote,"Now the serpent was more crafty than any beast of the field that the LORD God had made.",Genesis 3:1
+serpent,The serpent,quote,"Did God really say, ‘You must not eat from any tree in the garden?’",Genesis 3:1
+serpent,The woman,quote,"We may eat the fruit of the trees of the garden, but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’",Genesis 3:2-3
+serpent,The serpent,quote,"You will not surely die, | For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.",Genesis 3:4-5
+serpent,,narrate,"You remember the letter in Grandma's trunk: you cannot change what happened.",
+ate,,quote,"When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.",Genesis 3:6
+ate,,think,"The serpent made God's good command sound like a trick. Sin often starts by doubting that God's word is good.",
+opened,,quote,"And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.",Genesis 3:7
+hear,,quote,"Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden.",Genesis 3:8
+where,The LORD God,quote,"Where are you?",Genesis 3:9
+where,The man,quote,"I heard Your voice in the garden, | and I was afraid because I was naked; so I hid myself.",Genesis 3:10
+where,The LORD God,quote,"Who told you that you were naked? | Have you eaten from the tree of which I commanded you not to eat?",Genesis 3:11
+where,The man,quote,"The woman whom You gave me, she gave me fruit from the tree, and I ate it.",Genesis 3:12
+where,The LORD God,quote,"What is this you have done?",Genesis 3:13
+where,The woman,quote,"The serpent deceived me, | and I ate.",Genesis 3:13
+promise,The LORD God,quote,"And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.",Genesis 3:15
+promise,,think,"Even in this sad moment, God made a promise: one day a child of the woman would crush the serpent's head.",
+promise,,note,"Long after, the Bible calls that ancient serpent the devil (Revelation 12:9). And it says this about Jesus, the Son of God:",
+promise,,quote,"… This is why the Son of God was revealed, to destroy the works of the devil.",1 John 3:8
+dust,The LORD God,quote,"… For dust you are, and to dust you shall return.",Genesis 3:19
+clothed,,quote,"And the LORD God made garments of skin for Adam and his wife, and He clothed them.",Genesis 3:21
+clothed,,think,"They had disobeyed, but God still cared for them. He clothed them before they left the garden.",
+sent_out,,quote,"Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.",Genesis 3:23
+sent_out,,quote,"So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.",Genesis 3:24
+farewell,,narrate,"Your device hums. Time to go.",
+look_knowtree,,narrate,"Its fruit is bright and lovely. This is the one tree God said not to eat from.",
+look_lifetree,,narrate,"Golden fruit glows among the leaves. The tree of life.",
+look_pool,,narrate,"Cool, clear water.",
+look_deer,,narrate,"The deer has its name now. It bounds away.",
+look_camel,,narrate,"The camel chews and blinks at you.",
+look_ibex,,narrate,"The wild goat leaps onto a rock.",
+look_lion,,narrate,"The lion is asleep in the sun.",
+look_elephant,,narrate,"The elephant sprays itself with river water.",
+look_dove,,narrate,"The dove coos softly.",
+water_take,,narrate,"You fill a jar with water from the river.",
+sprout_dry,,narrate,"A young plant, thirsty for water.",
+sprout_done,,narrate,"It is already blooming.",
+disc_tend,,narrate,"All three plants burst into bloom.",
+disc_tend,,quote,"But springs welled up from the earth and watered the whole surface of the ground.",Genesis 2:6
+disc_trees,,quote,"Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food.",Genesis 2:9
+disc_gold,,narrate,"Something glints yellow in the stream bed.",
+disc_gold,,quote,"The name of the first river is the Pishon; it winds through the whole land of Havilah, where there is gold.",Genesis 2:11
+disc_rivers,,quote,"The name of the third river is the Tigris; it runs along the east side of Assyria. And the fourth river is the Euphrates.",Genesis 2:14
+disc_wonderful,,note,"Long after, David wrote this about how God makes each person:",
+disc_wonderful,,quote,"I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.",Psalm 139:14
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"And the LORD God made garments of skin for Adam and his wife, and He clothed them.",Genesis 3:21
+game_verses,,quote,"I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.",Psalm 139:14
+end_truth,,quote,"And the LORD God made garments of skin for Adam and his wife, and He clothed them.",Genesis 3:21
+end_think,,think,"God's word is good. Even when we disobey, He keeps caring for us and keeps His promises.",
+end_bible,,note,"God planted a garden in Eden and gave the man work to do there. (2:8-17)",
+end_bible,,note,"The man named the animals, and God made the woman. (2:18-25)",
+end_bible,,note,"The serpent tempted the woman, and they both ate the fruit. (3:1-7)",
+end_bible,,note,"God called to them, and promised the serpent would one day be crushed. (3:8-15)",
+end_bible,,note,"God clothed them and sent them out of the garden. (3:21-24)",
+end_imagined,,note,"You, and that you helped bring animals to the man and watered the young plants.",
+end_imagined,,note,"Where the trees, rivers and animals were. The Bible names the rivers but not where the garden was.",
+end_imagined,,note,"How the serpent and the flaming guard at the gate look, and the simple clothes the man and woman wear before the fig leaves.",
+end_left_out,,note,"God also told the woman and the man how hard life would now be (3:16-19). Read it together with a parent.",

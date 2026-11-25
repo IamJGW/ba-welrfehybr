@@ -1,0 +1,59 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A broad valley near Hebron, with tents beneath the oaks and sheep on the green hills. The barley is ripe and ready to cut.",
+arrive,,quote,"Now Jacob lived in the land where his father had resided, the land of Canaan.",Genesis 37:1
+arrive,,narrate,"Jacob has twelve sons. Joseph is the second youngest, and he is leading some of the flock to pasture.",
+meet,Joseph,say,"Hello, {name}! Are you here to help with the harvest? I'm Joseph. I'm seventeen, and I look after the flock with my brothers.",
+meet,,quote,"This is the account of Jacob. When Joseph was seventeen years old, he was tending the flock with his brothers, the sons of his father’s wives Bilhah and Zilpah, and he brought their father a bad report about them.",Genesis 37:2
+meet,Joseph,say,I told Father about some things I saw them doing. I thought he should know. They did not thank me for it.,
+meet,,think,"Joseph told on his brothers, and it made them like him less. Even the people in the Bible's biggest stories were not perfect.",
+come,Joseph,say,Father is calling for me. Come with me to his tent!,
+joseph_idle,Joseph,say,My brothers are binding sheaves in the barley field. I will be along soon.,
+robe,Jacob,say,"Joseph, my boy. Come here. I have something for you.",
+robe,,quote,"Now Israel loved Joseph more than his other sons, because Joseph had been born to him in his old age; so he made him a robe of many colors.",Genesis 37:3
+robe,Jacob,say,Put it on. Let the whole camp see how I feel about you.,
+robe,,narrate,"Joseph pulls on the robe. It is red and blue and gold, the finest thing in the camp. Not one of his brothers has anything like it.",
+robe,,think,"Jacob loved all his sons. But when a father shows that he loves one more than the others, it hurts the family. Jacob had grown up in a family like that himself.",
+robe_after,Jacob,say,"You are a good boy, {name}, and I am glad you are here today. Go and see how the harvest is going.",
+jacob_robe,Jacob,say,Go and see how the harvest is going. Joseph's brothers will be glad of another pair of hands.,
+jacob_idle,Jacob,say,Joseph is out with the flock. Come back when he returns.,
+field,,quote,"When Joseph’s brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him.",Genesis 37:4
+field,Reuben,say,"Don't just stand there, {name}. Come and bind some sheaves with us. There is plenty to do, even for a boy in a fine coat.",
+field,Simeon,say,Our little brother does not need to work in his coat. He only needs to show it off.,
+bind_tap,,narrate,You gather the cut barley and tie it up in a tight sheaf.,
+bind_idle,,narrate,The sheaves are for binding when the harvest begins.,
+dream1,Joseph,say,Brothers! Listen to this dream I had.,
+dream1,Joseph,quote,"Listen to this dream I had: We were binding sheaves of grain in the field, and suddenly my sheaf rose and stood upright, while your sheaves gathered around and bowed down to mine.",Genesis 37:6-7
+dream1,The brothers,quote,Do you intend to reign over us? | Will you actually rule us?,Genesis 37:8
+dream1,,quote,So they hated him even more because of his dream and his statements.,Genesis 37:8
+dream1_after,Reuben,say,"Come on, {name}. We had better finish before sundown. And let's hope he has no more dreams.",
+evening,,narrate,"Evening comes. The family gathers by the fire after the day's work. Above the tents, the stars come out one by one.",
+dream2,Joseph,quote,"Look, | I had another dream, and this time the sun and moon and eleven stars were bowing down to me.",Genesis 37:9
+rebuke,Jacob,quote,What is this dream that you have had? Will your mother and brothers and I actually come and bow down to the ground before you?,Genesis 37:10
+rebuke,,quote,"And his brothers were jealous of him, but his father kept in mind what he had said.",Genesis 37:11
+rebuke,,think,"Jacob scolded Joseph out loud, but he did not forget the dream. Sometimes people hold on to something that they do not understand yet.",
+jacob_night,Jacob,say,"Sleep well, {name}. Tomorrow is another day.",
+judah_idle,Judah,say,Is that your little brother's coat? It is too fine for a field.,
+simeon_idle,Simeon,say,Do not look at me. Bind the sheaves.,
+farewell,Jacob,say,"I have thought about that dream all night, {name}. Eleven stars, the sun and the moon. I do not know what it means. But I will not forget it.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_reuben,Reuben,say,"I am the oldest of the brothers, {name}. When things go wrong I am the one who has to fix them. Joseph is not easy to love, but he is still my brother.",
+disc_reuben,,quote,"The sons of Leah were Reuben the firstborn of Jacob, Simeon, Levi, Judah, Issachar, and Zebulun.",Genesis 35:23
+disc_benjamin,Benjamin,say,"Joseph is my brother! He is the best one, and he carries me on his shoulders.",
+disc_benjamin,,quote,And with her last breath—for she was dying—she named him Ben-oni. But his father called him Benjamin.,Genesis 35:18
+disc_benjamin,,think,"Joseph and Benjamin had the same mother, Rachel. Joseph is old enough to remember her. Benjamin never knew her.",
+disc_bilhah,Bilhah,say,My sons Dan and Naphtali work in the fields with their brothers. Joseph was sent to watch the flock with them. He did not need to carry stories back to Jacob.,
+disc_bilhah,,quote,The sons of Rachel’s maidservant Bilhah were Dan and Naphtali.,Genesis 35:25
+disc_israel,Old servant,say,"Our master's other name is Israel. I saw how it happened, long ago, on the road home. He wrestled with a man all night, and he would not let go.",
+disc_israel,,quote,"Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.",Genesis 32:28
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Now Israel loved Joseph more than his other sons, because Joseph had been born to him in his old age; so he made him a robe of many colors.",Genesis 37:3
+end_truth,,quote,"And his brothers were jealous of him, but his father kept in mind what he had said.",Genesis 37:11
+end_think,,think,"Joseph's dreams came true, years later and in a way no one expected. When a family is full of jealousy, God can still be working on something bigger.",
+end_bible,,note,"Jacob lived in Canaan. Joseph, seventeen, tended the flock with his brothers and brought their father a bad report about them. (37:1-2)",
+end_bible,,note,Israel loved Joseph more than his other sons and made him a robe of many colors. His brothers hated him and could not speak a kind word to him. (37:3-4),
+end_bible,,note,"Joseph dreamed that his brothers' sheaves bowed down to his, and then that the sun, moon and eleven stars bowed to him. His brothers were jealous, but his father kept the dream in mind. (37:5-11)",
+end_imagined,,note,"You, and that you bound the sheaves with the brothers.",
+end_imagined,,note,"Benjamin, Bilhah and the old servant, and what they said. Benjamin was born a few years after Joseph and would be a child, but his age is not given.",
+end_imagined,,note,That the two dreams were told in the field and by the fire. The Bible says only that Joseph told them.,
+end_left_out,,note,"Genesis 38: a story about Judah and his family, set in the middle of Joseph's story.",

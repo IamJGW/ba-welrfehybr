@@ -1,0 +1,93 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A town on a hill, with a well and a few houses, and in the street a knot of serious older men. In the middle, an old prophet with white hair and a worried face is listening very hard. This is Ramah, where Samuel lives.",
+samuel_idle,Samuel,say,I did not expect it to come to this.,
+saul_idle,Saul,say,We have been walking for three days.,
+servant_idle,Servant,say,There is a man of God in the city. Perhaps he can help.,
+women_idle,Young women,say,We are drawing water for the sacrifice.,
+sign_idle,,narrate,There is nothing to search for here just now.,
+bag_idle,,narrate,There is no need to search the baggage yet.,
+elders_came,,quote,"So all the elders of Israel gathered together and came to Samuel at Ramah. “Look,” they said, “you are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.”",1 Samuel 8:4-5
+give_us_a_king,,narrate,"The elders speak one after another, loudly and politely. They are afraid of the Philistines, and they have seen other nations with their kings, their chariots and their palaces. They want a king, too.",
+displeasing,,quote,"But when they said, “Give us a king to judge us,” their demand was displeasing in the sight of Samuel; so he prayed to the LORD.",1 Samuel 8:6
+rejected_me,The LORD,quote,"Listen to the voice of the people in all that they say to you. For it is not you they have rejected, but they have rejected Me as their king.",1 Samuel 8:7
+manner,Samuel,quote,"This will be the manner of the king who will reign over you: He will take your sons and appoint them to serve his own chariots and horses, and to run in front of his chariots. … He will take a tenth of your flocks, and you yourselves will become his slaves.",1 Samuel 8:11-17
+manner,Samuel,quote,"When that day comes, you will beg for relief from the king you have chosen, but the LORD will not answer you on that day.",1 Samuel 8:18
+we_must_have,The people,quote,"No! | We must have a king over us. Then we will be like all the other nations, with a king to judge us, to go out before us, and to fight our battles.",1 Samuel 8:19-20
+appoint,,quote,"“Listen to their voice,” the LORD said to Samuel. “Appoint a king for them.” Then Samuel told the men of Israel, “Everyone must go back to his city.”",1 Samuel 8:22
+appoint,,think,"God had been Israel's king ever since Egypt. They wanted to be like the other nations, and to have someone they could see. God let them have what they asked for, and warned them what it would cost.",
+kish,,quote,"Now there was a Benjamite, a powerful man, whose name was Kish son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah of Benjamin.",1 Samuel 9:1
+saul_head,,quote,"And he had a son named Saul, choice and handsome, without equal among the Israelites—a head taller than any of the people.",1 Samuel 9:2
+donkeys_wandered,,quote,"One day the donkeys of Saul’s father Kish wandered off, and Kish said to his son Saul, “Take one of the servants and go look for the donkeys.”",1 Samuel 9:3
+search_ask,Saul,say,"{name}, would you help us? We have been looking for three days, and we have no luck. Perhaps you will see where we have missed them.",
+look_ephraim,,quote,"So Saul passed through the hill country of Ephraim and then through the land of Shalishah, but they did not find the donkeys.",1 Samuel 9:4
+look_shalishah,,quote,"He and the servant went through the region of Shaalim, but they were not there.",1 Samuel 9:4
+look_benjamin,,quote,"Then they went through the land of Benjamin, and still they did not find them.",1 Samuel 9:4
+search_failed,Saul,quote,"Come, let us go back, or my father will stop worrying about the donkeys and start worrying about us.",1 Samuel 9:5
+servant_suggests,Servant,quote,"Look, | in this city there is a man of God who is highly respected; everything he says surely comes to pass. Let us go there now. Perhaps he will tell us which way to go.",1 Samuel 9:6
+women_say,,quote,"And as they were climbing the hill to the city, they met some young women coming out to draw water and asked, “Is the seer here?”",1 Samuel 9:11
+hurry,The young women,quote,"Yes, he is ahead of you, | Hurry now, for today he has come to the city because the people have a sacrifice on the high place. As soon as you enter the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he must bless the sacrifice; after that, the guests will eat. Go up at once; you will find him.",1 Samuel 9:12-13
+lord_revealed,,quote,"Now on the day before Saul’s arrival, the LORD had revealed to Samuel, “At this time tomorrow I will send you a man from the land of Benjamin, and you are to anoint him ruler over My people Israel; he will save them from the hand of the Philistines. For I have looked upon My people, because their cry has come to Me.”",1 Samuel 9:15-16
+send_a_man,,quote,"So Saul and his servant went up toward the city, and as they were entering it, there was Samuel coming toward them on his way up to the high place.",1 Samuel 9:14
+here_is_the_man,,quote,"When Samuel saw Saul, the LORD told him, “Here is the man of whom I spoke; he shall rule over My people.”",1 Samuel 9:17
+where_seer,,quote,"Saul approached Samuel in the gateway and asked, “Would you please tell me where the seer’s house is?”",1 Samuel 9:18
+donkeys_found,Samuel,quote,"I am the seer, | Go up before me to the high place, for you shall eat with me today. And when I send you off in the morning, I will tell you all that is in your heart. As for the donkeys you lost three days ago, do not worry about them, for they have been found.",1 Samuel 9:19-20
+desire_of_israel,Samuel,quote,"And upon whom is all the desire of Israel, if not upon you and all your father’s house?",1 Samuel 9:20
+smallest_tribe,Saul,quote,"Am I not a Benjamite from the smallest tribe of Israel, and is not my clan the least of all the clans of Benjamin? So why would you say such a thing to me?",1 Samuel 9:21
+smallest_tribe,,think,"Saul did not think he was important. God picked a man who was humble, and very tall. It would be a long time before his height went to his head.",
+morning,,quote,"As they were going down to the edge of the city, Samuel said to Saul, “Tell the servant to go on ahead of us, but you stay for a while, and I will reveal to you the word of God.” So the servant went on.",1 Samuel 9:27
+morning,Samuel,say,"{name}, would you bring me the flask of oil, please?",
+oil_idle,,narrate,It is not time for the oil yet.,
+oil_hands,,narrate,Your hands are full.,
+oil_gone,,narrate,You have already brought that.,
+oil_take,,narrate,You pick up {item}. Take it to Samuel.,
+oil_empty,,narrate,Take the flask of oil first.,
+oil_give,,narrate,Samuel takes the flask with a solemn nod.,
+anointed,,quote,"Then Samuel took a flask of oil, poured it on Saul’s head, kissed him, and said, “Has not the LORD anointed you ruler over His inheritance?",1 Samuel 10:1
+signs,Samuel,quote,"Then the Spirit of the LORD will rush upon you, and you will prophesy with them; and you will be transformed into a different person. When these signs have come, do as the occasion demands, for God is with you.",1 Samuel 10:6-7
+mizpah,,quote,"After this, Samuel summoned the people to the LORD at Mizpah and said to the Israelites, “This is what the LORD, the God of Israel, says: ‘I brought Israel up out of Egypt, and I rescued you from the hands of the Egyptians and of all the kingdoms that oppressed you.’",1 Samuel 10:17-18
+rescued_you,,narrate,"A great crowd covers the hillside at Mizpah. All the tribes of Israel are there, standing in rows, looking at Samuel.",
+rejected_your_god,Samuel,quote,"But today you have rejected your God, who saves you from all your troubles and afflictions, and you have said to Him, ‘No, set a king over us.’ Now therefore present yourselves before the LORD by your tribes and clans.",1 Samuel 10:19
+lots,,quote,"Thus Samuel had all the tribes of Israel come forward, and the tribe of Benjamin was selected. Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected.",1 Samuel 10:20-21
+could_not_find,,quote,"But when they looked for him, they could not find him. So again they inquired of the LORD, “Has the man come here yet?”",1 Samuel 10:21-22
+hidden,The LORD,quote,"Behold, | he has hidden himself among the baggage.",1 Samuel 10:22
+hidden,Samuel,say,"Go and find him, {name}, will you? Look among the baggage.",
+bag_1,,narrate,Nothing here but bundles and tent poles.,
+bag_2,,narrate,Nothing here but a few cooking pots.,
+found_saul,,quote,"So they ran and brought Saul, and when he stood among the people, he was a head taller than any of the others.",1 Samuel 10:23
+head_taller2,Samuel,quote,Do you see the one the LORD has chosen? There is no one like him among all the people.,1 Samuel 10:24
+long_live,,quote,"And all the people shouted, “Long live the king!”",1 Samuel 10:24
+kingdom_not_of_this_world,,note,"Long after, a different King stood before a Roman governor, and said:",
+kingdom_not_of_this_world,Jesus,quote,"My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.",John 18:36
+farewell,Samuel,say,"I did what the LORD told me, {name}. Now we will see what kind of king Saul will be. I pray that he will listen.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_elder,Elder,say,"The other nations have kings, {name}. Why should we be the only ones without one?",
+disc_elder,,quote,Now appoint a king to judge us like all the other nations.,1 Samuel 8:5
+disc_elder2,Elder,say,"Samuel is old, and his sons are not like him. Who will lead us when he is gone? We need someone.",
+disc_elder2,,quote,"Look, | you are old, and your sons do not walk in your ways.",1 Samuel 8:5
+disc_kish,Kish,say,"My son is out looking for the donkeys. I hope he comes back soon. He is a good boy, and he is a head taller than the rest of us.",
+disc_kish,,quote,One day the donkeys of Saul’s father Kish wandered off …,1 Samuel 9:3
+disc_donkey,Donkey,say,Hee-haw. I was not lost. I knew exactly where I was.,
+disc_donkey,,quote,"As for the donkeys you lost three days ago, do not worry about them, for they have been found.",1 Samuel 9:20
+disc_tribe,Man of the tribes,say,All the tribes are here. Samuel says we are going to learn who the king will be. I am nervous.,
+disc_tribe,,quote,"Thus Samuel had all the tribes of Israel come forward, and the tribe of Benjamin was selected.",1 Samuel 10:20
+disc_chief,Chief,say,The clan of Matri has been chosen. I am from Matri! I wonder who it is.,
+disc_chief,,quote,"Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected.",1 Samuel 10:21
+game_donkeys_intro,,quote,"One day the donkeys of Saul’s father Kish wandered off, and Kish said to his son Saul, “Take one of the servants and go look for the donkeys.”",1 Samuel 9:3
+game_donkeys_intro,,note,"Six donkeys are hiding behind the bushes on this hillside. Search each bush before the time runs out, and watch the meter: it shows how close you are to a donkey.",
+game_donkeys_how,,note,"Arrow keys to walk. Space to search the bush beside you",
+game_donkeys_found,,note,"Found one!",
+game_donkeys_empty,,note,"Nothing behind this one.",
+game_donkeys_done,,note,"All the donkeys, and a happy father. Saul was luckier than you.",
+game_donkeys_short,,note,"Saul looked for three days. Try again!",
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"For it is not you they have rejected, but they have rejected Me as their king.",1 Samuel 8:7
+end_truth,,quote,"… it is not you they have rejected, but they have rejected Me as their king.",1 Samuel 8:7
+end_think,,think,"Israel wanted a king like all the other nations, and God gave them one. But the LORD had been their king all along. We should be careful what we ask for, and remember that God is the real King.",
+end_bible,,note,"The elders asked Samuel for a king. God said the people had rejected Him, and told Samuel to warn them. (8:1-22)",
+end_bible,,note,"Saul, looking for his father's donkeys, met Samuel. The LORD had told Samuel that Saul would be the ruler. (9:1-21)",
+end_bible,,note,"Samuel anointed Saul. At Mizpah, Saul was chosen by lot, and was found hiding among the baggage. The people shouted, ""Long live the king!"" (9:22-10:27)",
+end_imagined,,note,"You, and that you searched with Saul, brought the oil and found him among the baggage.",
+end_imagined,,note,"The elders, Kish, the men at Mizpah and the chief, and what they said. The Bible names only Samuel, Saul, Kish and the servant (who is not named).",
+end_imagined,,note,"The search. The Bible lists the regions they searched, and says they did not find the donkeys.",
+end_left_out,,note,"1 Samuel 9:22-26 and 10:2-16: the feast at the high place, the three signs on the road, and Saul prophesying. 1 Samuel 10:25-27: Samuel wrote down the rules of the kingdom, and some men despised Saul.",

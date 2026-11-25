@@ -1,0 +1,66 @@
+scene,speaker,kind,text,ref
+beginning,,quote,"In the beginning God created the heavens and the earth.",Genesis 1:1
+beginning,,quote,"Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.",Genesis 1:2
+let_light,God,quote,"Let there be light",Genesis 1:3
+let_light,,quote,"… and there was light.",Genesis 1:3
+let_light,,note,"Long after, John began his book about Jesus with the same words as Genesis: ""In the beginning."" He called Jesus ""the Word,"" and wrote:",
+let_light,,quote,"Through Him all things were made, and without Him nothing was made that has been made.",John 1:3
+day1,,quote,"And God saw that the light was good, and He separated the light from the darkness.",Genesis 1:4
+day1,,quote,"… And there was evening, and there was morning—the first day.",Genesis 1:5
+day2,God,quote,"Let there be an expanse between the waters, to separate the waters from the waters.",Genesis 1:6
+day2,,quote,"God called the expanse “sky.” And there was evening, and there was morning—the second day.",Genesis 1:8
+day3_waters,God,quote,"Let the waters under the sky be gathered into one place, so that the dry land may appear.",Genesis 1:9
+day3_land,,quote,"God called the dry land “earth,” and the gathering of waters He called “seas.” And God saw that it was good.",Genesis 1:10
+day3_grow,God,quote,"Let the earth bring forth vegetation: seed-bearing plants and fruit trees, each bearing fruit with seed according to its kind.",Genesis 1:11
+day3_plants,,narrate,"Fruit hangs heavy on the branches. Inside each one are seeds, ready to grow more trees.",
+day3_plants,,quote,"The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed according to their kinds. And God saw that it was good.",Genesis 1:12
+day3_plants,,quote,"And there was evening, and there was morning—the third day.",Genesis 1:13
+day4_ask,God,quote,"Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years.",Genesis 1:14
+day4_night,,quote,"God made two great lights: the greater light to rule the day and the lesser light to rule the night. And He made the stars as well.",Genesis 1:16
+day4_day,,quote,"… And God saw that it was good.",Genesis 1:18
+day4_day,,quote,"And there was evening, and there was morning—the fourth day.",Genesis 1:19
+day5,God,quote,"Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.",Genesis 1:20
+day5_sea,,quote,"So God created the great sea creatures and every living thing that moves, with which the waters teemed according to their kinds, and every winged bird after its kind. And God saw that it was good.",Genesis 1:21
+day5_sea,,quote,"And there was evening, and there was morning—the fifth day.",Genesis 1:23
+day6_beasts,God,quote,"Let the earth bring forth living creatures according to their kinds: livestock, land crawlers, and beasts of the earth according to their kinds.",Genesis 1:24
+lion,,narrate,"The lion pads over, sniffs your hand, and flops down in the grass beside you.",
+lion,,quote,"God made the beasts of the earth according to their kinds, the livestock according to their kinds, and everything that crawls upon the earth according to its kind. And God saw that it was good.",Genesis 1:25
+image,God,quote,"Let Us make man in Our image, after Our likeness …",Genesis 1:26
+image,,quote,"So God created man in His own image; in the image of God He created him; male and female He created them.",Genesis 1:27
+image,,think,"Of everything God made, only people were made in His image. That is why every person matters, including you.",
+very_good,,quote,"And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day.",Genesis 1:31
+rest,,narrate,"Everything is quiet. Even the wind is still.",
+rest,,quote,"Thus the heavens and the earth were completed in all their vast array.",Genesis 2:1
+rest,,quote,"And by the seventh day God had finished the work He had been doing; so on that day He rested from all His work.",Genesis 2:2
+rest,,quote,"Then God blessed the seventh day and sanctified it …",Genesis 2:3
+rest,,think,"God was not tired. He rested because His work was finished and good, and He made the seventh day a holy day of rest.",
+farewell,,narrate,"Your device hums softly. Time to go.",
+man_idle,,narrate,"They look at everything around them with wonder.",
+look_camel,,narrate,"A camel chews slowly and stares at you.",
+look_fish,,narrate,"A fish flashes silver and darts away.",
+look_bird,,narrate,"The bird lands for a moment, then flies off.",
+look_sky_early,,narrate,"Bright sky, but nothing in it yet.",
+look_stone,,narrate,"A smooth, sun-warmed stone.",
+disc_gentle,,narrate,"The elephant pulls up a trunkful of grass and munches it.",
+disc_gentle,God,quote,"And to every beast of the earth and every bird of the air and every creature that crawls upon the earth—everything that has the breath of life in it—I have given every green plant for food.",Genesis 1:30
+disc_works,,note,"A song from long after this day:",
+disc_works,,quote,"How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures.",Psalm 104:24
+disc_heavens,,note,"Long after this, David wrote:",
+disc_heavens,,quote,"The heavens declare the glory of God; the skies proclaim the work of His hands.",Psalm 19:1
+disc_shore,,note,"Long after this, God told Job how He set the sea its limits:",
+disc_shore,God,quote,"You may come this far, but no farther; here your proud waves must stop",Job 38:11
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"In the beginning God created the heavens and the earth.",Genesis 1:1
+game_verses,,quote,"The heavens declare the glory of God; the skies proclaim the work of His hands.",Psalm 19:1
+end_truth,,quote,"And God looked upon all that He had made, and indeed, it was very good.",Genesis 1:31
+end_think,,think,"God made everything, and it was very good. You were made in His image, too.",
+end_bible,,note,"In the beginning God created the heavens and the earth. (1:1-2)",
+end_bible,,note,"Light on the first day, the sky on the second, and land, seas and plants on the third. (1:3-13)",
+end_bible,,note,"The sun, moon and stars on the fourth day; sea creatures and birds on the fifth. (1:14-23)",
+end_bible,,note,"Animals, and people made in God's image, on the sixth day. (1:24-31)",
+end_bible,,note,"On the seventh day God rested and blessed the day. (2:1-3)",
+end_imagined,,note,"You, standing on a rock in the dark waters, then walking the new land.",
+end_imagined,,note,"Where each plant and animal appeared, and the lion lying down beside you.",
+end_imagined,,note,"How the first man and woman looked. They are drawn in simple clothes; the Bible says they wore none and were not ashamed (2:25).",
+end_left_out,,note,"Genesis 2 tells how God made the man and the woman in more detail. That is the next story.",

@@ -1,0 +1,80 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A quiet hillside village in the land of Manasseh. The houses are shuttered, and the fields look neglected. On the hills above the village, there are people living in caves.",
+arrive,,quote,"Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years, and the hand of Midian prevailed against Israel. Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds.",Judges 6:1-2
+gideon_idle,Gideon,say,"Quiet, please. You never know who is listening.",
+angel_idle,The angel,say,The LORD is with you.,
+joash_idle,Joash,say,My son has done something I did not expect.,
+servant_idle,Servant,say,"Gideon asked ten of us to help him, in the night. We were afraid, and we did it anyway.",
+gideon,,quote,"Then the angel of the LORD came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to hide it from the Midianites.",Judges 6:11
+gideon,Gideon,say,"Shh, {name}. Keep your voice down. Do you know how many seasons we have planted, only for Midian to steal the harvest? I am threshing in a winepress, because I do not want them to see the grain.",
+midian,,quote,"Whenever the Israelites planted their crops, the Midianites, Amalekites, and other people of the east would come up and invade them, encamping against them as far as Gaza and destroying the produce of the land.",Judges 6:3-4
+midian,Gideon,say,"Will you help me thresh this wheat? Quickly and quietly. Down here, they cannot see us.",
+thresh_idle,,narrate,It is not time to thresh the wheat yet.,
+thresh_tap,,narrate,"You beat the wheat out of the stalks, as quietly as you can.",
+swarm,,quote,"For the Midianites came with their livestock and their tents like a great swarm of locusts. They and their camels were innumerable, and they entered the land to ravage it.",Judges 6:5
+hid,,quote,"Israel was greatly impoverished by Midian, and the Israelites cried out to the LORD.",Judges 6:6
+hid,,narrate,"A line of Midianite raiders on camels crosses the ridge above the winepress. You crouch behind the stone, holding your breath. They go by.",
+cried_out,,quote,"Now when the Israelites cried out to the LORD because of Midian, He sent them a prophet, who told them, “This is what the LORD, the God of Israel, says: I brought you up out of Egypt, out of the house of slavery.",Judges 6:7-8
+oak,,narrate,"A stranger has come and is sitting under the great oak near the village. He seems to be looking for someone. Gideon points him out to you, nervously.",
+mighty_man,,quote,"And the angel of the LORD appeared to Gideon and said, “The LORD is with you, O mighty man of valor.”",Judges 6:12
+gideon_asks,Gideon,quote,"Please, my Lord, | if the LORD is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the LORD brought us up out of Egypt?’ But now the LORD has forsaken us and delivered us into the hand of Midian.",Judges 6:13
+go_in_strength,,quote,"The LORD turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?”",Judges 6:14
+weakest_clan,Gideon,quote,"Please, my Lord, | how can I save Israel? Indeed, my clan is the weakest in Manasseh, and I am the youngest in my father’s house.",Judges 6:15
+with_you,The LORD,quote,"Surely I will be with you, | and you will strike down all the Midianites as one man.",Judges 6:16
+sign_please,Gideon,quote,"If I have found favor in Your sight, give me a sign that it is You speaking with me. Please do not depart from this place until I return to You. Let me bring my offering and set it before You.",Judges 6:17-18
+sign_please,,quote,"And the LORD said, “I will stay until you return.”",Judges 6:18
+offering_prep,,quote,So Gideon went in and prepared a young goat and unleavened bread and an ephah of flour. He placed the meat in a basket and the broth in a pot and brought them out to present to Him under the oak.,Judges 6:19
+offering_prep,Gideon,say,"Please, {name}, help me carry it all to the rock. I do not know what will happen.",
+offer_idle,,narrate,It is not time for the offering yet.,
+offer_hands,,narrate,Your hands are full. Put that on the rock first.,
+offer_gone,,narrate,There is nothing there to lift.,
+offer_take,,narrate,You pick up {item}. Take it to the rock.,
+offer_empty,,narrate,Pick up something for the offering first.,
+offer_give,,narrate,"You set it down on the flat rock, just as Gideon asked.",
+lay_it_on_rock,,quote,"And the angel of God said to him, “Take the meat and the unleavened bread, lay them on this rock, and pour out the broth.” And Gideon did so.",Judges 6:20
+fire,,quote,Then the angel of the LORD extended the tip of the staff that was in his hand and touched the meat and the unleavened bread. And fire flared from the rock and consumed the meat and the unleavened bread.,Judges 6:21
+vanished,,quote,"Then the angel of the LORD vanished from his sight. When Gideon realized that it was the angel of the LORD, he said, “Oh no, Lord GOD! I have seen the angel of the LORD face to face!”",Judges 6:21-22
+peace,,quote,"But the LORD said to him, “Peace be with you. Do not be afraid, for you will not die.”",Judges 6:23
+lord_is_peace,,quote,So Gideon built an altar to the LORD there and called it The LORD Is Peace. To this day it stands in Ophrah of the Abiezrites.,Judges 6:24
+that_night,,quote,"On that very night the LORD said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it.",Judges 6:25
+by_night,,quote,"So Gideon took ten of his servants and did as the LORD had told him. But because he was too afraid of his father’s household and the men of the city, he did it by night rather than in the daytime.",Judges 6:27
+by_night,Gideon,say,"I am afraid, {name}. I will admit it. But I will do it anyway. Would you pull down the altar with us?",
+tear_idle,,narrate,It is not time to pull anything down.,
+tear_tap,,narrate,"You and the servants heave. Stone grinds on stone, and it is gone.",
+proper_altar,,quote,"Then build a proper altar to the LORD your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.”",Judges 6:26
+proper_altar,,think,"Gideon was afraid, and he did it anyway. Courage is not having no fear. It is doing what God says, even while you are afraid.",
+city_men,,quote,"When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar. “Who did this?” they said to one another. And after they had investigated thoroughly, they were told, “Gideon son of Joash did it.”",Judges 6:28-29
+joash,,quote,"Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.” But Joash said to all who stood against him, “Are you contending for Baal? Are you trying to save him? Whoever pleads his case will be put to death by morning! If Baal is a god, let him contend for himself with the one who has torn down his altar.”",Judges 6:30-31
+jerubbaal,,quote,"So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.",Judges 6:32
+test_one,,quote,"Then Gideon said to God, “If You are going to save Israel by my hand, as You have said, then behold, I will place a fleece of wool on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that You are going to save Israel by my hand, as You have said.”",Judges 6:36-37
+test_one,Gideon,say,"One more thing, {name}. I need to be sure. Would you help me spread this fleece?",
+fleece_look,,narrate,"A fleece, left out on the threshing floor.",
+dew_on_fleece,,quote,"And that is what happened. When Gideon arose the next morning, he squeezed the fleece and wrung out the dew—a bowlful of water.",Judges 6:38
+test_two,,quote,"Then Gideon said to God, “Do not be angry with me; let me speak one more time. Please allow me one more test with the fleece. This time let it be dry, and the ground covered with dew.”",Judges 6:39
+only_fleece_dry,,quote,"And that night God did so. Only the fleece was dry, and dew covered the ground.",Judges 6:40
+only_fleece_dry,,think,"Gideon asked God for a sign twice. God was patient, and gave him both. The signs were not needed, because God had already said, ""I will be with you."" But He was kind to a nervous man.",
+peace_of_christ,,note,"Long after, Jesus said something about peace to His friends, who were frightened:",
+peace_of_christ,Jesus,quote,Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.,John 14:27
+farewell,Gideon,say,"I am still afraid, {name}. But the LORD said I am not alone. That must be enough.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_servant,Servant,say,We went with Gideon at night to tear down the altar of Baal. It was the scariest thing I have ever done. But I would do it again.,
+disc_servant,,quote,So Gideon took ten of his servants and did as the LORD had told him.,Judges 6:27
+disc_prophet,Prophet,say,"I told them so, {name}. I said: remember who brought you out of Egypt. Remember the LORD. And they did not listen.",
+disc_prophet,,quote,I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land.,Judges 6:9
+disc_woman,Woman,say,We have been living in a cave for years. My children have never seen a proper house. I pray every night for rescue.,
+disc_woman,,quote,"Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds.",Judges 6:2
+disc_child,Child,say,"They came like grasshoppers, {name}. Hundreds and hundreds, with their camels. They ate everything.",
+disc_child,,quote,For the Midianites came with their livestock and their tents like a great swarm of locusts.,Judges 6:5
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"The LORD is with you, O mighty man of valor.",Judges 6:12
+end_truth,,quote,"The LORD is with you, O mighty man of valor.",Judges 6:12
+end_think,,think,"Gideon thought he was weak, and hid from his enemies. God saw him as a mighty man of valor. When God calls us, He sees who we will become with Him, and He promises, ""I will be with you.""",
+end_bible,,note,"Midian oppressed Israel for seven years, and the Israelites hid in caves. The angel of the LORD called Gideon, who was threshing wheat in a winepress. (6:1-16)",
+end_bible,,note,"Gideon brought an offering, and fire flared from a rock and consumed it. The LORD said, ""Peace be with you."" (6:17-24)",
+end_bible,,note,"That night Gideon tore down his father's altar to Baal. His father Joash defended him, and Gideon was called Jerubbaal. (6:25-32)",
+end_bible,,note,"Gideon tested God with a fleece, once wet with dry ground, and once dry with wet ground. God did both. (6:36-40)",
+end_imagined,,note,"You, and that you threshed the wheat, carried the offering and pulled down the altar.",
+end_imagined,,note,"The servants, the woman and the child, and what they said.",
+end_imagined,,note,"The raiders passing, and the thresher's moment of hiding. The Bible says only that Gideon was threshing wheat in a winepress to hide it.",
+end_left_out,,note,"Judges 6:33-35: the Midianites and Amalekites crossed the Jordan and camped in the Valley of Jezreel, and the Spirit of the LORD came on Gideon, and he blew the trumpet and sent messengers through the tribes.",

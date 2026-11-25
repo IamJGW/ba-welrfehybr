@@ -1,0 +1,85 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A wide desert of sand and sharp rock, with a long line of tents under the glare of the sun. Thousands of people are camped here. Their food has run out, and their patience too.",
+arrive,,quote,"On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.",Exodus 16:1
+grumbler_idle,Hungry man,say,I will not say another word. I have nothing left to say.,
+grumble,,quote,And there in the desert the whole congregation of Israel grumbled against Moses and Aaron.,Exodus 16:2
+grumble2,The people,quote,"If only we had died by the LORD’s hand in the land of Egypt! | There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!",Exodus 16:3
+grumble2,Hungry man,say,"We were slaves, {name}. I know. But we ate. Now look at us. Go and ask Moses what he plans to do.",
+moses_idle,Moses,say,God has heard them. You will see.,
+aaron_idle,Aaron,say,They are afraid and hungry. We have to remember that.,
+promise,,quote,"Then the LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions.",Exodus 16:4
+promise,,quote,"Then on the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.”",Exodus 16:5
+promise,Moses,say,"{name}, the LORD will provide. He has heard every word of their grumbling. I have told them: tonight they will have meat, and in the morning, bread.",
+glory,,quote,"And as Aaron was speaking to the whole congregation of Israel, they looked toward the desert, and there in a cloud the glory of the LORD appeared.",Exodus 16:10
+twilight,The LORD,quote,"I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’",Exodus 16:12
+quail,,quote,That evening quail came and covered the camp …,Exodus 16:13
+quail,,narrate,"All at once, hundreds of small brown birds drop out of the sky and settle among the tents. They are so many that children run laughing between them. That night, every cook-fire in the camp smells of roasting meat.",
+dew,,quote,"… and in the morning there was a layer of dew around the camp. When the layer of dew had evaporated, there were thin flakes on the desert floor, as fine as frost on the ground.",Exodus 16:13-14
+flakes,,quote,"When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was. So Moses told them, “It is the bread that the LORD has given you to eat.",Exodus 16:15
+flakes,Moses,quote,This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’,Exodus 16:16
+flakes,Mother,say,"There are three of us in our tent, {name}, so that is three omers. Will you help me gather it?",
+omer_idle,,narrate,The manna has not fallen yet.,
+omer_tap,,narrate,"You scoop the fine white flakes into a bowl. Light as frost, and it tastes sweet.",
+measured,,quote,"So the Israelites did this. Some gathered more, and some less. When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat.",Exodus 16:17-18
+measured,,think,"Whether the people gathered a lot or a little, no one ended up with too much and no one with too little. God gave each person exactly what they needed, every day.",
+none_overnight,,quote,"Then Moses said to them, “No one may keep any of it until morning.”",Exodus 16:19
+neighbor_idle,Neighbor,say,"I am sure it will be fine, {name}. I only kept a little.",
+spoiled,,quote,"But they did not listen to Moses; some people left part of it until morning, and it became infested with maggots and began to smell. So Moses was angry with them.",Exodus 16:20
+spoiled,Neighbor,say,"I only wanted to be safe, {name}. What if it did not come tomorrow? Now my whole bowl is spoiled, and I have nothing. I should have trusted.",
+neighbor_spoiled,Neighbor,say,I should have trusted. That is all.,
+melts,,quote,"Every morning each one gathered as much as was needed, and when the sun grew hot, it melted away.",Exodus 16:21
+melts,,think,The manna taught the people to trust God one day at a time. They could not save it up. Every morning they had to believe that there would be enough.,
+sixth_start,,quote,"On the sixth day, they gathered twice as much food—two omers per person …",Exodus 16:22
+sixth_start,Mother,say,"It is the sixth morning, {name}. Moses said to gather twice as much today. That is two omers each, six in all.",
+twice_idle,,narrate,The manna has not fallen yet.,
+twice_tap,,narrate,You scoop up another bowlful of manna.,
+sixth_report,,quote,… and all the leaders of the congregation came and reported this to Moses.,Exodus 16:22
+sabbath_rule,Moses,quote,"This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’",Exodus 16:23
+kept,,quote,"So they set it aside until morning as Moses had commanded, and it did not smell or contain any maggots.",Exodus 16:24
+kept,,think,"The very same manna that spoiled in a day on every other day stayed fresh on the Sabbath. God gave His people rest, and the food to enjoy it.",
+seventh,Moses,quote,"Eat it today, | because today is a Sabbath to the LORD. Today you will not find anything in the field. For six days you may gather, but on the seventh day, the Sabbath, it will not be there.",Exodus 16:25-26
+seventh,,quote,"Yet on the seventh day some of the people went out to gather, but they did not find anything.",Exodus 16:27
+rest,,quote,So the people rested on the seventh day.,Exodus 16:30
+how_long,The LORD,quote,How long will you refuse to keep My commandments and instructions?,Exodus 16:28
+how_long,,think,"On the seventh day, some people went out to look, just in case. God gave them everything they needed and asked them only to trust Him enough to rest.",
+named,,quote,Now the house of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.,Exodus 16:31
+jar,Moses,quote,"Keep an omer of manna for the generations to come, so that they may see the bread I fed you in the wilderness when I brought you out of the land of Egypt.",Exodus 16:32
+jar,,quote,"So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.” And Aaron placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses.",Exodus 16:33-34
+jar_look,,narrate,"A plain clay jar, holding an omer of manna, kept as a reminder of how God fed His people.",
+forty_years,,quote,"The Israelites ate manna forty years, until they came to a land where they could settle; they ate manna until they reached the border of Canaan.",Exodus 16:35
+bread_of_life,,note,"Long after, Jesus talked about this bread:",
+bread_of_life,Jesus,quote,"I am the bread of life. | Your fathers ate the manna in the wilderness, yet they died. This is the bread that comes down from heaven, so that anyone may eat of it and not die.",John 6:48-50
+farewell,Aaron,say,"Every morning for forty years, {name}. Can you imagine? And every morning they had to trust that it would come.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_mother,Mother,say,An omer for each person. It is not a lot. But it is always enough.,
+disc_mother,,quote,You may take an omer for each person in your tent.,Exodus 16:16
+disc_girl,Little girl,say,"What is it, {name}? What is it?",
+disc_girl,,note,"The word manna may come from the Hebrew for this very question, ""What is it?""",
+disc_girl,,quote,"When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was.",Exodus 16:15
+disc_elder,Old woman,say,"I have had a lot of bread in my life, {name}. Nothing like this. It tastes of honey.",
+disc_elder,,quote,It was white like coriander seed and tasted like wafers made with honey.,Exodus 16:31
+game_manna_intro,,quote,"Each one is to gather as much as he needs.",Exodus 16:16
+game_manna_intro,,note,"Seven mornings in the desert. Gather what your family needs, and no more. On the sixth morning, gather twice as much. On the seventh, there is none to find.",
+game_manna_how,,note,"Space gathers an omer. Down means that is enough.",
+game_manna_rest,,note,"It is the Sabbath. Do not go out to gather. Just wait.",
+game_manna_just,,note,"Just enough!",
+game_manna_double,,note,"Twice as much, for the Sabbath. It will keep.",
+game_manna_spoiled,,note,"Too much. What is left over will spoil by morning.",
+game_manna_hungry,,note,"Too little. Someone in your tent goes hungry.",
+game_manna_rested,,note,"You rested, and trusted. Well done.",
+game_manna_nothing,,note,"You went out to look. There was nothing there.",
+game_manna_done,,note,"Every day, just what was needed. That is how God fed His people for forty years.",
+game_manna_short,,note,"Trusting one day at a time is hard. Try again!",
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,Each one is to gather as much as he needs.,Exodus 16:16
+game_verses,,quote,"I am the bread of life. | Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.",John 6:35
+end_truth,,quote,Each one gathered as much as he needed to eat.,Exodus 16:18
+end_think,,think,"God gave His people bread for each day, never too much and never too little. Trusting Him one day at a time is still what He asks of us.",
+end_bible,,note,The Israelites grumbled in the Desert of Sin because they had nothing to eat. God promised bread from heaven. (16:1-12),
+end_bible,,note,"Quail covered the camp in the evening, and in the morning manna lay on the ground. Each person gathered as much as they needed, and what was kept overnight spoiled. (16:13-21)",
+end_bible,,note,"On the sixth day they gathered twice as much, and on the Sabbath there was none. An omer of manna was kept in a jar. (16:22-36)",
+end_imagined,,note,"You, and the family of three whose tent you helped, and the neighbor, the old woman and what they said.",
+end_imagined,,note,That the quail are shown arriving all at once. The Bible says only that they came at evening and covered the camp.,
+end_imagined,,note,"The sixth-day gathering was in one scene. In the Bible there were many mornings, and the Israelites ate manna for forty years.",
+end_left_out,,note,"Exodus 16:35: manna came every day for forty years, until the Israelites reached the border of Canaan.",

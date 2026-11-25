@@ -1,0 +1,66 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story ends with God telling the people that, because they would not trust Him, they would spend forty years in the wilderness, and that the adults who had grumbled would not live to enter the land. The game does not show the people who died. It states the judgment once, in the Bible's own words, and follows it at once with the promise that their children would enter.",
+arrive,,narrate,"The device hums. A dry, rocky camp on the southern edge of the land that God promised. After all that has happened, the Israelites are finally close to Canaan. They can almost smell it.",
+arrive,,quote,"So at the command of the LORD, Moses sent them out from the Wilderness of Paran. All the men were leaders of the Israelites,",Numbers 13:3
+moses_idle,Moses,say,This is it. This is the land that God promised Abraham.,
+joshua_idle,Joshua,say,I have waited for this day for forty years!,
+caleb_idle,Caleb,say,"Eighty years old, and I have never been so excited.",
+send,,quote,"And the LORD said to Moses, “Send out for yourself men to spy out the land of Canaan, which I am giving to the Israelites. From each of their fathers’ tribes send one man who is a leader among them.”",Numbers 13:1-2
+look_for,,quote,"When Moses sent them to spy out the land of Canaan, he told them, “Go up through the Negev and into the hill country. See what the land is like and whether its people are strong or weak, few or many. Is the land where they live good or bad? Are the cities where they dwell open camps or fortifications?",Numbers 13:17-19
+look_for,,quote,Is the soil fertile or unproductive? Are there trees in it or not? Be courageous and bring back some of the fruit of the land.” (It was the season for the first ripe grapes.),Numbers 13:20
+go_with,Moses,say,"Twelve spies, one from each tribe. {name}, would you go with Caleb and Joshua? They are the two I trust the most. Be their extra eyes.",
+hill_country,,quote,"So they went up and spied out the land from the Wilderness of Zin as far as Rehob, toward Lebo-hamath.",Numbers 13:21
+hebron,,quote,"They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, dwelled. It had been built seven years before Zoan in Egypt.",Numbers 13:22
+hebron,,narrate,"You walk among green hills and busy farms. Ahead, on the road to a walled town, you see some men who are taller than any you have ever seen. Caleb watches them carefully, and says nothing.",
+eshcol,,quote,"When they came to the Valley of Eshcol, they cut down a branch with a single cluster of grapes, which they carried on a pole between two men. They also took some pomegranates and figs.",Numbers 13:23
+eshcol,Caleb,say,"Look at these vines, {name}! The grapes are the size of plums! Help me gather some to take home. They will see for themselves.",
+fruit_idle,,narrate,There is no fruit to gather yet.,
+fruit_hands,,narrate,Your hands are full. Take that to Caleb first.,
+fruit_gone,,narrate,There is nothing there to pick.,
+fruit_take,,narrate,You pick {item}. Take it to Caleb.,
+fruit_empty,,narrate,Pick some fruit first.,
+fruit_give,,narrate,Caleb packs it carefully.,
+pole,,narrate,"Caleb and a spy carry the single huge cluster of grapes between them on a pole, and you carry the rest of the fruit. People along the road stop to stare. No one in the wilderness has seen fruit like this.",
+eshcol_named,,quote,"Because of the cluster of grapes the Israelites cut there, that place was called the Valley of Eshcol.",Numbers 13:24
+forty_days,,quote,"After forty days the men returned from spying out the land, and they went back to Moses, Aaron, and the whole congregation of Israel in the Wilderness of Paran at Kadesh. They brought back a report for the whole congregation and showed them the fruit of the land.",Numbers 13:25-26
+report,Spies,quote,"We went into the land to which you sent us, and indeed, it is flowing with milk and honey. Here is some of its fruit!",Numbers 13:27
+but,Spies,quote,"Nevertheless, the people living in the land are strong, and the cities are large and fortified. We even saw the descendants of Anak there.",Numbers 13:28
+caleb,,quote,"Then Caleb quieted the people before Moses and said, “We must go up and take possession of the land, for we can certainly conquer it!”",Numbers 13:30
+bad_report,,quote,"But the men who had gone up with him replied, “We cannot go up against the people, for they are stronger than we are!”",Numbers 13:31
+bad_report,Ten spies,quote,"The land we explored devours its inhabitants, and all the people we saw there are great in stature. … We seemed like grasshoppers in our own sight, and we must have seemed the same to them!",Numbers 13:32-33
+weeping,,quote,"Then the whole congregation lifted up their voices and cried out, and that night the people wept. All the Israelites grumbled against Moses and Aaron, and the whole congregation said to them, “If only we had died in the land of Egypt, or if only we had died in this wilderness!",Numbers 14:1-2
+weeping,The people,quote,Why is the LORD bringing us into this land to fall by the sword? Our wives and children will become plunder. Would it not be better for us to go back to Egypt?,Numbers 14:3
+weeping,,quote,"So they said to one another, “Let us appoint a leader and return to Egypt.”",Numbers 14:4
+joshua_caleb,,quote,"Joshua son of Nun and Caleb son of Jephunneh, who were among those who had spied out the land, tore their clothes and said to the whole congregation of Israel, “The land we passed through and explored is an exceedingly good land. If the LORD delights in us, He will bring us into this land, a land flowing with milk and honey, and He will give it to us.",Numbers 14:6-8
+joshua_caleb,Joshua and Caleb,quote,"Only do not rebel against the LORD, and do not be afraid of the people of the land, for they will be like bread for us. Their protection has been removed, and the LORD is with us. Do not be afraid of them!",Numbers 14:9
+stone,,quote,But the whole congregation threatened to stone Joshua and Caleb. Then the glory of the LORD appeared to all the Israelites at the Tent of Meeting.,Numbers 14:10
+pardoned,The LORD,quote,"I have pardoned them as you requested, | Yet as surely as I live and as surely as the whole earth is filled with the glory of the LORD, not one of the men who have seen My glory and the signs I performed in Egypt and in the wilderness—yet have tested Me and disobeyed Me these ten times— | not one will ever see the land that I swore to give their fathers.",Numbers 14:20-23
+different_spirit,The LORD,quote,"But because My servant Caleb has a different spirit and has followed Me wholeheartedly, I will bring him into the land he has entered, and his descendants will inherit it.",Numbers 14:24
+forty_years,The LORD,quote,"Surely none of you will enter the land in which I swore to settle you, except Caleb son of Jephunneh and Joshua son of Nun.",Numbers 14:30
+forty_years,The LORD,quote,"In keeping with the forty days you spied out the land, you shall bear your guilt forty years—a year for each day …",Numbers 14:34
+children_enter,The LORD,quote,"But I will bring your children, whom you said would become plunder, into the land you have rejected—and they will enjoy it.",Numbers 14:31
+children_enter,,think,"The people were afraid of giants, and God said they would not enter the land. But He also promised that their children would. Even a judgment was not the end of God's promise.",
+farewell,Caleb,say,"I will see that land one day, {name}. Eighty years old by then, or more. I have a different spirit, God says. That sounds right to me.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_elder,Elder,say,"Twelve tribes, twelve spies, one from each tribe. Caleb is from Judah, and Joshua from Ephraim.",
+disc_elder,,quote,From each of their fathers’ tribes send one man who is a leader among them.,Numbers 13:2
+disc_mother,Mother,say,"They say there are giants, {name}. What will happen to my children?",
+disc_mother,,quote,Our wives and children will become plunder.,Numbers 14:3
+disc_farmer,Farmer,say,"Foreigners looking at my fields? You want to buy some wine? It is the best in the world, and I would trade you a whole barrel for a loaf of bread.",
+disc_farmer,,quote,Is the soil fertile or unproductive? Are there trees in it or not?,Numbers 13:20
+disc_anak,Very tall man,say,"You do not look like you are from around here. Do not stare. It is rude, and I am used to it.",
+disc_anak,,quote,We even saw the descendants of Anak there.,Numbers 13:28
+disc_hebron,Tall man,say,"This is Hebron, an old, old town. Older than Zoan in Egypt, they say. Some foreigner named Abraham is buried near here, long ago.",
+disc_hebron,,quote,It had been built seven years before Zoan in Egypt.,Numbers 13:22
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Only do not rebel against the LORD, and do not be afraid of the people of the land …",Numbers 14:9
+end_truth,,quote,Do not be afraid of them!,Numbers 14:9
+end_think,,think,Ten spies saw giants and forgot about God. Two saw the same giants and remembered who was with them. What we see matters less than who we trust to be with us.,
+end_bible,,note,"Moses sent twelve spies, one from each tribe, into Canaan for forty days. They brought back a huge cluster of grapes from the Valley of Eshcol. (13:1-25)",
+end_bible,,note,Ten spies said the land was good but the people were too strong. Caleb and Joshua said that with God's help they could take it. The people wept and wanted to go back to Egypt. (13:26-14:10),
+end_bible,,note,"God said none of that generation would enter the land except Caleb and Joshua. They would wander forty years, and their children would enter. (14:20-35)",
+end_imagined,,note,"You, and that you carried the fruit with Caleb. In the Bible, the twelve spies are named in Numbers 13:4-16, and only Caleb and Joshua are named in this part.",
+end_imagined,,note,"The farmer, the tall men, the mother and the elder, and what they said.",
+end_imagined,,note,"How the spies traveled. The Bible gives their route, from the Wilderness of Zin up to Rehob, and says it took forty days.",
+end_left_out,,note,"Numbers 14:36-45: the ten spies who gave the bad report died of a plague, and the people who then tried to attack the land without God were beaten back.",

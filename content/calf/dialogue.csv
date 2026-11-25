@@ -1,0 +1,60 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story is about the people making an idol of gold while Moses was on the mountain. It ends with Moses pleading for them. The Bible also says that about three thousand people died that day (Exodus 32:25-29), and that God sent a plague (32:35). The game does not show or describe those parts. They are named once, on the last page.",
+arrive,,narrate,"The device hums. The camp at the foot of Mount Sinai, the same one as before. But the mood has changed. The mountain is hidden in cloud, and the people have been waiting a long time.",
+arrive,,quote,"For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud. … Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights.",Exodus 24:16-18
+restless_idle,Restless man,say,Forty days. He is not coming back.,
+woman_idle,Woman,say,I do not know what to think any more.,
+aaron_idle,Aaron,say,The people are not themselves. I am trying to keep them calm.,
+delayed,,quote,"Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”",Exodus 32:1
+make_gods,Restless man,say,"{name}, it has been forty days. Forty! Moses has gone up into a cloud and has not come down. How do we know if he is even alive? We cannot see God. We need something to follow! Please, tell Aaron we need him.",
+make_gods,,think,"The people had seen the plagues, the sea open, and manna fall every morning. Now, only a few weeks later, they could not wait for Moses to come back.",
+aaron_says,,quote,"So Aaron told them, “Take off the gold earrings that are on your wives and sons and daughters, and bring them to me.” Then all the people took off their gold earrings and brought them to Aaron.",Exodus 32:2-3
+your_gold,,note,"A woman holds out her hand to you. ""Everyone is giving gold to Aaron, {name}. Do you want to, too?""",
+gave,,narrate,"You hand over your gold. Everyone does. It is how the story goes, and you cannot change what happened. But you notice how easy it was to follow the crowd.",
+kept,,narrate,"You close your hand around your gold, and say no. The woman shrugs and goes. You cannot stop what happens next. But you notice how hard it is to say no when everyone around you is saying yes.",
+calf_made,,quote,"He took the gold from their hands, and with an engraving tool he fashioned it into a molten calf. And they said, “These, O Israel, are your gods, who brought you up out of the land of Egypt!”",Exodus 32:4
+feast,,quote,"When Aaron saw this, he built an altar before the calf and proclaimed: “Tomorrow shall be a feast to the LORD.” So the next day they arose, offered burnt offerings, and presented peace offerings. And the people sat down to eat and drink and got up to indulge in revelry.",Exodus 32:5-6
+feast,,think,"The people had made a god they could see and touch. But it could not hear them, or speak, or save anyone. The LORD, who they could not see, had brought them out of Egypt.",
+corrupted,,quote,"Then the LORD said to Moses, “Go down at once, for your people, whom you brought up out of the land of Egypt, have corrupted themselves. How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten calf and have bowed down to it.",Exodus 32:7-8
+stiff_necked,,quote,"The LORD also said to Moses, “I have seen this people, and they are indeed a stiff-necked people. Now leave Me alone, so that My anger may burn against them and consume them. Then I will make you into a great nation.”",Exodus 32:9-10
+moses_pleads,,quote,"But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your anger burn against Your people, whom You brought out of the land of Egypt with great power and a mighty hand?",Exodus 32:11
+remember,Moses,quote,"Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’",Exodus 32:13
+relented,,quote,So the LORD relented from the calamity He had threatened to bring on His people.,Exodus 32:14
+relented,,think,"Moses stood between God and the people, and pleaded for them. The people did not know that anyone was praying for them. But Moses was.",
+moses_idle,Moses,say,I did not think it would be like this.,
+tablets,,quote,"Then Moses turned and went down the mountain with the two tablets of the Testimony in his hands. They were inscribed on both sides, front and back. The tablets were the work of God, and the writing was the writing of God, engraved on the tablets.",Exodus 32:15-16
+sound,,quote,"When Joshua heard the sound of the people shouting, he said to Moses, “The sound of war is in the camp.” But Moses replied: “It is neither the cry of victory nor the cry of defeat; I hear the sound of singing!”",Exodus 32:17-18
+broken,,quote,"As Moses approached the camp and saw the calf and the dancing, he burned with anger and threw the tablets out of his hands, shattering them at the base of the mountain.",Exodus 32:19
+burned,,quote,"Then he took the calf they had made, burned it in the fire, ground it to powder, and scattered the powder over the face of the water. Then he forced the Israelites to drink it.",Exodus 32:20
+aaron_excuse,Moses,quote,"What did this people do to you, | that you have led them into so great a sin?",Exodus 32:21
+aaron_excuse,Aaron,quote,"Do not be enraged, my lord, | You yourself know that the people are intent on evil. They told me, ‘Make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!’ So I said to them, ‘Whoever has gold, let him take it off,’ and they gave it to me. And when I threw it into the fire, out came this calf!",Exodus 32:22-24
+aaron_excuse,,think,"Aaron said that the calf just came out of the fire. But he had made it himself, with an engraving tool. It is easy to blame other people instead of saying, ""I was wrong.""",
+bump_mountain,,narrate,"The mountain is holy, and the boundary is still there. You may not go up.",
+great_sin,,quote,"The next day Moses said to the people, “You have committed a great sin. Now I will go up to the LORD; perhaps I can make atonement for your sin.”",Exodus 32:30
+blot_me_out,,quote,"So Moses returned to the LORD and said, “Oh, what a great sin these people have committed! They have made gods of gold for themselves. Yet now, if You would only forgive their sin.... But if not, please blot me out of the book that You have written.”",Exodus 32:31-32
+go_lead,,quote,"The LORD replied to Moses, “Whoever has sinned against Me, I will blot out of My book. Now go, lead the people to the place I described. Behold, My angel shall go before you …”",Exodus 32:33-34
+advocate,,note,"Moses offered to give up his own place so that the people could be forgiven. Long after, the apostle John wrote about someone who does this for everyone:",
+advocate,,quote,"My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One.",1 John 2:1
+farewell,Moses,say,"I broke God's gift in my anger, {name}. But He will give it to us again. That is the kind of God He is.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_joshua,Joshua,say,"I stayed with Moses all those days, {name}. I heard the noise from the camp and thought there was a battle. I was wrong, and it was worse.",
+disc_joshua,,quote,The sound of war is in the camp.,Exodus 32:17
+disc_hur,Hur,say,"Aaron and I were left in charge, {name}. I could not stop them either. I wish that I had been braver.",
+disc_hur,,quote,Wait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.,Exodus 24:14
+disc_elder,Elder,say,I begged them to wait. They would not. Moses was right to call us a stiff-necked people. I have seen it for myself.,
+disc_elder,,quote,"I have seen this people, and they are indeed a stiff-necked people.",Exodus 32:9
+disc_child,Child,say,"Everyone is dancing, {name}! There is food and music. But Mother does not look happy.",
+disc_child,,quote,And the people sat down to eat and drink and got up to indulge in revelry.,Exodus 32:6
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Oh, what a great sin these people have committed!",Exodus 32:31
+end_truth,,quote,So the LORD relented from the calamity He had threatened to bring on His people.,Exodus 32:14
+end_think,,think,"The people made a god they could see because they could not wait for the one they could not. Moses begged God to forgive them. God is patient, and He listens when someone prays for His people.",
+end_bible,,note,"Moses was on the mountain for a long time, and the people asked Aaron to make them gods. Aaron made a golden calf from their earrings. (32:1-6)",
+end_bible,,note,"God told Moses that the people had corrupted themselves. Moses pleaded for them, and God relented. (32:7-14)",
+end_bible,,note,"Moses came down and broke the tablets, burned the calf and ground it to powder, and spoke to Aaron. (32:15-24)",
+end_bible,,note,The next day Moses went back up and asked God to forgive the people. (32:30-35),
+end_imagined,,note,"You, and the woman who asked about your gold. In the Bible, the people gave their earrings together, and no one is named.",
+end_imagined,,note,"The restless man, the elder and the child, and what they said.",
+end_imagined,,note,"The dancing. The Bible says there was singing and dancing around the calf, but does not describe it.",
+end_left_out,,note,"Exodus 32:25-29 and 35: Moses called those who were for the LORD to come to him. The Levites came, and about three thousand of the people died that day. Later, the LORD sent a plague on the people because of the calf. The game does not show or describe this.",

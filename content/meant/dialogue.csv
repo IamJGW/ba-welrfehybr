@@ -1,0 +1,75 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Joseph's courtyard in Egypt, where you were just a moment ago. The brothers stand in a trembling huddle. The air feels as tight as a drawn bow.",
+away,,quote,"Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers.",Genesis 45:1
+away,,narrate,"The guards walk you out into the garden, and the great doors swing shut. You are not supposed to hear any of what happens next. But some things cannot be kept quiet.",
+joseph_idle,Joseph,say,My brothers and I have a lot to talk about.,
+weeping,,quote,"But he wept so loudly that the Egyptians heard him, and Pharaoh’s household soon heard of it.",Genesis 45:2
+weeping,,narrate,"You cannot help it. You walk back toward the door. Inside, you can hear a man weeping, and then voices.",
+reveal,Joseph,quote,I am Joseph! Is my father still alive?,Genesis 45:3
+reveal,,quote,"But they were unable to answer him, because they were terrified in his presence.",Genesis 45:3
+reveal,Joseph,quote,Please come near me.,Genesis 45:4
+reveal,Joseph,quote,"I am Joseph, your brother, | the one you sold into Egypt!",Genesis 45:4
+reveal2,Joseph,quote,"And now, do not be distressed or angry with yourselves that you sold me into this place, because it was to save lives that God sent me before you. For the famine has covered the land these two years, and there will be five more years without plowing or harvesting.",Genesis 45:5-6
+reveal2,,think,The brothers expected punishment. Instead they heard that God had been at work behind all the pain.,
+reveal3,Joseph,quote,"God sent me before you to preserve you as a remnant on the earth and to save your lives by a great deliverance. Therefore it was not you who sent me here, but God, who has made me a father to Pharaoh—lord of all his household and ruler over all the land of Egypt.",Genesis 45:7-8
+reveal3,Joseph,quote,"Now return quickly to my father and tell him, ‘This is what your son Joseph says: God has made me lord of all Egypt. Come down to me without delay.",Genesis 45:9
+embrace,,quote,"Then Joseph threw his arms around his brother Benjamin and wept, and Benjamin wept as they embraced. Joseph kissed each of his brothers as he wept over them. And afterward his brothers talked with him.",Genesis 45:14-15
+pharaoh_pleased,,quote,"When the news reached Pharaoh’s house that Joseph’s brothers had come, Pharaoh and his servants were pleased.",Genesis 45:16
+wagons_start,Joseph,say,"Pharaoh wants my whole family to come and live here, {name}! He is sending wagons. Will you help load them? Clothes, bread, and the best that Egypt has.",
+wagon_idle,,narrate,The wagons are not ready to be loaded yet.,
+wagon_hands,,narrate,Your hands are full. Take that to the wagon first.,
+wagon_gone,,narrate,There is nothing there to lift.,
+wagon_take,,narrate,You lift {item}. Take it to the wagon.,
+wagon_empty,,narrate,Pick up something to load first.,
+wagon_give,,narrate,You pack it neatly into the wagon.,
+gifts_given,,quote,"So the sons of Israel did as they were told. Joseph gave them wagons as Pharaoh had instructed, and he also gave them provisions for their journey. He gave new garments to each of them, but to Benjamin he gave three hundred shekels of silver and five sets of clothes.",Genesis 45:21-22
+gifts_given,,quote,"And he sent to his father the following: ten donkeys loaded with the best of Egypt, and ten female donkeys loaded with grain and bread and provisions for his father’s journey.",Genesis 45:23
+quarrel,,quote,"Then Joseph sent his brothers on their way, and as they were leaving, he said to them, “Do not quarrel on the way!”",Genesis 45:24
+quarrel,,think,"After everything, Joseph's last words to his brothers were a joke, or perhaps a gentle warning. The brothers who had once quarreled about him would now have to ride together for weeks, all of them knowing the truth.",
+jacob_back,,quote,"So the brothers went up out of Egypt and came to their father Jacob in the land of Canaan. “Joseph is still alive,” they said, “and he is ruler over all the land of Egypt!” But Jacob was stunned, for he did not believe them.",Genesis 45:25-26
+jacob_back,,quote,"However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived.",Genesis 45:27
+jacob_back,Jacob,quote,Enough! | My son Joseph is still alive! I will go to see him before I die.,Genesis 45:28
+jacob_back,,narrate,"The camp is in the green land of Goshen now. Jacob, very old, stands outside his tent. Judah went ahead of him to ask the way.",
+jacob_idle,Jacob,say,Joseph is alive. Joseph is alive! I keep saying it to make sure it is true.,
+meet,,quote,"Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen, Joseph prepared his chariot and went there to meet his father Israel. Joseph presented himself to him, embraced him, and wept profusely.",Genesis 46:28-29
+meet2,Jacob,quote,"Finally I can die, now that I have seen your face and know that you are still alive!",Genesis 46:30
+settled,,quote,"Now that your father and brothers have come to you, the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen.",Genesis 47:5-6
+settled,,think,"God had told Abraham, long before, that his family would be strangers in a land that was not theirs. Here they are, in Egypt, just as promised. And that will lead to the next part of the story.",
+years,,narrate,"Many years pass. Jacob lived another seventeen years in Egypt, then died, with all his sons around him. Joseph wept over him, and the whole family carried Jacob home to Canaan to bury him with Abraham and Sarah.",
+years,,quote,"When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people.",Genesis 49:33
+grudge,,quote,"When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him.”",Genesis 50:15
+grudge,Judah,say,"{name}, we have lived on Joseph's kindness for seventeen years. But what if it was only for Father's sake? Now that Father is gone, will he punish us?",
+message,,quote,"So they sent word to Joseph, saying, “Before he died, your father commanded, ‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept.",Genesis 50:16-17
+slaves,,quote,"His brothers also came to him, bowed down before him, and said, “We are your slaves!”",Genesis 50:18
+meant,Joseph,quote,Do not be afraid. Am I in the place of God?,Genesis 50:19
+meant2,Joseph,quote,"As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people. Therefore do not be afraid. I will provide for you and your little ones.",Genesis 50:20-21
+meant2,,quote,So Joseph reassured his brothers and spoke kindly to them.,Genesis 50:21
+meant2,,think,"Joseph did not say that what his brothers did was not wrong. It was evil. But he knew that God had used even their evil, and that God was in charge. That is what let him forgive.",
+meant2,,note,"Long after, Jesus was betrayed and put to death by people who meant it for evil. From the cross, He said:",
+meant2,Jesus,quote,"Father, forgive them, for they do not know what they are doing.",Luke 23:34
+old,,quote,"Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110. He saw Ephraim’s sons to the third generation, and indeed the sons of Machir son of Manasseh were brought up on Joseph’s knees.",Genesis 50:22-23
+oath,Joseph,quote,"I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.",Genesis 50:24
+oath,,quote,"And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”",Genesis 50:25
+end_of_life,,quote,So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.,Genesis 50:26
+end_of_life,,think,"Joseph spent his last days still believing that God would keep His promise. He would never see the Promised Land, but he asked for his bones to be carried there. That is faith.",
+farewell,,narrate,"The Hebrews are in Egypt, and the promise is still ahead of them. Your device hums. Time to go.",
+disc_benjamin,Benjamin,say,Five sets of clothes! And three hundred pieces of silver! Joseph is the most generous brother in the world. Though I think I like the plates better.,
+disc_benjamin,,quote,… but to Benjamin he gave three hundred shekels of silver and five sets of clothes.,Genesis 45:22
+disc_servant,Servant,say,I heard him weeping through the walls. I have worked in this house for years and I have never heard him make a sound like that.,
+disc_servant,,quote,"But he wept so loudly that the Egyptians heard him, and Pharaoh’s household soon heard of it.",Genesis 45:2
+disc_goshen,Young shepherd,say,Goshen is the best grazing land in Egypt. Pharaoh gave it to Joseph's family for their flocks.,
+disc_goshen,,quote,"You shall settle in the land of Goshen and be near me—you and your children and grandchildren, your flocks and herds, and everything you own.",Genesis 45:10
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.",Genesis 50:20
+game_verses,,quote,"And we know that God works all things together for the good of those who love Him, who are called according to His purpose.",Romans 8:28
+end_truth,,quote,"As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.",Genesis 50:20
+end_think,,think,"Joseph forgave the brothers who had hurt him, because he could see God's hand behind it all. Forgiving someone does not mean what they did was fine. It means trusting God with what comes next.",
+end_bible,,note,Joseph could not hold back any longer and told his brothers who he was. He said God had sent him ahead to save lives. (45:1-15),
+end_bible,,note,"Pharaoh invited Jacob's whole family to Egypt. Joseph sent wagons and gifts, and Jacob said he would go see Joseph before he died. (45:16-28)",
+end_bible,,note,"Jacob's family came to Goshen, and Joseph met his father, embraced him and wept. (46:28-30)",
+end_bible,,note,"After Jacob died, the brothers feared Joseph's revenge. Joseph told them God had meant it for good. Joseph lived to 110 and made them promise to carry his bones to the promised land. (50:15-26)",
+end_imagined,,note,"You, and that you waited outside the door and loaded the wagons.",
+end_imagined,,note,"The servant and the young shepherd, and the brothers' words. The Bible does not say which of the brothers spoke.",
+end_imagined,,note,"How long it took. Jacob lived 17 years in Egypt (47:28), which this story passes over quickly.",
+end_left_out,,note,"Genesis 46-49: Jacob's family list, Pharaoh meeting Jacob, Joseph's work in the famine, and Jacob blessing his sons and Joseph's two sons.",

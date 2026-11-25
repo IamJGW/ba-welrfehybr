@@ -1,0 +1,59 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A dry valley of broken rock, with a high red cliff at one end. The people have camped here, and nobody has been able to find a drop of water.",
+arrive,,quote,"Then the whole congregation of Israel left the Desert of Sin, moving from place to place as the LORD commanded. They camped at Rephidim, but there was no water for the people to drink.",Exodus 17:1
+elder_idle,Elder,say,"My throat is like sand. Moses will think of something, I hope.",
+thirst,Elder,say,"{name}, it has been two days. The children are crying. The animals are dying. What was the point of all those miracles if we are going to die of thirst here?",
+contend,,quote,"So the people contended with Moses, “Give us water to drink.” “Why do you contend with me?” Moses replied. “Why do you test the LORD?”",Exodus 17:2
+grumble,,quote,"But the people thirsted for water there, and they grumbled against Moses: “Why have you brought us out of Egypt—to make us and our children and livestock die of thirst?”",Exodus 17:3
+moses_idle,Moses,say,I am doing what the LORD told me to do.,
+aaron_idle,Aaron,say,We are all frightened. Even Moses.,
+cry,,quote,"Then Moses cried out to the LORD, “What should I do with these people? A little more and they will stone me!”",Exodus 17:4
+command,,quote,"And the LORD said to Moses, “Walk on ahead of the people and take some of the elders of Israel with you. Take along in your hand the staff with which you struck the Nile, and go.",Exodus 17:5
+rock_promise,The LORD,quote,"Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink.",Exodus 17:6
+rock_promise,Moses,say,"Come with me, {name}. We are going to the rock.",
+strike,,quote,So Moses did this in the sight of the elders of Israel.,Exodus 17:6
+strike,,narrate,"Moses lifts the staff, and strikes the hard red rock. For a moment nothing happens. Then there is a trickle, and then a rush, and cold, clear water is pouring out onto the sand.",
+water_came,,narrate,"The water runs down the valley in a bright stream. People are running, crying and laughing, cupping it in their hands. Someone is already splashing a baby's face. Moses stands with the staff in his hand and does not say a word.",
+massah,,quote,"He named the place Massah and Meribah because the Israelites quarreled, and because they tested the LORD, saying, “Is the LORD among us or not?”",Exodus 17:7
+massah,,think,"The people asked, ""Is the LORD among us or not?"" The water was the answer. He had been with them all along.",
+rock_christ,,note,"Long after, the apostle Paul wrote that this rock stood for Jesus:",
+rock_christ,,quote,"… and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.",1 Corinthians 10:4
+living_water,,note,"And Jesus Himself said this, at a great feast:",
+living_water,Jesus,quote,"If anyone is thirsty, let him come to Me and drink. Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’",John 7:37-38
+water_idle,,narrate,The people have not asked for water yet.,
+water_hands,,narrate,Your hands are full. Take that to the trough first.,
+water_gone,,narrate,There is nothing there to lift.,
+water_take,,narrate,You fill {item} at the stream. Take it to the trough.,
+water_empty,,narrate,Fill a jar at the stream first.,
+water_give,,narrate,The thirsty people crowd around and drink.,
+fill_done,,narrate,"Everyone drinks, and the sheep and the donkeys too. The camp has not been so noisy in days. It is the noise of people who are not afraid any more.",
+amalek,,quote,"After this, the Amalekites came and attacked the Israelites at Rephidim.",Exodus 17:8
+joshua,,quote,"So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.” Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill.",Exodus 17:9-10
+hands,,quote,"As long as Moses held up his hands, Israel prevailed; but when he lowered them, Amalek prevailed.",Exodus 17:11
+hands,Moses,say,"{name}, my arms are getting so tired. Please, stand beside me and help me hold up my hand. Do not move, or I will drop it!",
+steady,,quote,"When Moses’ hands grew heavy, they took a stone and put it under him, and he sat on it. Then Aaron and Hur held his hands up, one on each side, so that his hands remained steady until the sun went down.",Exodus 17:12
+overwhelmed,,quote,So Joshua overwhelmed Amalek and his army with the sword.,Exodus 17:13
+overwhelmed,,think,"Moses could not win the battle alone. He needed Aaron, and Hur, and Joshua. God uses His people to help each other, and holding someone's hands up is a way to help.",
+scroll,,quote,"Then the LORD said to Moses, “Write this on a scroll as a reminder and recite it to Joshua …”",Exodus 17:14
+banner,,quote,And Moses built an altar and named it The LORD Is My Banner.,Exodus 17:15
+farewell,Moses,say,"God gave us water and victory in one day, {name}. Remember it, and thank Him.",
+farewell,,narrate,Your device hums. Time to go.,
+joshua_idle,Joshua,say,"I am Joshua. I fight, and Moses prays. Together we win.",
+disc_hur,Hur,say,"Moses has asked me to stand on one side and Aaron on the other. It is not much, holding up an old man's hand. But it matters.",
+disc_hur,,quote,"Then Aaron and Hur held his hands up, one on each side, so that his hands remained steady until the sun went down.",Exodus 17:12
+disc_mother,Mother,say,"My son has not stopped crying all day, {name}. He is too thirsty to cry properly.",
+disc_mother,,quote,Why have you brought us out of Egypt—to make us and our children and livestock die of thirst?,Exodus 17:3
+disc_shepherd,Shepherd,say,My flock is down to nothing. They need water more than I do.,
+disc_shepherd,,quote,… to make us and our children and livestock die of thirst?,Exodus 17:3
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"And when you strike the rock, water will come out of it for the people to drink.",Exodus 17:6
+end_truth,,quote,Is the LORD among us or not?,Exodus 17:7
+end_think,,think,"The people doubted that God was with them, and He answered with water from a rock. When we are thirsty and afraid, we can ask for His help instead of grumbling.",
+end_bible,,note,"The people had no water at Rephidim and quarreled with Moses. God told him to strike the rock at Horeb, and water poured out. (17:1-7)",
+end_bible,,note,"The Amalekites attacked. While Moses held up his hands, Israel prevailed. Aaron and Hur held up his hands until sunset, and Joshua won. (17:8-13)",
+end_bible,,note,Moses built an altar called The LORD Is My Banner. (17:14-16),
+end_imagined,,note,"You, and that you carried water to the people and held up Moses' hand.",
+end_imagined,,note,"The elder, the mother and the shepherd, and what they said.",
+end_imagined,,note,"The battle is shown at a distance, a few soldiers at a time. The Bible says only that Joshua chose men and fought.",
+end_left_out,,note,"Exodus 17:14-16: God said He would wipe out the memory of Amalek, and Moses said the LORD would war against Amalek from generation to generation. These are hard words, left to the end of the chapter.",

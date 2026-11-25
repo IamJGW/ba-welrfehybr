@@ -1,0 +1,52 @@
+id,type,name,discoveries,finish_story,needs_discovery,description
+headband,wear,Shepherd's headband,2,,,Keeps the sun out of your eyes.
+shepherd,wear,Shepherd's tunic,3,,,Dress like a shepherd from Bethlehem.
+roundup,game,Round Up,5,shepherd,,Drive the scattered flock back into the fold.
+verses,game,Verse Builder,7,shepherd,,Put the words of a verse back in order.
+bag,wear,Shepherd's bag,9,,,A pouch for carrying stones.
+lyre,game,Harp Song,10,music,,Play the harp the way David did for the king.
+harp,wear,Shepherd's harp,12,,,For songs out in the fields.
+goat,pet,Young goat,14,,,Shepherds kept goats too. This one is nosy.
+donkey,pet,Donkey,17,,,"Strong, patient, and never in a hurry."
+stones,game,Stone Search,18,elah,,Find five smooth stones as fast as you can.
+lamb,pet,Lamb,0,,lamb,It followed David from Bethlehem. Now it follows you.
+cloth,wear,Head cloth,21,,,For long days out in the hills.
+sling,game,One Stone,24,elah,,David needed one stone. How many will you need?
+staff,wear,Shepherd's staff,27,,,Every shepherd carries one.
+feast,wear,Feast-day tunic,30,,,"Clean and white, for a day of sacrifice."
+bow,wear,Jonathan's bow,33,,,A gift between friends.
+arrows,game,Arrow Signal,35,covenant,,Land three arrows just beyond the boy.
+soldier,wear,Soldier's tunic,39,,,Dress like a soldier of Israel.
+ibex,pet,Wild goat kid,0,,goats,It came down from the Rocks of the Wild Goats.
+calf,pet,Calf,44,,,"Curious, and always hungry."
+helmet,wear,The king's helmet,50,,,Still far too big.
+royal,wear,Royal cloak,60,,,"Deep red and gold, fit for a coronation."
+pairs,game,Two by Two,4,ark,,"Find the pairs of animals, the way they came to the ark."
+dove,pet,Dove,0,,olive,"A dove like the one that brought Noah the olive leaf."
+traveler,wear,Traveler's robe,0,,went,"For a long walk to a land you have never seen."
+jar,wear,Water jar,0,,before,"Like the one Rebekah carried on her shoulder."
+camels,game,Camel Water,4,rebekah,,"Water all ten of Rebekah's camels, as fast as you can."
+camel,pet,Young camel,0,,camels,"It drank its fill at Rebekah's well. Now it follows you everywhere."
+coat,wear,Coat of many colors,0,,colors,"Red, blue and gold. The finest coat in the camp, and hard to wear without being noticed."
+linen,wear,Egyptian linen,0,,ring,"Fine white linen with a blue sash, like the clothes Pharaoh gave Joseph."
+nemes,wear,Egyptian headcloth,0,,bow,"A striped headcloth, for walking in the courts of Egypt."
+granary,game,Seven Good Years,70,pharaoh,,"Store the harvest of seven good years, so that Egypt will have bread in the famine."
+miriam,wear,Miriam's tambourine,0,,tambourine,"For singing and dancing on the far side of the sea."
+tambourine,game,Miriam's Song,100,sea,,"Keep the beat with Miriam and the women on the shore of the sea."
+mannamorning,game,Manna Morning,110,manna,,"Seven mornings in the desert: gather just what your family needs, and trust God for tomorrow."
+mannabasket,wear,Manna basket,0,,manna_named,"For gathering just enough, one morning at a time."
+quail,pet,Quail,0,,quail,"One of the little birds that dropped into the camp at twilight."
+priest,wear,Priest's linen,0,,garments,"A white linen robe with a blue sash, like the ones the priests wore."
+grapes,wear,Eshcol grapes,0,,cluster,"A cluster of grapes on a pole, as big as the one the spies carried."
+ramhorn,wear,Ram's horn,0,,seven_horns,"The sound that brought a wall down."
+memorial,wear,Memorial stone,0,,carried,"A smooth stone from the middle of the Jordan."
+march,game,Seven Days,120,walls,,"March to the drum for six days, and shout on the seventh."
+ruthsheaf,wear,Ruth's sheaf,0,,ephah,"A bundle of barley, just what you gleaned."
+gideontorch,wear,Gideon's torch,0,,shattered_jars,"A torch that was hidden in a jar until the right moment."
+ram,pet,Ram with a fleece,0,,fleece_of_wool,"Its wool was once wet with dew, and once dry."
+gleaning,game,Gleaning,130,ruth,,"Gather barley behind the harvesters, the way Ruth did."
+jars,game,Jars and Torches,140,torches,,"Break the jars, raise the torches and blow the horns!"
+prophet,wear,Samuel's linen robe,0,,ministering,"A little linen robe, like the one Hannah made each year."
+oilhorn,wear,Horn of oil,0,,flask_of_oil,"For anointing a king, if one is ever needed."
+crown,wear,Saul's crown,0,,long_live,"Heavy on the head. Handle with care."
+donkeys,game,Lost Donkeys,150,saul,,"Find Kish's six lost donkeys before time runs out."

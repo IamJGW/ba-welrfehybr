@@ -1,0 +1,63 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A broad river valley, green along the banks, with a wide, brown river rushing through the middle. It is the harvest season, and the water is high, spreading over its banks. On the other side, across the water, stand the walls of Jericho.",
+arrive,,narrate,"Moses has died, and Joshua is in charge now. The Israelites stand at the edge of the Jordan. This is the last barrier between them and the land God promised.",
+joshua_idle,Joshua,say,"The river is in flood, {name}. We cannot swim it, and we cannot build a bridge. The LORD must do something.",
+camp,,quote,"Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over.",Joshua 3:1
+officers,,quote,"After three days the officers went through the camp and commanded the people: “When you see the ark of the covenant of the LORD your God being carried by the Levitical priests, you are to set out from your positions and follow it.",Joshua 3:2-3
+officers,,quote,"But keep a distance of about two thousand cubits between yourselves and the ark. Do not go near it, so that you can see the way to go, since you have never traveled this way before.”",Joshua 3:4
+consecrate,,quote,"Then Joshua told the people, “Consecrate yourselves, for tomorrow the LORD will do wonders among you.”",Joshua 3:5
+ahead,,quote,"And he said to the priests, “Take the ark of the covenant and go on ahead of the people.” So they carried the ark of the covenant and went ahead of them.",Joshua 3:6
+ahead,Joshua,say,"Follow them, {name}, and stay well back. The ark goes first.",
+bump_bank,,narrate,"Not yet. Joshua said to keep a long way back from the ark, until it goes ahead.",
+exalt,,quote,"Now the LORD said to Joshua, “Today I will begin to exalt you in the sight of all Israel, so they may know that I am with you just as I was with Moses.",Joshua 3:7
+listen,Joshua,quote,"This is how you will know that the living God is among you and that He will surely drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites. Behold, the ark of the covenant of the Lord of all the earth will go ahead of you into the Jordan.",Joshua 3:10-11
+listen,Joshua,quote,"Now choose twelve men from the tribes of Israel, one from each tribe. When the feet of the priests who carry the ark of the LORD—the Lord of all the earth—touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.",Joshua 3:12-13
+feet_touched,,quote,"Now the Jordan overflows its banks throughout the harvest season. But as soon as the priests carrying the ark reached the Jordan and their feet touched the water’s edge, the flowing water stood still.",Joshua 3:15-16
+crossed_opposite,,quote,"It backed up as far upstream as Adam, a city in the area of Zarethan, while the water flowing toward the Sea of the Arabah (the Salt Sea) was completely cut off. So the people crossed over opposite Jericho.",Joshua 3:16
+crossed_opposite,Joshua,say,"The river has stopped! Look! The water is standing up like a wall. Come on, {name}, quickly! Cross to the other side!",
+dry_ground,,quote,"The priests carrying the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over the dry ground, until the entire nation had crossed the Jordan.",Joshua 3:17
+whole_nation,,think,"The priests stood in the riverbed, holding the ark, until the very last person had crossed. They had stepped into the water first, before it parted. They trusted God before they saw anything happen.",
+twelve_stones,,quote,"When the whole nation had finished crossing the Jordan, the LORD said to Joshua, “Choose twelve men from among the people, one from each tribe, and command them: ‘Take up for yourselves twelve stones from the middle of the Jordan where the priests were standing, carry them with you, and set them down in the place where you spend the night.’”",Joshua 4:1-3
+stones_sign,Joshua,quote,"Each of you is to take a stone upon his shoulder, according to the number of the tribes of Israel, to serve as a sign among you.",Joshua 4:5-6
+stones_sign,Joshua,say,"{name}, we need all the hands we can get. Will you help us carry stones from the river bed? We will build a monument to this day.",
+stone_idle,,narrate,It is not time to carry stones yet.,
+stone_hands,,narrate,Your hands are full. Take that to the camp first.,
+stone_gone,,narrate,There is nothing there to lift.,
+stone_take,,narrate,"You lift {item}. It is heavy, and the river bed is wet. Take it to Gilgal.",
+stone_empty,,narrate,Lift a stone from the river bed first.,
+stone_give,,narrate,You set the stone down with the others. The pile is growing.,
+stones_done,,quote,"Thus the Israelites did as Joshua had commanded them. They took up twelve stones from the middle of the Jordan, one for each tribe of Israel, just as the LORD had told Joshua; and they carried them to the camp, where they set them down.",Joshua 4:8
+stones_done,,quote,"Joshua also set up twelve stones in the middle of the Jordan, in the place where the priests who carried the ark of the covenant stood. And the stones are there to this day.",Joshua 4:9
+come_up,,quote,"Then the LORD said to Joshua, “Command the priests who carry the ark of the Testimony to come up from the Jordan.” So Joshua commanded the priests, “Come up from the Jordan.”",Joshua 4:15-17
+returned,,quote,"When the priests carrying the ark of the covenant of the LORD came up out of the Jordan and their feet touched the dry land, the waters of the Jordan returned to their course and overflowed all the banks as before.",Joshua 4:18
+gilgal,,quote,On the tenth day of the first month the people went up from the Jordan and camped at Gilgal on the eastern border of Jericho. And there at Gilgal Joshua set up the twelve stones they had taken from the Jordan.,Joshua 4:19-20
+meaning,Joshua,quote,"In the future, when your children ask their fathers, ‘What is the meaning of these stones?’ you are to tell them, ‘Israel crossed the Jordan on dry ground.’ For the LORD your God dried up the waters of the Jordan before you until you had crossed over, just as He did to the Red Sea, which He dried up before us until we had crossed over.",Joshua 4:21-23
+meaning,Joshua,quote,"He did this so that all the peoples of the earth may know that the hand of the LORD is mighty, and so that you may always fear the LORD your God.",Joshua 4:24
+name_joshua,,note,"The name Joshua means ""The LORD saves."" In Greek the same name is Jesus. Long after, an angel said to Joseph, Mary's husband:",
+name_joshua,,quote,"She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.",Matthew 1:21
+farewell,Joshua,say,"The river is behind us now, {name}. Ahead is Jericho. But the LORD brought us this far, and He will bring us the rest of the way.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_priest,Priest,say,"We carried the ark right into the river, {name}, before the water parted. My feet were wet. My knees were shaking. But we trusted the LORD, and He did what He said.",
+disc_priest,,quote,"When the feet of the priests who carry the ark of the LORD … touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.",Joshua 3:13
+disc_officer,Officer,say,"Two thousand cubits, about three-quarters of a mile. That is how far back everyone must stay. The ark is holy, and the way is new.",
+disc_officer,,quote,But keep a distance of about two thousand cubits between yourselves and the ark.,Joshua 3:4
+disc_elder,Old man,say,"I was a little boy when I saw the Red Sea open, {name}. I thought I would never see anything like it again. Now here we are, forty years later, and God has done it again.",
+disc_elder,,quote,"… just as He did to the Red Sea, which He dried up before us until we had crossed over.",Joshua 4:23
+disc_woman,Woman,say,"Why did we have to come at harvest time, when the river is highest? I suppose that is when God wanted us here.",
+disc_woman,,quote,Now the Jordan overflows its banks throughout the harvest season.,Joshua 3:15
+disc_child,Child,say,"What are those stones for, {name}? Why are they all piled up in a heap?",
+disc_child,,quote,"In the future, when your children ask, ‘What do these stones mean to you?’",Joshua 4:6
+disc_tribe,Man of the tribes,say,"I am from the tribe of Zebulun. Joshua chose me, and eleven others, one from each tribe. We are carrying twelve stones, each of us one.",
+disc_tribe,,quote,"So Joshua summoned the twelve men he had appointed from the Israelites, one from each tribe …",Joshua 4:4
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,He did this so that all the peoples of the earth may know that the hand of the LORD is mighty …,Joshua 4:24
+end_truth,,quote,What is the meaning of these stones?,Joshua 4:21
+end_think,,think,"God made a path where there was none, and then He asked His people to make a monument, so that no one would forget. When God helps us, we should remember it and tell the next generation.",
+end_bible,,note,"Joshua led the people to the Jordan. The priests carried the ark ahead, and as soon as their feet touched the water the river stopped flowing. (3:1-17)",
+end_bible,,note,"All Israel crossed on dry ground. Twelve men took twelve stones from the middle of the river, one for each tribe. (4:1-9)",
+end_bible,,note,"The priests came up, the water returned, and the people camped at Gilgal and set up the stones as a memorial. (4:15-24)",
+end_imagined,,note,"You, and that you carried stones from the river bed.",
+end_imagined,,note,"The priest, the officer, the old man, the woman, the child and the man from Zebulun, and what they said. Only Joshua is named in this part of the Bible.",
+end_imagined,,note,The exact spot of the crossing. The Bible says it was opposite Jericho.,
+end_left_out,,note,"Joshua 5: at Gilgal, the Israelites were circumcised and kept the Passover, and the manna stopped the day after they ate food from the land.",

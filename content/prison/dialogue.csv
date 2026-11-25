@@ -1,0 +1,84 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story is about a woman who tried to get Joseph to do something very wrong, and then lied about him when he refused. The game does not show or describe it. It says only that she told a lie, and it uses Joseph's own words about why he said no.",
+parent_note,,note,"At the end, one of the king's officers is put to death. The Bible says so plainly in Genesis 40:22. The game does not show it, and names it only on the last page.",
+arrive,,narrate,"The device hums. A wide courtyard of pale stone, whitewashed houses, palm trees, and a hot sky. This is Egypt, a long way from home.",
+arrive,,quote,"Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there.",Genesis 39:1
+arrive,,narrate,"Joseph has been here for some time. He is not a son any more, only a slave.",
+house,Joseph,say,"{name}! I did not expect to see a friendly face here. I am Joseph. I came from Canaan, and now I work for Potiphar.",
+house,,quote,"And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.",Genesis 39:2
+house,Joseph,say,I do not know why this happened to me. But I know that God has not left me. Everything I put my hand to goes well.,
+house_ask,Joseph,say,"Will you help me carry food to Potiphar's table? The grain, the oil and the bread.",
+joseph_idle,Joseph,say,"The master wants his table laid. Grain, oil and bread, please.",
+potiphar_idle,Potiphar,say,"My house runs by itself, now that Joseph is here. I need only think about my dinner.",
+potiphar,,quote,"When his master saw that the LORD was with him and made him prosper in all he did, Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned.",Genesis 39:3-4
+potiphar,Potiphar,say,"Well done, both of you. Joseph, you are in charge of everything now. I will not ask for anything except my food.",
+potiphar_after,,quote,"From the time that he put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian’s household on account of him.",Genesis 39:5
+potiphar_after,,think,"Joseph worked as well for a master who bought him as he would have for his father. God's blessing on him blessed everyone around him, too.",
+serve_idle,,narrate,The master's table is not ready for that yet.,
+serve_hands,,narrate,Your hands are full. Take that to Potiphar's table first.,
+serve_gone,,narrate,You have already taken that to the table.,
+serve_take,,narrate,You lift {item}. Take it to Potiphar's table.,
+serve_empty,,narrate,Pick up some food first.,
+serve_give,,narrate,You set it down on the table.,
+refuse,,narrate,"Some time later, Potiphar's wife began to bother Joseph. She wanted him to do something very wrong. Joseph said no, over and over, day after day.",
+refuse,Joseph,quote,"Look, | with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care. No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?",Genesis 39:8-9
+refuse,,think,"Joseph was far from home and no one in his family would ever have known. But he said no, because of what he owed to God and to his master.",
+cloak,,narrate,One day she caught hold of his cloak.,
+cloak,,quote,"But leaving his cloak in her hand, he escaped and ran outside.",Genesis 39:12
+lie,,narrate,"She called the household servants and told them a lie about Joseph. When her husband came home, she told him the same lie.",
+lie,,quote,"When his master heard the story his wife told him, saying, “This is what your slave did to me,” he burned with anger.",Genesis 39:19
+thrown,,quote,So Joseph’s master took him and had him thrown into the prison where the king’s prisoners were confined.,Genesis 39:20
+thrown,,narrate,"The prison is dark, with a low stone ceiling and a row of locked cells. Joseph did nothing wrong, and he is here anyway.",
+warden,,narrate,"The warden walks slowly down the corridor, with Joseph beside him. Joseph's hands are bruised and his clothes are filthy. But he is not alone.",
+warden,,quote,"While Joseph was there in the prison, the LORD was with him and extended kindness to him, granting him favor in the eyes of the prison warden.",Genesis 39:20-21
+warden,The warden,say,"Joseph, you run this place better than I do. I cannot think why I ever worried about it.",
+warden,,quote,"And the warden put all the prisoners under Joseph’s care, so that he was responsible for all that was done in the prison.",Genesis 39:22
+warden_after,Joseph,say,"The prisoners are thirsty, {name}. Would you help me take water to the cells?",
+warden_after,,think,Joseph could have given up and sat in the dark feeling sorry for himself. Instead he looked after everyone around him.,
+joseph_idle,Joseph,say,"Everyone here needs something. Water, a kind word, someone to listen.",
+water_idle,,narrate,The prisoners will be thirsty later in the day.,
+water_tap,,narrate,You pour water through the bars. The prisoner mutters thanks.,
+rounds_done,Joseph,say,"Good work, {name}. That is all of them. Now, who is that?",
+rounds_done,,quote,"Some time later, the king’s cupbearer and baker offended their master, the king of Egypt.",Genesis 40:1
+officers,,quote,"The captain of the guard assigned them to Joseph, and he became their personal attendant.",Genesis 40:4
+officers,,narrate,"Two officers of Pharaoh's court arrive, a cupbearer and a baker. Both are in disgrace. Joseph shows them to their cells.",
+prisoner_idle,Prisoner,say,I have been in here for years. Joseph is the only one who cares what happens to us.,
+morning,,quote,"… both of these men … had a dream on the same night, and each dream had its own meaning. When Joseph came to them in the morning, he saw that they were distraught.",Genesis 40:5-6
+morning,Joseph,quote,Why are your faces so downcast today?,Genesis 40:7
+morning,The cupbearer,quote,"We both had dreams, | but there is no one to interpret them.",Genesis 40:8
+morning,Joseph,quote,Don’t interpretations belong to God? Tell me your dreams.,Genesis 40:8
+morning,,think,"Joseph did not take credit for his gift. Interpreting dreams was something that God did, not Joseph.",
+cup_dream,The cupbearer,quote,"In my dream there was a vine before me, and on the vine were three branches. As it budded, its blossoms opened and its clusters ripened into grapes. Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into his cup, and placed the cup in his hand.",Genesis 40:9-11
+cup_meaning,Joseph,quote,"This is the interpretation: The three branches are three days. Within three days Pharaoh will lift up your head and restore your position. You will put Pharaoh’s cup in his hand, just as you did when you were his cupbearer.",Genesis 40:12-13
+cup_meaning,Joseph,quote,"But when it goes well for you, please remember me and show me kindness by mentioning me to Pharaoh, that he might bring me out of this prison.",Genesis 40:14
+cup_meaning,Joseph,quote,"For I was kidnapped from the land of the Hebrews, and even here I have done nothing for which they should have put me in this dungeon.",Genesis 40:15
+baker_dream,The baker,quote,"I too had a dream: There were three baskets of white bread on my head. In the top basket were all sorts of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.",Genesis 40:16-17
+baker_meaning,Joseph,quote,This is the interpretation: The three baskets are three days.,Genesis 40:18
+baker_meaning,,narrate,Joseph tells the baker the rest as gently as he can. It is bad news.,
+feast,,quote,"On the third day, which was Pharaoh’s birthday, he held a feast for all his officials …",Genesis 40:20
+feast,,quote,"Pharaoh restored the chief cupbearer to his position, so that he once again placed the cup in Pharaoh’s hand.",Genesis 40:21
+forgot,,quote,"The chief cupbearer, however, did not remember Joseph; he forgot all about him.",Genesis 40:23
+forgot,Joseph,say,"Days have passed, {name}, and no word from the palace. I did ask him. But it is all right. God has not forgotten me.",
+forgot,,think,"The cupbearer forgot, but God did not. Joseph would wait two more years in the dungeon, still doing his best for the people around him.",
+farewell,Joseph,say,"Go well, {name}. Thank you for helping. I think one day I will see my family again.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_house,Servant,say,Everything Joseph touches turns out well. Even the barley grows better in the master's fields.,
+disc_house,,quote,"The LORD’s blessing was on everything he owned, both in his house and in his field.",Genesis 39:5
+disc_cook,Cook,say,I do not know what Joseph did to deserve a master like Potiphar. But I know he is the finest man in this house.,
+disc_cook,,quote,Joseph found favor in his sight and became his personal attendant.,Genesis 39:4
+disc_prisoner,Prisoner,say,"Joseph has been in irons, just like the rest of us. But there is something different about him.",
+disc_prisoner,,note,A psalm remembers how things were for Joseph:,
+disc_prisoner,,quote,"They bruised his feet with shackles and placed his neck in irons, until his prediction came true and the word of the LORD proved him right.",Psalm 105:18-19
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.",Genesis 39:2
+end_truth,,quote,… the LORD was with Joseph and gave him success in whatever he did.,Genesis 39:23
+end_think,,think,"Joseph lost his family, his home and his freedom, and was punished for something he had not done. But the Bible says over and over that God was with him. God does not always take us out of hard places, but He goes with us into them.",
+end_bible,,note,"Joseph was sold to Potiphar, and the LORD was with him and made him successful. Potiphar put him in charge of everything. (39:1-6)",
+end_bible,,note,"Potiphar's wife wanted Joseph to do wrong. He refused, and she lied about him, so Joseph was put in prison. (39:7-20)",
+end_bible,,note,"In prison the LORD was with Joseph, and the warden put him in charge. (39:21-23)",
+end_bible,,note,"Pharaoh's cupbearer and baker had dreams. Joseph said the cupbearer would be restored, and he was. The baker was put to death. The cupbearer forgot Joseph. (40:1-23)",
+end_imagined,,note,"You, and that you carried the food and the water.",
+end_imagined,,note,"The cook, the servant and the prisoner, and what they said.",
+end_imagined,,note,How the prison looked. The Bible does not describe it. It also does not say how long Joseph spent there before the cupbearer arrived.,
+end_left_out,,note,"Genesis 40:22: Pharaoh put the baker to death, just as Joseph had said. The Bible says this plainly, and the game does not show it.",

@@ -1,0 +1,57 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"In this story, God tells Samuel that He will judge Eli's family because Eli's sons did serious wrong and Eli did not stop them. It is told briefly and in the Bible's own words, with no detail.",
+arrive,,narrate,"The device hums. A long, low tent lit by a few oil lamps, with the smell of incense and old wood. Evening in Shiloh, in the house of the LORD. A very old man in a robe sits near the doorway, with a staff across his knees. A boy moves quietly about the room.",
+eli_idle,Eli,say,"I cannot see well, but I can hear. And I can hear you.",
+samuel_idle,Young Samuel,say,I am going to bed. Good night.,
+rare,,quote,"And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare, and visions were scarce.",1 Samuel 3:1
+dim,,quote,"And at that time Eli, whose eyesight had grown so dim that he could not see, was lying in his room.",1 Samuel 3:2
+dim,Eli,say,"Welcome, {name}. I am old now, and nearly blind. This boy Samuel is my eyes. He is a good boy. Will you help him with the lamps? They need trimming before the night.",
+lamps_ask,Young Samuel,say,"The lamps of God must not go out, {name}. Would you help me trim them?",
+lamp_idle,,narrate,It is not time for the lamps yet.,
+lamp_tap,,narrate,"You trim the wick, and the flame burns up bright and steady.",
+lamps_done,,quote,"Before the lamp of God had gone out, Samuel was lying down in the temple of the LORD, where the ark of God was located.",1 Samuel 3:3
+lamps_done,,narrate,"The lamps burn lower, and the shadows grow. The old priests have gone to bed. Samuel goes toward the ark and lies down on a mat. You find a spot nearby.",
+lying_down,Young Samuel,say,"Good night, {name}. I always sleep here. I like to be close to the ark. It feels like God is near.",
+night,,narrate,"You lie down in the dark, and listen. The lamp flickers. You hear Samuel's slow breathing.",
+called_first,,quote,"Then the LORD called to Samuel, and he answered, “Here I am.” He ran to Eli and said, “Here I am, for you have called me.”",1 Samuel 3:4-5
+eli_first,Eli,quote,"I did not call, | Go back and lie down.",1 Samuel 3:5
+called_second,,quote,"Once again the LORD called, “Samuel!” So Samuel got up, went to Eli, and said, “Here I am, for you have called me.”",1 Samuel 3:6
+eli_second,Eli,quote,"My son, I did not call, | Go back and lie down.",1 Samuel 3:6
+did_not_know,,quote,"Now Samuel did not yet know the LORD, because the word of the LORD had not yet been revealed to him.",1 Samuel 3:7
+called_third,,quote,"Once again, for the third time, the LORD called to Samuel. He got up, went to Eli, and said, “Here I am, for you have called me.”",1 Samuel 3:8
+eli_realizes,,quote,Then Eli realized that it was the LORD who was calling the boy.,1 Samuel 3:8
+eli_tells,Eli,quote,"Go and lie down, | and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’",1 Samuel 3:9
+eli_tells,,quote,So Samuel went and lay down in his place.,1 Samuel 3:9
+stood_there,,quote,"Then the LORD came and stood there, calling as before, “Samuel! Samuel!” And Samuel answered, “Speak, for Your servant is listening.”",1 Samuel 3:10
+about_to_do,The LORD,quote,I am about to do something in Israel at which the ears of all who hear it will tingle.,1 Samuel 3:11
+judge,The LORD,quote,"On that day I will carry out against Eli everything I have spoken about his house, from beginning to end. I told him that I would judge his house forever for the iniquity of which he knows, because his sons blasphemed God and he did not restrain them.",1 Samuel 3:12-13
+judge,,narrate,"Samuel lies very still, his eyes wide in the dark. You do not hear what he says. But when the light comes in the morning, you see how he looks.",
+opened_doors,,quote,"Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision, but Eli called to him and said, “Samuel, my son.” “Here I am,” answered Samuel.",1 Samuel 3:15-16
+eli_asks,Eli,quote,"What was the message He gave you? | Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.",1 Samuel 3:17
+told_all,,quote,"So Samuel told him everything and did not hide a thing from him. “He is the LORD,” replied Eli. “Let Him do what is good in His eyes.”",1 Samuel 3:18
+told_all,,think,"It must have been hard for a boy to tell an old man such news. Samuel did it anyway. And Eli, who loved the LORD, did not argue.",
+grew,,quote,"And Samuel grew, and the LORD was with him, and He let none of Samuel’s words fall to the ground. So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD.",1 Samuel 3:19-20
+revealed,,quote,"And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word.",1 Samuel 3:21
+sheep,,note,"Long after, Jesus said something about hearing God's voice:",
+sheep,Jesus,quote,"My sheep listen to My voice; I know them, and they follow Me.",John 10:27
+farewell,Young Samuel,say,"I did not know it was Him, {name}. Three times. But He was patient. He kept calling until I understood. I wonder if He still does.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_priest,Priest,say,"The word of the LORD is rare these days, {name}. Years go by without a vision. I have almost forgotten what it sounds like.",
+disc_priest,,quote,"Now in those days the word of the LORD was rare, and visions were scarce.",1 Samuel 3:1
+disc_servant,Servant,say,"I open the doors every morning, and I lock them every night. Samuel does it better. Eli said that Samuel should be trusted with the keys.",
+disc_servant,,quote,Samuel lay down until the morning; then he opened the doors of the house of the LORD.,1 Samuel 3:15
+disc_child,Boy,say,"We have to keep the lamp of God burning all night, {name}. But the old priests fall asleep. So Samuel does most of it.",
+disc_child,,quote,"Before the lamp of God had gone out, Samuel was lying down in the temple of the LORD …",1 Samuel 3:3
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Speak, for Your servant is listening.",1 Samuel 3:10
+end_truth,,quote,"Speak, for Your servant is listening.",1 Samuel 3:10
+end_think,,think,"Samuel did not know God's voice at first, and he needed Eli's help to understand. Listening for God starts with the words, ""Speak, for Your servant is listening.""",
+end_bible,,note,"Samuel served the LORD in the temple of the LORD, where the ark was. The word of the LORD was rare in those days. (3:1-3)",
+end_bible,,note,"The LORD called Samuel three times, and each time Samuel went to Eli. Eli realized it was the LORD and told Samuel how to answer. (3:4-9)",
+end_bible,,note,"The LORD spoke to Samuel, and told him He would judge Eli's family. Samuel told Eli everything, and Eli said, ""He is the LORD."" (3:10-18)",
+end_bible,,note,"Samuel grew, and all Israel knew he was a prophet. (3:19-21)",
+end_imagined,,note,"You, and that you trimmed the lamps and kept watch in the dark.",
+end_imagined,,note,"The priest, the servant, the boy, and what they said. The Bible says that Samuel was lying down in the temple and does not mention anyone else there.",
+end_imagined,,note,"The exact time of night, and how the voice sounded. The Bible says only that the LORD called Samuel, and that Samuel thought it was Eli.",
+end_left_out,,note,"1 Samuel 2:27-36: before Samuel, a man of God had already come to Eli with the same warning about his sons. 1 Samuel 4: the death of Eli's sons and Eli himself, which is in the next story.",

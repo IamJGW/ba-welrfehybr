@@ -1,0 +1,79 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Evening, outside a town far to the north, near Haran. Ten camels kneel by a well, dusty from a long road.",
+arrive,,narrate,"Abraham is old now, and Sarah has died. Abraham has sent his chief servant back to his own relatives, to find a wife for Isaac.",
+arrive,,quote,"As evening approached, he made the camels kneel down near the well outside the town at the time when the women went out to draw water.",Genesis 24:11
+servant_idle,Abraham's servant,say,"A long, long road from the Negev, {name}.",
+pray,Abraham's servant,say,"A friendly face! I have to find the right wife for my master's son, and I do not even know where to start. I will ask the LORD.",
+pray,Abraham's servant,quote,"O LORD, God of my master Abraham, | please grant me success today, and show kindness to my master Abraham. Here I am, standing beside the spring, and the daughters of the townspeople are coming out to draw water. Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.",Genesis 24:12-14
+before,,quote,"Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor.",Genesis 24:15
+before,,quote,"… She went down to the spring, filled her jar, and came up again.",Genesis 24:16
+before,,think,"God was already answering before the prayer was even finished.",
+drink,Abraham's servant,quote,"Please let me have a little water from your jar.",Genesis 24:17
+drink,Rebekah,quote,"Drink, my lord,",Genesis 24:18
+drink,,quote,"… and she quickly lowered her jar to her hands and gave him a drink.",Genesis 24:18
+drink,Rebekah,quote,"I will also draw water for your camels, until they have had enough to drink.",Genesis 24:19
+drink,,think,"Ten thirsty camels after a long journey. Rebekah offered to water them all without being asked.",
+drink,Abraham's servant,say,"Help her, {name}! Fill a jar at the well and pour it into the trough.",
+look_well,,narrate,"A deep well, with a bucket on a rope.",
+fill_jar,,narrate,"You lower the bucket and fill your jar. Now pour it into the trough.",
+jar_full,,narrate,"Your jar is full. Pour it into the trough.",
+look_trough,,narrate,"A long stone trough for the animals.",
+trough_empty,,narrate,"Fill a jar at the well first.",
+pour,,narrate,"Splash! The camels crowd in to drink, and Rebekah runs past with another jar.",
+rebekah_idle,Rebekah,say,"More water! They're so thirsty.",
+watered,,quote,"And she quickly emptied her jar into the trough and ran back to the well to draw water, until she had drawn water for all his camels. Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success.",Genesis 24:20-21
+ring,,quote,"And after the camels had finished drinking, he took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels.",Genesis 24:22
+ring,Abraham's servant,quote,"Whose daughter are you? | Please tell me, is there room in your father’s house for us to spend the night?",Genesis 24:23
+ring,Rebekah,quote,"I am the daughter of Bethuel, the son that Milcah bore to Nahor. | We have plenty of straw and feed, as well as a place for you to spend the night.",Genesis 24:24-25
+led,,quote,"Then the man bowed down and worshiped the LORD,",Genesis 24:26
+led,Abraham's servant,quote,"Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.",Genesis 24:27
+led,,think,"The servant asked God for help, watched for His answer, and then stopped to thank Him.",
+laban,,quote,"The girl ran and told her mother’s household about these things. Now Rebekah had a brother named Laban, and he rushed out to the man at the spring.",Genesis 24:28-29
+laban,Laban,quote,"Come, you who are blessed by the LORD, | Why are you standing out here? I have prepared the house and a place for the camels.",Genesis 24:31
+laban_idle,Laban,say,"Come in, come in! Everything is ready.",
+inside,,narrate,"Inside, before he will eat a bite, the servant tells the whole story: Abraham, his prayer at the well, and Rebekah and the camels.",
+inside,Laban and Bethuel,quote,"This is from the LORD; we have no choice in the matter. Rebekah is here before you. Take her and go, and let her become the wife of your master’s son, just as the LORD has decreed.",Genesis 24:50-51
+will_go,,narrate,"The next morning the servant wants to leave at once. Her family would like her to stay ten days more, so they ask Rebekah.",
+will_go,,quote,"They called Rebekah and asked her, “Will you go with this man?” “I will go,” she replied.",Genesis 24:58
+will_go,,think,"Like Abraham long before, Rebekah left her home for a land she had never seen, trusting God.",
+rebekah_ready,Rebekah,say,"I have never been so far from home. But I am sure, {name}.",
+set_out,,quote,"Then Rebekah and her servant girls got ready, mounted the camels, and followed the man. So the servant took Rebekah and left.",Genesis 24:61
+weeks,,narrate,"Day after day the camels sway south, back along the long road Abraham once took.",
+evening,,quote,"Now Isaac had just returned from Beer-lahai-roi, for he was living in the Negev. Early in the evening, Isaac went out to the field to meditate, and looking up, he saw the camels approaching.",Genesis 24:62-63
+rebekah_negev,Rebekah,quote,"Who is that man in the field coming to meet us?",Genesis 24:65
+rebekah_negev,Abraham's servant,quote,"It is my master,",Genesis 24:65
+isaac,,quote,"And when Rebekah looked up and saw Isaac, she got down from her camel …",Genesis 24:64
+isaac,,quote,"Then the servant told Isaac all that he had done. And Isaac brought her into the tent of his mother Sarah and took Rebekah as his wife. And Isaac loved her and was comforted after his mother’s death.",Genesis 24:66-67
+isaac_end,,think,"A servant's prayer, a girl's kindness, and God leading every step. Through Isaac and Rebekah, God's promise to Abraham goes on.",
+isaac_end,,narrate,"Your device hums. Time to go.",
+disc_angel,Camel driver,say,"Before we left, our master Abraham said something I keep thinking about.",
+disc_angel,,quote,"… He will send His angel before you so that you can take a wife for my son from there.",Genesis 24:7
+disc_mile,Girl at the well,say,"She's watering all ten camels? Do you know how much a thirsty camel drinks?",
+disc_mile,,note,"A thirsty camel can drink more than 25 gallons (about 100 liters) at once. Watering ten would take many, many trips with a jar.",
+disc_mile,,note,"Long after, Jesus taught His followers to do more than they are asked:",
+disc_mile,Jesus,quote,"… if someone forces you to go one mile, go with him two miles.",Matthew 5:41
+disc_thousands,Rebekah's mother,say,"My daughter, going so far away! We have a blessing for her to take with her.",
+disc_thousands,,quote,"And they blessed Rebekah and said to her, “Our sister, may you become the mother of thousands upon thousands. …",Genesis 24:60
+disc_nurse,Rebekah's nurse,say,"I have looked after her since she was a baby. Did you think I would let her go all this way alone?",
+disc_nurse,,quote,"So they sent their sister Rebekah on her way, along with her nurse and Abraham’s servant and his men.",Genesis 24:59
+disc_nurse,,note,"Her name was Deborah. When she died, many years later, she was buried under an oak near Bethel, and Rebekah's son Jacob named the place (Genesis 35:8).",
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"As for me, the LORD has led me on the journey to the house of my master’s relatives.",Genesis 24:27
+game_verses,,quote,"Trust in the LORD with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight.",Proverbs 3:5-6
+game_camels_intro,,quote,"And she quickly emptied her jar into the trough and ran back to the well to draw water, until she had drawn water for all his camels.",Genesis 24:20
+game_camels_intro,,note,"Ten thirsty camels! Run between the well and the trough. Keep the trough from running dry, and water every camel before the sun goes down.",
+game_camels_how,,note,"Arrow keys to run. Space at the well to fill your jar, Space at the trough to pour.",
+game_camels_full,,note,"That camel has had enough!",
+game_camels_done,,note,"Every camel watered, just as Rebekah promised.",
+end_truth,,quote,"… As for me, the LORD has led me on the journey to the house of my master’s relatives.",Genesis 24:27
+end_think,,think,"The servant prayed, then watched for God's answer. God leads people who ask Him, often through ordinary kindness, like a drink of water.",
+end_bible,,note,"Abraham sent his chief servant to his relatives far to the north, to find a wife for Isaac. (24:1-10)",
+end_bible,,note,"At the well the servant prayed for a sign. Before he finished, Rebekah came, gave him a drink and watered all ten camels. (24:11-21)",
+end_bible,,note,"The servant thanked God for leading him to Abraham's relatives. Her family agreed: ""This is from the LORD."" (24:22-51)",
+end_bible,,note,"Asked ""Will you go with this man?"", Rebekah said, ""I will go."" In the Negev she met Isaac, and he loved her. (24:52-67)",
+end_imagined,,note,"You, and that you helped water the camels.",
+end_imagined,,note,"The camel driver and the girl at the well, and what Rebekah's mother and nurse said to you.",
+end_imagined,,note,"The servant's name. Many think he was Eliezer (Genesis 15:2), but Genesis 24 does not name him.",
+end_imagined,,note,"How long the journey took. The Bible does not say.",
+end_left_out,,note,"Genesis 25:1-11: Abraham died at 175, and his sons Isaac and Ishmael buried him beside Sarah.",

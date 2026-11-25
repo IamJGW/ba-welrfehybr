@@ -1,0 +1,68 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story tells of the ten plagues. At the end it includes God's warning that the last plague will be the death of every firstborn son in Egypt (Exodus 11:4-7). The game gives the warning in the Bible's own words, and does not show it. The next story, The Passover, has its own note for parents.",
+arrive,,narrate,"The device hums. The brickyards of Goshen, hot and dusty, with clay pits and kilns smoking. Not far off, a great white palace shines in the sun.",
+arrive,,narrate,Moses has come back from Midian with his brother Aaron. They are about to ask Pharaoh a very large question.,
+moses_idle,Moses,say,"I am afraid, but I will go. God sent me.",
+aaron_idle,Aaron,say,I will do the talking. Moses will do the praying.,
+moses,Moses,say,"{name}, you have come at the right time. Aaron and I are going to see Pharaoh. Come with us, and keep quiet.",
+before,,quote,"After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’”",Exodus 5:1
+who_is,Pharaoh,quote,"Who is the LORD that I should obey His voice and let Israel go? I do not know the LORD, and I will not let Israel go.",Exodus 5:2
+three_days,Moses and Aaron,quote,"The God of the Hebrews has met with us, | Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.",Exodus 5:3
+back_to_work,Pharaoh,quote,"Moses and Aaron, why do you draw the people away from their work? Get back to your labor!",Exodus 5:4
+no_straw,,quote,That same day Pharaoh commanded the taskmasters of the people and their foremen: “You shall no longer supply the people with straw for making bricks. They must go and gather their own straw. But require of them the same quota of bricks as before; do not reduce it.,Exodus 5:6-8
+pharaoh_idle,Pharaoh,say,Leave me. I have a country to run.,
+official_idle,Official,say,"The king does not like to be told what to do, especially by slaves.",
+taskmaster_idle,Taskmaster,say,I do not make the rules. Gather your straw and get on with it.,
+straw_start,,narrate,The Hebrew workers are scattering across the fields to collect stubble for straw. They still have to make the same number of bricks. You decide to help.,
+straw_idle,,narrate,There is no straw to gather yet.,
+straw_tap,,narrate,You gather the stubble into a bundle and carry it back to the kilns.,
+quota,,quote,"So the people scattered all over the land of Egypt to gather stubble for straw. The taskmasters kept pressing them, saying, “Fulfill your quota each day, just as you did when straw was provided.”",Exodus 5:12-13
+complaint,,quote,"“May the LORD look upon you and judge you,” the foremen said, “for you have made us a stench before Pharaoh and his officials …”",Exodus 5:21
+prayer,,quote,"So Moses returned to the LORD and asked, “Lord, why have You brought trouble upon this people? Is this why You sent me?",Exodus 5:22
+answer,,quote,"And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.",Exodus 7:5
+answer,,think,"Things got worse before they got better. The Israelites blamed Moses, and Moses asked God why. God did not say it would be easy. He said it would be done.",
+plagues_start,Moses,say,"God told me to stretch out my hand and Aaron's staff over the river. Watch, {name}. Watch what the LORD does.",
+plague_blood,,quote,"Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh and his officials, Aaron raised the staff and struck the water of the Nile, and all the water was turned to blood.",Exodus 7:20
+plague_blood,,quote,"The fish in the Nile died, and the river smelled so bad that the Egyptians could not drink its water.",Exodus 7:21
+plague_frogs,,quote,"The Nile will teem with frogs, and they will come into your palace and up to your bedroom and onto your bed, into the houses of your officials and your people, and into your ovens and kneading bowls.",Exodus 8:3
+plague_gnats,,quote,"This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.",Exodus 8:17
+plague_gnats,Magicians,quote,"This is the finger of God,",Exodus 8:19
+plague_flies,,quote,Thick swarms of flies poured into Pharaoh’s palace and into the houses of his officials. Throughout Egypt the land was ruined by swarms of flies.,Exodus 8:24
+plague_livestock,,quote,"And the next day the LORD did just that. All the livestock of the Egyptians died, but not one animal belonging to the Israelites died.",Exodus 9:6
+plague_boils,,quote,"Moses tossed it into the air, and festering boils broke out on man and beast.",Exodus 9:10
+plague_hail,,quote,"So Moses stretched out his staff toward heaven, and the LORD sent thunder and hail, and lightning struck the earth. So the LORD rained down hail upon the land of Egypt.",Exodus 9:23
+plague_locusts,,quote,"The locusts swarmed across the land and settled over the entire territory of Egypt. Never before had there been so many locusts, and never again will there be. They covered the face of all the land until it was black …",Exodus 10:14-15
+plague_darkness,,quote,"So Moses stretched out his hand toward heaven, and total darkness covered all the land of Egypt for three days.",Exodus 10:22
+plagues_end,,narrate,"The light comes back. Egypt is ruined. Each time, Pharaoh promised to let the people go, and each time he changed his mind.",
+goshen_spared,Mother,say,"{name}, look at our camp. Not a fly, not a boil, and when the dark covered Egypt we had lamplight. Our animals are well. God is keeping us safe.",
+goshen_spared,,quote,"But on that day I will give special treatment to the land of Goshen, where My people live; no swarms of flies will be found there. In this way you will know that I, the LORD, am in the land.",Exodus 8:22
+goshen_think,,think,"The plagues fell on Egypt, but not on Goshen. God was showing Egypt that He was the LORD, and showing His people that He had not forgotten them.",
+last_plague,,quote,"Then the LORD said to Moses, “I will bring upon Pharaoh and Egypt one more plague. After that, he will allow you to leave this place.",Exodus 11:1
+last_plague,,quote,"So Moses declared, “This is what the LORD says: ‘About midnight I will go throughout Egypt, and every firstborn son in the land of Egypt will die …",Exodus 11:4-5
+distinction,,quote,"Then a great cry will go out over all the land of Egypt. Such an outcry has never been heard before and will never be heard again. But among all the Israelites, not even a dog will snarl at man or beast.’ Then you will know that the LORD makes a distinction between Egypt and Israel.",Exodus 11:6-7
+hardened,,quote,"Moses and Aaron did all these wonders before Pharaoh, but the LORD hardened Pharaoh’s heart so that he would not let the Israelites go out of his land.",Exodus 11:10
+hardened,,think,Ten times Pharaoh was given a chance. Ten times he said no. Over and over the Bible says that Pharaoh hardened his own heart as well.,
+farewell,Moses,say,"God has told us what to do next, {name}. Tonight, every family must follow His instructions. It will be a night nobody forgets.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_magician,Magician,say,"Our magic could copy some of the signs at first. But gnats? No. Not this. It is the finger of a god, and it is not ours.",
+disc_magician,,quote,"“This is the finger of God,” the magicians said to Pharaoh. But Pharaoh’s heart was hardened, and he would not listen to them, just as the LORD had said.",Exodus 8:19
+disc_foreman,Foreman,say,"They beat us because we could not meet the quota. I went to Pharaoh to plead, and he called us slackers.",
+disc_foreman,,quote,"“You are slackers!” Pharaoh replied. “Slackers! That is why you keep saying, ‘Let us go and sacrifice to the LORD.’",Exodus 5:17
+disc_worker,Brickmaker,say,"Same number of bricks, and now no straw. Do you know how hard that is? I can only make bricks with what I can find on the ground.",
+disc_worker,,quote,"You will be given no straw, yet you must deliver the full quota of bricks.",Exodus 5:18
+disc_woman,Hebrew mother,say,"{name}, my children slept through the three days of dark. We had light the whole time, in our own homes.",
+disc_woman,,quote,"No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings.",Exodus 10:23
+disc_herder,Shepherd,say,"The Egyptians' cattle died in the fields, and not one of our sheep. I have never been so glad of a flock.",
+disc_herder,,quote,"But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that no animal belonging to the Israelites will die.",Exodus 9:4
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Let My people go, so that they may hold a feast to Me in the wilderness.",Exodus 5:1
+end_truth,,quote,"Let My people go, so that they may hold a feast to Me in the wilderness.",Exodus 5:1
+end_think,,think,"Pharaoh said, ""Who is the LORD?"" and the plagues were God's answer. When we ask who God is, He has already shown us.",
+end_bible,,note,Moses and Aaron asked Pharaoh to let the people go. Pharaoh refused and made the Israelites make bricks without straw. (5:1-23),
+end_bible,,note,"God sent plagues on Egypt: the water turned to blood, frogs, gnats, flies, the death of livestock, boils, hail, locusts and darkness. Goshen was spared. (7-10)",
+end_bible,,note,"God told Pharaoh that one more plague would come at midnight, and that after it Pharaoh would let the people go. (11:1-10)",
+end_imagined,,note,"You, and that you gathered the straw.",
+end_imagined,,note,"The foreman, the brickmaker, the mother, the shepherd and the magician's words.",
+end_imagined,,note,"That all the plagues were seen from one spot by the river. In the Bible, Moses and Aaron went to Pharaoh again and again over many months.",
+end_left_out,,note,"Exodus 7-10: the full conversations between Moses and Pharaoh. Each time, Pharaoh promised to let the people go, and then changed his mind. Seven of the ten plagues are covered in one line each here.",

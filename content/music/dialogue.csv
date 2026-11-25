@@ -1,0 +1,66 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A stone hall on a hill, and worried faces everywhere. This is Gibeah, the home of King Saul.",
+court,,quote,"Now the Spirit of the LORD departed from Saul, and a spirit of distress from the LORD began to torment him.",1 Samuel 16:14
+court,Servant,quote,"Let our lord command your servants here to seek out someone who can skillfully play the harp.",1 Samuel 16:16
+court,King Saul,quote,"Find me someone who plays well, and bring him to me.",1 Samuel 16:17
+court,Servant,quote,"I have seen a son of Jesse of Bethlehem who knows how to play the harp. … and the LORD is with him.",1 Samuel 16:18
+court,,think,"Notice what the servant said about David. He played well, but the most important thing was this: the LORD was with him.",
+message,Messenger,quote,"Send me your son David, who is with the sheep.",1 Samuel 16:19
+message,Jesse,say,"The king has sent for my son! {name}, help me load the donkey: bread, a skin of wine, and a young goat.",
+gifts,,quote,"And Jesse took a donkey loaded with bread, a skin of wine, and one young goat and sent them to Saul with his son David.",1 Samuel 16:20
+service,,quote,"When David came to Saul and entered his service, Saul loved him very much, and David became his armor-bearer.",1 Samuel 16:21
+relief,,quote,"And whenever the spirit from God came upon Saul, David would pick up his harp and play. Then Saul would find relief and feel better, and the spirit of distress would depart from him.",1 Samuel 16:23
+relief,,think,"David had already been anointed as the next king. Yet here he serves the king he will one day replace, using his gift to help someone who is hurting.",
+pleased,King Saul,quote,"Let David remain in my service, for I am pleased with him.",1 Samuel 16:22
+farewell,David,say,"A king's house, {name}! It is a long way from the sheep.",
+farewell,,narrate,"Your device buzzes. Time to go.",
+saul_idle,,narrate,"King Saul sits with his head in his hands.",
+servant_idle,Servant,say,"Step softly. The king is not well.",
+messenger_idle,Messenger,say,"It is a long walk to Bethlehem. Keep up!",
+jesse_idle,Jesse,say,"Eight sons, and the king sends for my youngest!",
+david_idle,David,say,"This way, {name}!",
+bread_take,,narrate,"Warm bread! Take it to the donkey.",
+wine_take,,narrate,"A full skin of wine. Take it to the donkey.",
+kid_bolts,,narrate,"It darts away!",
+kid_caught,,narrate,"Got it! Lead it to the donkey.",
+donkey_wait,,narrate,"The donkey is waiting for its load.",
+donkey_loaded,,narrate,"Loaded!",
+look_oven,,narrate,"The oven is warm, and the bread smells wonderful.",
+look_jars,,narrate,"Jars of oil and skins of wine.",
+disc_gibeah,,quote,"… Saul went up to his home in Gibeah of Saul.",1 Samuel 15:34
+disc_rejected,Steward,say,"The prophet Samuel used to visit. Not since the day he told the king this:",
+disc_rejected,Samuel,quote,"For you have rejected the word of the LORD, and He has rejected you as king over Israel.",1 Samuel 15:26
+disc_backforth,Keeper,say,"He will be back. That boy never forgets his sheep.",
+disc_backforth,,quote,"… David went back and forth from Saul to tend his father’s sheep in Bethlehem.",1 Samuel 17:15
+disc_praise,,narrate,"A flat stone in the shade. David rests here on the long walk, and plays.",
+disc_praise,,quote,"I will sing to You a new song, O God; on a harp of ten strings I will make music to You …",Psalm 144:9
+maid_ask,Servant girl,say,"The king's head is pounding and this house is so loud! Could you quiet the smith, the boy with the jars, and those two arguing?",
+maid_remind,Servant girl,say,"The smith, the jars, and the two arguing. Please!",
+maid_thanks,Servant girl,say,"Listen. Quiet at last. Thank you. We servants all told the king the same thing:",
+maid_thanks,Saul's servants,quote,"Surely a spirit of distress from God is tormenting you.",1 Samuel 16:15
+maid_done,Servant girl,say,"It is so much calmer now.",
+noise_smith,,narrate,"CLANG! CLANG! The smith is hammering.",
+hush_smith,,narrate,"The smith sets his hammer down.",
+noise_jars,,narrate,"CRASH! The boy is stacking jars.",
+hush_jars,,narrate,"The boy stacks them on tiptoe now.",
+noise_argue,,narrate,"Two servants are arguing about whose turn it is.",
+hush_argue,,narrate,"They glare at each other in silence.",
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Praise the LORD with the harp; make music to Him with ten strings.",Psalm 33:2
+game_verses,,quote,"He is a mighty man of valor, a warrior, eloquent and handsome, and the LORD is with him.",1 Samuel 16:18
+game_lyre_intro,,quote,"Praise the LORD with the harp; make music to Him with ten strings.",Psalm 33:2
+game_lyre_intro,,note,"Notes slide down four strings. Press the matching arrow key as each one reaches the line.",
+game_lyre_how,,note,"Press the arrow key for each string as its note reaches the line",
+game_lyre_done,,note,"A song fit for a king's house.",
+end_truth,,quote,"… David would pick up his harp and play. Then Saul would find relief and feel better …",1 Samuel 16:23
+end_think,,think,"God gives us gifts to serve others, even while we wait for what He has planned.",
+end_bible,,note,"Saul was tormented, and his servants looked for someone to play the harp. (16:14-17)",
+end_bible,,note,"A servant had seen David, and said the LORD was with him. (16:18)",
+end_bible,,note,"Jesse sent David with a donkey, bread, wine and a young goat. (16:19-20)",
+end_bible,,note,"David became Saul's armor-bearer, and his music brought the king relief. (16:21-23)",
+end_imagined,,note,"You, and that you walked with the messenger and helped load the donkey.",
+end_imagined,,note,"The young goat running away, and the keeper of the sheep.",
+end_imagined,,note,"The noisy courtyard and the servant girl who asked for quiet.",
+end_imagined,,note,"The flat stone on the road where David rests and plays. Psalm 144 is David's, but the Bible does not say when he wrote it.",
+end_left_out,,note,"The Bible says a spirit of distress from the LORD troubled Saul (16:14). That is a hard verse. Talk about it together with a parent.",

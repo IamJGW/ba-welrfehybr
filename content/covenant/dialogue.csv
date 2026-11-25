@@ -1,0 +1,71 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Gibeah again. The army is coming home from the valley, and David with it.",
+song,The women,quote,"Saul has slain his thousands, and David his tens of thousands.",1 Samuel 18:7
+song,King Saul,quote,"They have ascribed tens of thousands to David, | but only thousands to me. What more can he have but the kingdom?",1 Samuel 18:8
+song,,think,"Saul could have been glad for the victory God gave Israel. Instead he started to see David as a rival. Jealousy grows when we compare ourselves to others.",
+covenant,,quote,"Then Jonathan made a covenant with David because he loved him as himself.",1 Samuel 18:3
+covenant,Jonathan,say,"{name}, my bow hangs on the rack by the hall. Would you bring it? It is for David.",
+bow_take,,narrate,"Jonathan's own bow. Take it to him.",
+look_rack,,narrate,"Spears, and a peg for a bow.",
+gift,,quote,"And Jonathan removed the robe he was wearing and gave it to David, along with his tunic, his sword, his bow, and his belt.",1 Samuel 18:4
+gift,,think,"Jonathan was the king's son. One day he might have been king himself. Giving David his own robe, sword and bow showed he was putting his friend first.",
+plan,,narrate,"Seasons pass. David succeeds in all he does, and King Saul becomes his enemy. Now David must hide by the great stone in the field.",
+plan,Jonathan,quote,"I will shoot three arrows to the side of it, as if I were aiming at a target.",1 Samuel 20:20
+plan,Jonathan,quote,"… the arrows are beyond you, | then you must go, for the LORD has sent you away.",1 Samuel 20:22
+hide,,quote,"So David hid in the field …",1 Samuel 20:24
+feast,,quote,"… but David’s place was empty.",1 Samuel 20:25
+feast,King Saul,quote,"Why hasn’t the son of Jesse come to the meal either yesterday or today?",1 Samuel 20:27
+feast,,quote,"Jonathan got up from the table in fierce anger … for he was grieved by his father’s shameful treatment of David.",1 Samuel 20:34
+shoot,Jonathan,quote,"Run and find the arrows I shoot.",1 Samuel 20:36
+arrow_found,,narrate,"An arrow!",
+beyond,Jonathan,quote,"Isn’t the arrow beyond you? | Hurry! Make haste! Do not delay!",1 Samuel 20:37-38
+sendback,,quote,"But the boy did not know anything; only Jonathan and David knew the arrangement.",1 Samuel 20:39
+sendback,Jonathan,quote,"Go, take it back to the city.",1 Samuel 20:40
+linger,,narrate,"You know what that signal meant. You look back.",
+peace,Jonathan,quote,"Go in peace, for the two of us have sworn in the name of the LORD …",1 Samuel 20:42
+peace,,quote,"Then David got up and departed, and Jonathan went back into the city.",1 Samuel 20:42
+peace,,think,"Standing by David cost Jonathan his father's favor, and maybe his crown. A true friend keeps their promises, even when it costs them.",
+peace,,note,"Long after, Jesus said:",
+peace,Jesus,quote,"Greater love has no one than this, that he lay down his life for his friends.",John 15:13
+home,Boy,say,"Why was the prince shouting? They are only arrows.",
+home,,narrate,"Your device buzzes. Time to go.",
+jonathan_idle,Jonathan,say,"David is the truest friend I have.",
+david_idle,David,say,"Stay close, {name}.",
+women_idle,,narrate,"Women with tambourines line the street.",
+saul_idle,,narrate,"King Saul watches the army come home.",
+boy_idle,Boy,say,"I carry the prince's arrows.",
+disc_jealous,,narrate,"The king's eyes follow David everywhere.",
+disc_jealous,,quote,"And from that day forward Saul kept a jealous eye on David.",1 Samuel 18:9
+disc_withhim,Soldier,say,"I have marched behind David since the valley. He does not lose.",
+disc_withhim,,quote,"… he continued to prosper in all his ways, because the LORD was with him.",1 Samuel 18:14
+town_1,Townsman,say,"David! Everyone here would follow him anywhere.",
+town_2,Mother,say,"My boys play David and Goliath every single day.",
+town_3,Old man,say,"I have seen many soldiers come home. None like him.",
+disc_loved,,quote,"But all Israel and Judah loved David, because he was leading them out to battle and back.",1 Samuel 18:16
+disc_friend,,note,"Long after this, a proverb in the Bible says:",
+disc_friend,,quote,"A friend loves at all times, and a brother is born for adversity.",Proverbs 17:17
+disc_tambourine,,narrate,"You give it a shake. Jingle!",
+disc_tambourine,,quote,"… with joyful songs, and with tambourines and other instruments.",1 Samuel 18:6
+look_ezel,,narrate,"A great stone in the middle of the field. A good place to hide.",
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"A friend loves at all times, and a brother is born for adversity.",Proverbs 17:17
+game_verses,,quote,"Then Jonathan made a covenant with David because he loved him as himself.",1 Samuel 18:3
+game_arrows_intro,,quote,"I will shoot three arrows to the side of it, as if I were aiming at a target.",1 Samuel 20:20
+game_arrows_intro,,note,"Three arrows. Land each one just beyond the boy. Hold Space to draw the bow, and let go when the strength is right.",
+game_arrows_how,,note,"Hold Space to draw the bow. Let go to shoot.",
+game_arrows_short,,note,"On this side of him. Too short!",
+game_arrows_hit,,note,"Beyond him! That is the signal.",
+game_arrows_far,,note,"Lost in the trees. Too far!",
+game_arrows_done,,note,"Jonathan kept his promise to his friend, even when it was hard.",
+end_truth,,quote,"Go in peace, for the two of us have sworn in the name of the LORD …",1 Samuel 20:42
+end_think,,think,"A true friend keeps their promises, even when it is hard.",
+end_bible,,note,"Jonathan made a covenant with David and gave him his robe, tunic, sword, bow and belt. (18:3-4)",
+end_bible,,note,"The women sang, and Saul grew jealous of David. (18:6-9)",
+end_bible,,note,"They agreed on a signal with arrows by the stone Ezel. (20:18-23)",
+end_bible,,note,"David's place at the king's table was empty. (20:24-34)",
+end_bible,,note,"Jonathan shot the arrow beyond the boy, and the two friends parted in peace. (20:35-42)",
+end_imagined,,note,"You, and that you fetched the bow and found the arrows. In the Bible one small boy fetched them.",
+end_imagined,,note,"What the people of Gibeah said about David.",
+end_imagined,,note,"The tambourine left by the gate.",
+end_left_out,,note,"More than once Saul threw his spear at David, and once at his own son Jonathan (18:10-11; 19:9-10; 20:33). We did not show it. Read it together with a parent.",

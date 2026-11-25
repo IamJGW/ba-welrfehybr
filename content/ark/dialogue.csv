@@ -1,0 +1,73 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Hammering, sawdust, and the biggest boat you have ever seen, sitting on dry land.",
+noah,,quote,"This is the account of Noah. Noah was a righteous man, blameless in his generation; Noah walked with God.",Genesis 6:9
+noah,God,quote,"But I will establish My covenant with you, and you will enter the ark—you and your sons and your wife and your sons’ wives with you.",Genesis 6:18
+noah,Noah,say,"Welcome, {name}. There is much to do before the animals come.",
+noah_idle,Noah,say,"Keep going. God told us to be ready.",
+family_idle,,narrate,"Everyone is busy getting the ark ready.",
+food_ask,God,quote,"You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.",Genesis 6:21
+take_grain,,narrate,"An armful of grain. Carry it to the ark.",
+take_fruit,,narrate,"A basket of fruit. Carry it to the ark.",
+take_oil,,narrate,"A jar of oil. Carry it to the ark.",
+hands_full,,narrate,"Your hands are already full.",
+look_food,,narrate,"Food for a long voyage.",
+ramp_empty,,narrate,"The door of the ark stands open.",
+food_in,,narrate,"Into the ark it goes.",
+look_ramp,,narrate,"The ramp up to the ark's door.",
+obeyed,,quote,"So Noah did everything precisely as God had commanded him.",Genesis 6:22
+obeyed,,note,"Long after, the book of Hebrews said:",
+obeyed,,quote,"By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family.",Hebrews 11:7
+obeyed,,think,"Noah built for years with no rain in sight, because God had said so. Trusting God means doing what He says even before we see why.",
+go_in,God,quote,"Go into the ark, you and all your family, because I have found you righteous in this generation.",Genesis 7:1
+go_in,God,quote,"For seven days from now I will send rain on the earth for forty days and forty nights …",Genesis 7:4
+pair_follows,,narrate,"The two of them follow you.",
+one_pair,,narrate,"Bring this pair to the ark first.",
+ramp_animals,,narrate,"Bring the animals here, two by two.",
+pair_in,,narrate,"Up the ramp and into the ark they go.",
+look_lion,,narrate,"Two lions, already safe aboard.",
+look_elephant,,narrate,"Two elephants, already safe aboard.",
+look_camel,,narrate,"Two camels, already safe aboard.",
+look_dove,,narrate,"A dove watches from a branch.",
+two_by_two,,quote,"… came to Noah to enter the ark, two by two, male and female, as God had commanded Noah.",Genesis 7:9
+enter,,quote,"And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood.",Genesis 7:7
+shut,,quote,"And they entered, the male and female of every living thing, as God had commanded Noah. Then the LORD shut him in.",Genesis 7:16
+shut,,think,"God Himself shut the door. Everyone inside was kept safe by Him.",
+rain,,quote,"… all the fountains of the great deep burst forth, and the floodgates of the heavens were opened.",Genesis 7:11
+rain,,quote,"And the rain fell upon the earth for forty days and forty nights.",Genesis 7:12
+farewell,,narrate,"Your device buzzes hard. Time to go, right now!",
+japheth_ask,Japheth,say,"The hull needs one more coat. Could you bring me a jar of pitch from the tar pit?",
+japheth_remind,Japheth,say,"The tar pit is up by the trees. Fill a jar for me.",
+japheth_done,Japheth,say,"Watertight! Thank you.",
+look_tar,,narrate,"Thick, black, sticky pitch.",
+tar_take,,narrate,"You fill a jar with pitch. Take it to Japheth.",
+disc_pitch,,narrate,"Japheth spreads the pitch along the hull.",
+disc_pitch,God,quote,"Make for yourself an ark of gopher wood; make rooms in the ark and coat it with pitch inside and out.",Genesis 6:14
+disc_size,God,quote,"And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high.",Genesis 6:15
+disc_size,,note,"A cubit is about the length of a grown-up's forearm. 300 cubits is about as long as one and a half football fields.",
+disc_preacher,Neighbor,say,"A boat? Here? There hasn't been a drop of rain all year!",
+disc_preacher,,note,"Long after, the apostle Peter wrote that God:",
+disc_preacher,,quote,"… preserved Noah, a preacher of righteousness, among the eight;",2 Peter 2:5
+disc_clean,,narrate,"Sheep and goats wait in the pen. There are more of these than two.",
+disc_clean,God,quote,"You are to take with you seven pairs of every kind of clean animal, a male and its mate; a pair of every kind of unclean animal, a male and its mate;",Genesis 7:2
+disc_sons,Shem,say,"I am Shem. My brothers are Ham and Japheth.",
+disc_sons,,quote,"And Noah had three sons: Shem, Ham, and Japheth.",Genesis 6:10
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"So Noah did everything precisely as God had commanded him.",Genesis 6:22
+game_verses,,quote,"By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family.",Hebrews 11:7
+end_truth,,quote,"So Noah did everything precisely as God had commanded him.",Genesis 6:22
+end_think,,think,"God keeps His people safe. He asks us to trust Him and obey, even before we see why.",
+end_bible,,note,"Noah walked with God, in a world full of violence. (6:9-12)",
+end_bible,,note,"God told Noah to build an ark and to bring his family, the animals and food. (6:13-21)",
+end_bible,,note,"Noah did everything God commanded. (6:22; 7:5)",
+end_bible,,note,"The animals came two by two, and the LORD shut Noah in. (7:7-16)",
+end_bible,,note,"The rain fell for forty days and forty nights. (7:11-12)",
+end_imagined,,note,"You, and that you helped load the food, lead animals and carry pitch.",
+end_imagined,,note,"The neighbor, the wives' looks, and what each of Noah's family was doing.",
+end_imagined,,note,"How the ark looked. The Bible gives its size (6:15) but not its shape.",
+end_left_out,,note,"The Bible says everyone and everything outside the ark died in the flood (7:21-23). We did not show it. Read it together with a parent.",
+game_pairs_intro,,quote,"… came to Noah to enter the ark, two by two, male and female, as God had commanded Noah.",Genesis 7:9
+game_pairs_intro,,note,"Twelve cards hide six pairs of animals. Turn two at a time and find every pair.",
+game_pairs_how,,note,"Arrow keys and Space, or click a card. Find the pairs!",
+game_pairs_match,,note,"A pair! Into the ark.",
+game_pairs_done,,note,"Every animal safe aboard, two by two.",

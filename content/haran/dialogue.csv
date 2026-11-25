@@ -1,0 +1,68 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A busy town by a slow river, flat-roofed houses, and beside the tents, camels groaning while people bundle up everything they own.",
+arrive,,narrate,"This is Haran, far to the north. Abram's family settled here on their way from Ur, and his father Terah has died here.",
+call,Abram,say,"{name}! You have come on a day like no other. The LORD has spoken to me. Listen to what He said.",
+call,The LORD,quote,"Leave your country, your kindred, and your father’s household, and go to the land I will show you.",Genesis 12:1
+call,,think,"God did not tell Abram where he was going. He only said He would show him.",
+bless,The LORD,quote,"I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing. I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.",Genesis 12:2-3
+bless,,think,"At Babel, people tried to make a great name for themselves. Here God promises to make Abram's name great, and to bless every family on earth through him.",
+bless,,think,"That blessing for every family came, long after, through one of Abram's descendants: Jesus.",
+pack_ask,Abram,say,"So we are going. Will you help? The pack camel needs the grain, the water jars and the tent poles.",
+abram_idle,Abram,say,"Where are we going? The LORD will show us. That is enough for me.",
+abram_canaan,Abram,say,"Everything we see here, {name}. Everything.",
+look_load,,narrate,"Packed and ready for the road.",
+hands_full,,narrate,"Your hands are full. Take that to the camel first.",
+load_gone,,narrate,"That load is already on the camel.",
+take_grain,,narrate,"A heavy sack of grain. Take it to the pack camel.",
+take_water,,narrate,"Two jars of water, sloshing. Take them to the pack camel.",
+take_poles,,narrate,"A bundle of tent poles. Take them to the pack camel.",
+look_camel,,narrate,"The camel chews and looks at you sideways.",
+camel_empty,,narrate,"Bring something to load onto the camel.",
+camel_loaded,,narrate,"The camel grumbles, but you tie it on tight.",
+departed,,quote,"So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran.",Genesis 12:4
+departed,,think,"Abram did not know where he was going. He went because he trusted the One who called him.",
+journey,,narrate,"Day after day the caravan walks: across the great river Euphrates, then south for weeks through dry country and green hills.",
+canaan,,quote,"Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land.",Genesis 12:6
+canaan,Abram,say,"This is the land, {name}. I am sure of it. Come with me to the great oak.",
+look_oak,,narrate,"A huge old oak, with shade enough for a whole family.",
+appeared,,quote,"Then the LORD appeared to Abram …",Genesis 12:7
+appeared,The LORD,quote,"I will give this land to your offspring.",Genesis 12:7
+appeared,,think,"Offspring means children, and their children after them. But Abram and Sarai have no children at all. Believing this promise will take faith.",
+altar_moreh,,quote,"… So Abram built an altar there to the LORD, who had appeared to him.",Genesis 12:7
+move_on,Abram,say,"We will camp in the hills between Bethel and Ai. Go on ahead and drive in the tent pegs for me, {name}.",
+peg_hammer,,narrate,"Thunk, thunk! The peg goes deep into the hard ground.",
+called_on,,quote,"From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD.",Genesis 12:8
+called_on,,think,"Everywhere Abram stopped, he built an altar. In the new land, worship came first.",
+farewell,Abram,say,"Tomorrow we go on, south toward the Negev. I still do not know every step, {name}. But I know who is leading.",
+farewell,,quote,"And Abram journeyed on toward the Negev.",Genesis 12:9
+farewell,,narrate,"Your device hums. Time to go.",
+disc_sarai,Sarai,say,"God says Abram will be a great nation, {name}. But we have no children. Not one.",
+disc_sarai,,quote,"But Sarai was barren; she had no children.",Genesis 11:30
+disc_sarai,,think,"Keep this in mind as the stories go on. God's promise and Sarai's sadness will meet in a surprising way.",
+disc_lot,Lot,say,"Every sheep, goat and camel is coming with us! My uncle does nothing by halves.",
+disc_lot,,quote,"And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan.",Genesis 12:5
+disc_ur,Old servant,say,"I was young when we left Ur, far down the river. Abram's father Terah was taking us to Canaan. But we stopped here, and here we stayed.",
+disc_ur,,quote,"… they set out from Ur of the Chaldeans for the land of Canaan. But when they arrived in Haran, they settled there.",Genesis 11:31
+disc_faith,Woman at the well,say,"Abram is leaving? Where is he going?",
+disc_faith,,narrate,"You tell her he doesn't know yet. She shakes her head. ""Leaving home, and not even knowing where to!""",
+disc_faith,,note,"A letter, written long after:",
+disc_faith,,quote,"By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going.",Hebrews 11:8
+disc_nations,Canaanite shepherd,say,"Your master's God will bless every family on earth? Even a shepherd's family, like mine?",
+disc_nations,,note,"Long after, the apostle Paul wrote that this promise was the good news of Jesus, told ahead of time:",
+disc_nations,,quote,"The Scripture foresaw that God would justify the Gentiles by faith, and foretold the gospel to Abraham: “All nations will be blessed through you.”",Galatians 3:8
+disc_city,,narrate,"Abram will live in tents all his life, even in the land God promised him.",
+disc_city,,quote,"By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise. For he was looking forward to the city with foundations, whose architect and builder is God.",Hebrews 11:9-10
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Leave your country, your kindred, and your father’s household, and go to the land I will show you.",Genesis 12:1
+game_verses,,quote,"By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going.",Hebrews 11:8
+end_truth,,quote,"So Abram departed, as the LORD had directed him …",Genesis 12:4
+end_think,,think,"Abram did not know where he was going, but he knew who was leading him. Following God often means trusting Him one step at a time.",
+end_bible,,note,"The LORD told Abram to leave his country for a land He would show him, and promised to bless all the families of the earth through him. (12:1-3)",
+end_bible,,note,"Abram went, at seventy-five, with Sarai, Lot and everything they had. (12:4-5)",
+end_bible,,note,"At the Oak of Moreh at Shechem, the LORD promised the land to Abram's offspring, and Abram built an altar. (12:6-7)",
+end_bible,,note,"In the hills between Bethel and Ai he pitched his tent, built another altar and called on the name of the LORD. Then he went on toward the Negev. (12:8-9)",
+end_imagined,,note,"You, and that you packed the camel and drove in the tent pegs.",
+end_imagined,,note,"The old servant, the woman at the well and the Canaanite shepherd, and what they said.",
+end_imagined,,note,"How short the walk is. Haran to Shechem is more than 400 miles (650 km), weeks on foot, and Shechem to Bethel is a few more days.",
+end_left_out,,note,"Genesis 12:10-20: in a famine Abram went down to Egypt and, afraid for his life, said Sarai was his sister. God protected her anyway.",

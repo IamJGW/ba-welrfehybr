@@ -1,0 +1,66 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. The camp at Sinai again. The calf is gone, and the people look different somehow: quieter, and more thoughtful. A broad open space has been set aside in the middle of the tents.",
+moses_idle,Moses,say,God is going to live among us. Can you believe it?,
+bezalel_idle,Bezalel,say,I have never had so many materials in my workshop in my life!,
+dwell,,quote,"And they are to make a sanctuary for Me, so that I may dwell among them. You must make the tabernacle and design all its furnishings according to the pattern I show you.",Exodus 25:8-9
+dwell,Moses,say,"{name}, God has given me the plan for a tent: a meeting place, where He will dwell among His people. We are going to build it. But He does not want it paid for by force. He wants gifts from the heart.",
+offering_call,,quote,"And everyone whose heart stirred him and whose spirit prompted him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its services, and for the holy garments.",Exodus 35:21
+offering_call,Moses,say,"Would you carry the offerings to the craftsmen? Gold, yarn, wood and oil. They are all over the camp.",
+offer_idle,,narrate,The offerings are not ready to be brought in yet.,
+offer_hands,,narrate,Your hands are full. Take that to the craftsmen's bench first.,
+offer_gone,,narrate,There is nothing there to lift.,
+offer_take,,narrate,You pick up {item}. Take it to the craftsmen's bench.,
+offer_empty,,narrate,Pick up an offering first.,
+offer_give,,narrate,The craftsmen take it with thanks.,
+gifts,,quote,"So all who had willing hearts, both men and women, came and brought brooches and earrings, rings and necklaces, and all kinds of gold jewelry. And they all presented their gold as a wave offering to the LORD.",Exodus 35:22
+gifts,,quote,"Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them. … Also, everyone who had acacia wood for any part of the service brought it.",Exodus 35:23-24
+gifts,,quote,"… as well as spices and olive oil for the light, for the anointing oil, and for the fragrant incense.",Exodus 35:28
+gifts,,quote,So all the men and women of the Israelites whose hearts prompted them brought a freewill offering to the LORD for all the work that the LORD through Moses had commanded them to do.,Exodus 35:29
+gifts,,think,"A few weeks before, the people had given their gold to make a calf. Now they gave it freely to make a place for the real God. Their gold was the same, but their hearts had changed.",
+bezalel,,quote,"Then Moses said to the Israelites, “See, the LORD has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah. And He has filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship …",Exodus 35:30-31
+skills,,quote,"… to design artistic works in gold, silver, and bronze, to cut gemstones for settings, and to carve wood, so that he may be a master of every artistic craft. And the LORD has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others.",Exodus 35:32-34
+enough,,quote,"Then Moses summoned Bezalel, Oholiab, and every skilled person whom the LORD had gifted—everyone whose heart stirred him to come and do the work. … Meanwhile, the people continued to bring freewill offerings morning after morning, so that all the skilled craftsmen who were doing all the work on the sanctuary left their work and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”",Exodus 36:2-5
+stop,,quote,"After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more …",Exodus 36:6
+stop,Bezalel,say,"{name}, I have never heard of an offering so large that we had to say stop! We have all we need. Now the building can begin. Will you help raise the frames?",
+build_start,Bezalel,say,"Four frames, {name}. Each one is acacia wood covered with gold. Lift each into place and we will hang the curtains.",
+frame_idle,,narrate,It is not time to raise the frames yet.,
+frame_tap,,narrate,You and the craftsmen lift the frame into place. It slots in with a satisfying thunk.,
+built,,quote,"So all the work for the tabernacle, the Tent of Meeting, was completed. The Israelites did everything just as the LORD had commanded Moses.",Exodus 39:32
+built,,narrate,"Where there was an empty space, there is now a long, low tent, dark and plain on the outside, with a curtain of blue, purple and scarlet at the door. A fence of posts surrounds the courtyard.",
+just_as,,quote,And Moses inspected all the work and saw that they had accomplished it just as the LORD had commanded. So Moses blessed them.,Exodus 39:43
+ark,,quote,"And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high. Overlay it with pure gold both inside and out, and make a gold molding around it.",Exodus 25:10-11
+ark,Moses,say,"The most important thing in the tent is the ark of the covenant, {name}. The new tablets from God will be placed inside it.",
+mercy_seat,,quote,"Set the mercy seat atop the ark and put the Testimony that I will give you into the ark. And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony …",Exodus 25:21-22
+set_up,,quote,"Then the LORD said to Moses, “On the first day of the first month you are to set up the tabernacle, the Tent of Meeting.",Exodus 40:1-2
+set_up,,quote,"Moses did everything just as the LORD had commanded him.",Exodus 40:16
+cloud,,quote,"And Moses set up the courtyard around the tabernacle and the altar, and he hung the curtain for the entrance to the courtyard. So Moses finished the work. Then the cloud covered the Tent of Meeting …",Exodus 40:33-34
+glory,,quote,… and the glory of the LORD filled the tabernacle.,Exodus 40:34
+unable,,quote,"Moses was unable to enter the Tent of Meeting because the cloud had settled on it, and the glory of the LORD filled the tabernacle.",Exodus 40:35
+journeys,,quote,"Whenever the cloud was lifted from above the tabernacle, the Israelites would set out through all the stages of their journey. If the cloud was not lifted, they would not set out until the day it was taken up.",Exodus 40:36-37
+journeys,,quote,"For the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel through all their journeys.",Exodus 40:38
+word_became_flesh,,note,"Long after, John wrote about Jesus using the word for this tent. The word ""dwelling"" means a tent, a tabernacle:",
+word_became_flesh,,quote,"The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth.",John 1:14
+farewell,Moses,say,"God is among us now, {name}. Wherever we go, He goes. We will follow the cloud.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_oholiab,Oholiab,say,"Bezalel designs and I teach. I have two hundred apprentices, and not one of them could weave like this a year ago.",
+disc_oholiab,,quote,"And the LORD has given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others.",Exodus 35:34
+disc_spinner,Woman,say,"I have been spinning goat hair every day. My fingers are sore, but it is for the LORD, so I do not mind.",
+disc_spinner,,quote,"Every skilled woman spun with her hands and brought what she had spun: blue, purple, or scarlet yarn, or fine linen. And all the skilled women whose hearts were stirred spun the goat hair.",Exodus 35:25-26
+disc_giver,Man,say,"It is only an earring, {name}. Last time I gave my gold, it was wasted on that calf. This time I know it is going to a good place.",
+disc_giver,,quote,"So all who had willing hearts, both men and women, came and brought brooches and earrings, rings and necklaces, and all kinds of gold jewelry.",Exodus 35:22
+disc_aaron,Aaron,say,"I am to wear special clothes, a blue robe with gold bells and a breastpiece of twelve stones. I am not sure that I deserve them, after the calf. But God has forgiven me.",
+disc_aaron,,quote,The leaders brought onyx stones and gemstones to mount on the ephod and breastpiece …,Exodus 35:27
+disc_child,Child,say,"Mother says we have given too much, {name}! They have to tell us to stop. Is that not wonderful?",
+disc_child,,quote,… what they already had was more than enough to perform all the work.,Exodus 36:7
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"And they are to make a sanctuary for Me, so that I may dwell among them.",Exodus 25:8
+end_truth,,quote,"Then the cloud covered the Tent of Meeting, and the glory of the LORD filled the tabernacle.",Exodus 40:34
+end_think,,think,"God did not want a palace. He wanted to be with His people, wherever they went. The people gave from their hearts, and God filled the place with His glory.",
+end_bible,,note,"God told Moses to make a sanctuary so that He could dwell among the people, and the people brought freewill offerings. (25:8-9; 35:4-29)",
+end_bible,,note,Bezalel and Oholiab were filled with God's Spirit and made the tabernacle. The people gave more than enough. (35:30-36:7),
+end_bible,,note,The work was finished and Moses set up the tent on the first day of the first month. The cloud covered it and the glory of the LORD filled it. (39:32-40:38),
+end_imagined,,note,"You, and that you carried the offerings and raised the frames.",
+end_imagined,,note,"The man, the woman, the child and Oholiab's words.",
+end_imagined,,note,"How the tent was built. The Bible gives the plan in great detail, and tells us that the work was done. It does not tell the story of the building.",
+end_left_out,,note,"Exodus 25-31 and 36-39: God's long, detailed plans for the tent, its furniture and the priests' clothes, and how the craftsmen made each part.",

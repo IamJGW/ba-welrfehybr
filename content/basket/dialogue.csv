@@ -1,0 +1,55 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"This story begins with a cruel law: Pharaoh orders that Hebrew baby boys be thrown into the Nile. The Bible says this in one sentence, and the game says it once. No child is hurt, and the story is about a baby who is saved.",
+arrive,,narrate,"The device hums. Flat green fields by a wide river, and a village of mud-brick houses. The air smells of clay and smoke. Everywhere you look, people are working.",
+arrive,,narrate,"This is Goshen, in Egypt, hundreds of years after Joseph. The Israelites are still here.",
+hardship,,quote,"Now Joseph and all his brothers and all that generation died, but the Israelites were fruitful and increased rapidly; they multiplied and became exceedingly numerous, so that the land was filled with them.",Exodus 1:6-7
+hardship,,quote,"Then a new king, who did not know Joseph, came to power in Egypt.",Exodus 1:8
+hardship,,quote,"They worked the Israelites ruthlessly and made their lives bitter with hard labor in brick and mortar, and with all kinds of work in the fields. Every service they imposed was harsh.",Exodus 1:13-14
+hardship,,quote,"Then Pharaoh commanded all his people: “Every son born to the Hebrews you must throw into the Nile, but every daughter you may allow to live.”",Exodus 1:22
+baby,Jochebed,say,"{name}, please keep your voice down. I have been afraid for three months. Come inside, quietly, and look.",
+baby,,quote,"Now a man of the house of Levi married a Levite woman, and she conceived and gave birth to a son. When she saw that he was a beautiful child, she hid him for three months.",Exodus 2:1-2
+baby,Jochebed,say,"He is getting too loud to hide. I have made up my mind. I will set him on the river, in a basket, and trust God to look after him.",
+baby_ask,Jochebed,say,"Will you help me? I need papyrus reeds from the river bank to weave a basket, strong enough to float.",
+jochebed_idle,Jochebed,say,Shh. Not so loud. The baby is sleeping.,
+miriam_idle,Miriam,say,I am going to watch over my little brother. Mother says I can.,
+reeds_idle,,narrate,Jochebed has not asked for the reeds yet.,
+reeds_tap,,narrate,You cut a bundle of tall papyrus reeds and carry it up the bank.,
+weaving,,quote,"But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch.",Exodus 2:3
+weaving,Jochebed,say,"Thank you, {name}. I have woven it as tightly as I can. Now it is time. Walk with me to the river.",
+river,,quote,Then she placed the child in the basket and set it among the reeds along the bank of the Nile.,Exodus 2:3
+river,Jochebed,say,"God, please look after my son.",
+river,,think,"Pharaoh's order was to throw the boys into the Nile. Jochebed put her son in the Nile, in a basket she had made herself, and left him in God's hands.",
+stood_apart,,quote,And his sister stood at a distance to see what would happen to him.,Exodus 2:4
+stood_apart,Jochebed,say,"Miriam, stay out of sight and watch him. I cannot bear to see. {name}, stay with her.",
+wait,,narrate,You and Miriam wait in the reeds. The sun climbs higher. A bird calls. The basket bobs in the water. Then you hear voices.,
+found,,quote,"Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it.",Exodus 2:5
+cries,,quote,"When she opened it, she saw the child, and behold, the little boy was crying. So she had compassion on him and said, “This is one of the Hebrew children.”",Exodus 2:6
+cries,,think,"The princess knew whose child this was, and what her father had ordered. She felt sorry for the baby anyway, and she did not give him up.",
+offer,,quote,"Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?”",Exodus 2:7
+offer,,quote,"“Go ahead,” Pharaoh’s daughter told her. And the girl went and called the boy’s mother.",Exodus 2:8
+wages,,quote,"Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him.",Exodus 2:9
+wages,,think,"Jochebed gave her baby up to the river, and then received him back, safe, and was paid to raise him. No one but God could have planned that.",
+named,,quote,"When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”",Exodus 2:10
+named,Jochebed,say,"Moses. He will grow up in Pharaoh's palace, {name}, but he will always be one of us. I know it.",
+farewell,Jochebed,say,We do not know what God will do with him. But I think the baby in the basket is more important than any of us.,
+farewell,,narrate,Your device hums. Time to go.,
+disc_amram,Amram,say,"We kept him hidden for three months, {name}. We were afraid, but we trusted God.",
+disc_amram,,quote,"By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict.",Hebrews 11:23
+disc_midwife,Shiphrah,say,I am one of the midwives. Pharaoh told Puah and me to kill the baby boys. We could not do it. We feared God more than Pharaoh.,
+disc_midwife,,quote,"The midwives, however, feared God and did not do as the king of Egypt had instructed; they let the boys live.",Exodus 1:17
+disc_taskmaster,Taskmaster,say,Move! The king wants more bricks. Every Hebrew family makes a quota. I did not make the rules.,
+disc_taskmaster,,quote,"So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh.",Exodus 1:11
+disc_worker,Worker,say,"We make bricks all day, from clay and straw. My hands are cracked from it. But the more they work us, the more of us there are.",
+disc_worker,,quote,"But the more they were oppressed, the more they multiplied and flourished; so the Egyptians came to dread the Israelites.",Exodus 1:12
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict.",Hebrews 11:23
+end_truth,,quote,"She named him Moses and explained, “I drew him out of the water.”",Exodus 2:10
+end_think,,think,"Jochebed did what she could, and left the rest to God. When there is nothing more you can do, you can trust the One who sees.",
+end_bible,,note,"A new king made the Israelites slaves. He ordered the Hebrew midwives, and then all his people, to kill the baby boys, but the midwives feared God. (1:8-22)",
+end_bible,,note,"A Levite woman hid her baby for three months, then set him in a basket in the reeds, with his sister watching. (2:1-4)",
+end_bible,,note,"Pharaoh's daughter found him, felt sorry for him, and paid his own mother to nurse him. She named him Moses. (2:5-10)",
+end_imagined,,note,"You, and that you gathered the reeds and waited with Miriam.",
+end_imagined,,note,The names Jochebed and Amram. The Bible names them in Exodus 6:20; in Exodus 2 they are only a man and woman of the house of Levi.,
+end_imagined,,note,"Miriam's age and her words. The Bible says only that Moses' sister stood at a distance, and that she spoke to the princess.",
+end_left_out,,note,"Exodus 2:11-25: Moses, grown up, killed an Egyptian who was beating a Hebrew and fled to Midian. That part comes before the burning bush.",

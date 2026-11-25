@@ -1,0 +1,84 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A great hall of columns and pale stone, and the broad Nile outside. Servants whisper in corners. Everyone looks worried.",
+arrive,,narrate,"Joseph has been forgotten in the dungeon for two more years. But Pharaoh, the king of Egypt, has just had a very strange night.",
+pharaoh_idle,Pharaoh,say,"Go away, I cannot think. Not one of my wise men can tell me what my dreams mean.",
+dream_start,Pharaoh,say,"{name}, you have a kind face. Listen to this. I dreamed twice in one night.",
+dream_cows,,quote,"After two full years had passed, Pharaoh had a dream: He was standing beside the Nile, when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds. After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river. And the cows that were sickly and thin devoured the seven sleek, well-fed cows. Then Pharaoh woke up,",Genesis 41:1-4
+dream_grain,,quote,"… but he fell back asleep and dreamed a second time: Seven heads of grain, plump and ripe, came up on one stalk. After them, seven other heads of grain sprouted, thin and scorched by the east wind. And the thin heads of grain swallowed up the seven plump, ripe ones. Then Pharaoh awoke and realized it was a dream.",Genesis 41:5-7
+troubled,,quote,"In the morning his spirit was troubled, so he summoned all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could interpret them for him.",Genesis 41:8
+remember,,quote,"Then the chief cupbearer said to Pharaoh, “Today I recall my failures. Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard. One night both the chief baker and I had dreams, and each dream had its own meaning.",Genesis 41:9-11
+remember,The cupbearer,quote,"Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams and he interpreted them for us individually.",Genesis 41:12
+remember,Pharaoh,say,Then fetch him at once! Bring this Hebrew out of the dungeon!,
+cupbearer_idle,The cupbearer,say,I forgot him for two years. I should not have. I have never felt so ashamed.,
+magician_idle,Wise man,say,We have searched every scroll in Egypt. Nothing explains this dream.,
+joseph_idle,Joseph,say,I have been in the dungeon for years. Thank you for helping me get ready.,
+shaved,,quote,"So Pharaoh sent for Joseph, who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.",Genesis 41:14
+shaved,Joseph,say,"I have not stood in a palace for years, {name}. I do not know what I will say. But I know who will give me the words.",
+ready_idle,,narrate,Joseph has not been sent for yet.,
+ready_tap,,narrate,"You help Joseph get ready, and he stands up straighter.",
+before,Pharaoh,quote,"I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.",Genesis 41:15
+before,Joseph,quote,"I myself cannot do it, | but God will give Pharaoh a sound answer.",Genesis 41:16
+before,,think,Joseph was a prisoner who had just been dragged out of a dungeon. Yet his first words to the king of Egypt gave all the credit to God.,
+meaning,Joseph,quote,"The dreams of Pharaoh are one and the same. God has revealed to Pharaoh what He is about to do. The seven good cows are seven years, and the seven ripe heads of grain are seven years. The dreams have the same meaning.",Genesis 41:25-26
+famine_warning,Joseph,quote,"Behold, seven years of great abundance are coming throughout the land of Egypt, but seven years of famine will follow them. Then all the abundance in the land of Egypt will be forgotten, and the famine will devastate the land.",Genesis 41:29-30
+advice,Joseph,quote,"Now, therefore, Pharaoh should look for a discerning and wise man and set him over the land of Egypt.",Genesis 41:33
+advice,Joseph,quote,"Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities. This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt. Then the country will not perish in the famine.",Genesis 41:35-36
+appointed,Pharaoh,quote,"Can we find anyone like this man, in whom the Spirit of God abides?",Genesis 41:38
+appointed,Pharaoh,quote,"Since God has made all this known to you, there is no one as discerning and wise as you. You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.",Genesis 41:39-40
+ring,,quote,"Then Pharaoh removed the signet ring from his finger, put it on Joseph’s finger, clothed him in garments of fine linen, and placed a gold chain around his neck.",Genesis 41:42
+bow,,quote,"He had Joseph ride in his second chariot, with men calling out before him, “Bow the knee!” So he placed him over all the land of Egypt.",Genesis 41:43
+name,,quote,"Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph took charge of all the land of Egypt.",Genesis 41:45
+name,,think,In one day Joseph went from the dungeon to the palace. But he had been faithful in the dungeon first. God had been preparing him all along.,
+store_start,,quote,Now Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph left Pharaoh’s presence and traveled throughout the land of Egypt.,Genesis 41:46
+store_start,Joseph,say,"The good years have begun, {name}. Every year we will store up what we can. A fifth of the harvest into the storehouses, just as I said. Will you help me carry it?",
+joseph_idle,Joseph,say,"Seven years of plenty. Seven sacks, one for each year. Let us store them carefully.",
+store_idle,,narrate,The harvest is not ready to store yet.,
+store_hands,,narrate,Your hands are full. Take that to the storehouse first.,
+store_gone,,narrate,There is nothing there to lift.,
+store_take,,narrate,You lift {item}. Take it to the storehouse.,
+store_empty,,narrate,Lift a sack of the harvest first.,
+store_give,,narrate,Another year's grain is safe in the storehouse.,
+stored,,quote,"During the seven years of abundance, the land brought forth bountifully. During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it.",Genesis 41:47-48
+stored,,quote,"So Joseph stored up grain in such abundance, like the sand of the sea, that he stopped keeping track of it; for it was beyond measure.",Genesis 41:49
+sons,,quote,"Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On. Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”",Genesis 41:50-51
+sons,,quote,"And the second son he named Ephraim, saying, “God has made me fruitful in the land of my affliction.”",Genesis 41:52
+famine_begins,,quote,"When the seven years of abundance in the land of Egypt came to an end, the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt.",Genesis 41:53-54
+whatever,,quote,"When extreme hunger came to all the land of Egypt and the people cried out to Pharaoh for food, he told all the Egyptians, “Go to Joseph and do whatever he tells you.”",Genesis 41:55
+opened,,quote,"When the famine had spread over all the land, Joseph opened up all the storehouses and sold grain to the Egyptians; for the famine was severe in the land of Egypt. And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.",Genesis 41:56-57
+opened,Joseph,say,"Every one of these people was hungry, {name}. We had enough because we planned ahead, and because God showed us what was coming.",
+farewell,Joseph,say,"My father's family is somewhere in Canaan, and I think the famine will reach them too. Go well, {name}.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_magician,Magician,say,We asked every question we knew. Nothing worked. Perhaps this Hebrew's God knows more than our gods do.,
+disc_magician,,quote,"… so he summoned all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could interpret them for him.",Genesis 41:8
+disc_asenath,Asenath,say,"My father is a priest in On, and my husband is the most powerful man in Egypt after Pharaoh. I did not choose either of those things. But I am glad of this one.",
+disc_asenath,,quote,"Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife.",Genesis 41:45
+disc_overseer,Overseer,say,Look at this grain. We have stopped counting. There is more of it than I have ever seen.,
+disc_overseer,,quote,"… like the sand of the sea, that he stopped keeping track of it; for it was beyond measure.",Genesis 41:49
+disc_farmer,Farmer,say,Every year the Nile rises and covers the fields in black mud. That is how we have always grown our grain. Seven bad years without it? I do not like to think of it.,
+disc_farmer,,quote,"After two full years had passed, Pharaoh had a dream: He was standing beside the Nile …",Genesis 41:1
+disc_stranger,Traveler,say,"I have walked for weeks from a land where nothing grew. They told me there is grain in Egypt, and that the man in charge will sell to anyone.",
+disc_stranger,,quote,"And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.",Genesis 41:57
+disc_bread,Mother,say,"My children have not eaten for days. Joseph sells grain to everyone who asks, and my children will have bread tonight.",
+disc_bread,,note,"Long after, Jesus said something about bread that comes from heaven:",
+disc_bread,,quote,"I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.",John 6:35
+game_granary_intro,,quote,"During the seven years of abundance, the land brought forth bountifully.",Genesis 41:47
+game_granary_intro,,note,"Seven good years, and then seven hungry ones. Carry the harvest from the field to the storehouse before each year ends. Whatever you leave lies in the field and spoils.",
+game_granary_how,,note,"Arrow keys to run. Space to lift a sack in the field, and Space again at the storehouse.",
+game_granary_hands,,note,"You are carrying a sack. Take it to the storehouse.",
+game_granary_year,,note,"A new harvest has come in.",
+game_granary_done,,note,"Joseph stored so much grain that no one could keep track of it. When the famine came, there was enough for Egypt and for everyone who came to buy.",
+game_granary_short,,note,"Joseph stored grain in every city, and still there was only just enough. Try again, and store more of every harvest!",
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"I myself cannot do it, | but God will give Pharaoh a sound answer.",Genesis 41:16
+game_verses,,quote,"Since God has made all this known to you, there is no one as discerning and wise as you.",Genesis 41:39
+end_truth,,quote,"I myself cannot do it, | but God will give Pharaoh a sound answer.",Genesis 41:16
+end_think,,think,"Joseph gave the credit to God, and then he made a plan and worked at it for seven years. Trusting God and working hard go together.",
+end_bible,,note,"Pharaoh had two dreams, and no one in Egypt could say what they meant. The cupbearer remembered Joseph. (41:1-13)",
+end_bible,,note,"Joseph said God would give an answer: seven good years, then seven years of famine. He told Pharaoh to store up grain. (41:14-36)",
+end_bible,,note,"Pharaoh put Joseph over all of Egypt, and gave him a new name and a wife. (41:37-46)",
+end_bible,,note,"Joseph stored grain for seven years, two sons were born to him, and when the famine came all the nations came to buy grain from him. (41:47-57)",
+end_imagined,,note,"You, and that you helped Joseph get ready and carried the grain. The Bible does not say how Joseph stored it.",
+end_imagined,,note,"The farmer, the overseer, the traveler and the hungry mother, and Asenath's words.",
+end_imagined,,note,That the cows were shown at the river. The Bible tells the dream; it does not show it.,
+end_left_out,,note,"Genesis 41:13: the cupbearer said the baker had been put to death. This was told in the last story, and is not repeated here.",

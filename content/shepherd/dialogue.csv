@@ -1,0 +1,88 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Green hills, a stone sheepfold, and a boy with a staff waving you over.",
+meet,David,say,"Shalom! I am David. Three of my sheep have wandered off. Help me bring them back to the fold?",
+david_idle,David,say,"They cannot have gone far, {name}.",
+keeper_idle,Keeper,say,"That boy never loses a sheep. Not one.",
+stray_found,,narrate,"The sheep trots after you.",
+gate_idle,,narrate,"The gate of the sheepfold.",
+gate_none,,narrate,"No strays with you yet.",
+gate_in,,narrate,"Safe inside!",
+strays_done,David,say,"All here! Listen. Something is happening in town, but I cannot leave the flock. Go and see!",
+bump_ford,,narrate,"The sheep come first. David is counting on you.",
+gate,Elder,quote,"Do you come in peace?",1 Samuel 16:4
+gate,Samuel,quote,"In peace, | I have come to sacrifice to the LORD. Consecrate yourselves and come with me to the sacrifice.",1 Samuel 16:5
+gate,,think,"Samuel was God's prophet, and God had sent him to choose Israel's next king while King Saul was still on the throne. No wonder the elders were nervous.",
+elder_idle,Elder,say,"A prophet does not visit a small town for nothing.",
+samuel_idle,,narrate,"Samuel stands by the altar, waiting.",
+jesse_ask,Jesse,say,"The prophet has invited my family to the sacrifice! {name}, would you call my sons? Seven of them are around the town.",
+son_busy,,narrate,"He is busy and barely looks up.",
+son_waiting,,narrate,"He stands very still, waiting his turn.",
+son_eliab,,narrate,"Eliab, the firstborn, splits a log with one swing. He towers over you. He nods and goes.",
+son_abinadab,,narrate,"Abinadab hauls up a full bucket as if it weighed nothing. He nods and goes.",
+son_shammah,,narrate,"Shammah has broad shoulders and a quick smile. He dusts off his hands and goes.",
+son_nethanel,,narrate,"Nethanel carries two full jars without spilling a drop. He sets them down and goes.",
+son_raddai,,narrate,"Raddai is across the field before you finish speaking. He must be the fastest.",
+son_ozem,,narrate,"Ozem asks three sharp questions about the prophet, then goes. He seems clever.",
+son_brother7,,narrate,"The seventh brother wakes with a start under the tree and hurries off, still yawning.",
+picked,,narrate,"You chose {pick}. He certainly looks the part.",
+not_pick,,narrate,"Not {pick}.",
+lineup,Samuel,quote,"Surely here before the LORD is His anointed.",1 Samuel 16:6
+lineup,The LORD,quote,"Do not consider his appearance or height, for I have rejected him; the LORD does not see as man does.",1 Samuel 16:7
+lineup,The LORD,quote,"For man sees the outward appearance, but the LORD sees the heart.",1 Samuel 16:7
+lineup,,think,"Samuel judged Eliab by how he looked. You probably judged by looks too! God looks deeper, at what a person loves, trusts and wants.",
+lineup_next,Samuel,quote,"The LORD has not chosen this one either.",1 Samuel 16:8
+lineup_all,Samuel,quote,"The LORD has not chosen any of these.",1 Samuel 16:10
+send,Samuel,quote,"Are these all the sons you have?",1 Samuel 16:11
+send,Jesse,quote,"There is still the youngest, | but he is tending the sheep.",1 Samuel 16:11
+send,Samuel,quote,"Send for him, | For we will not sit down to eat until he arrives.",1 Samuel 16:11
+send,Jesse,say,"{name}! You know the pasture. Run!",
+fetch,David,say,"The prophet is asking for me? Keeper, watch the flock!",
+anoint_word,The LORD,quote,"Rise and anoint him, for he is the one.",1 Samuel 16:12
+anoint,,quote,"So Samuel took the horn of oil and anointed him in the presence of his brothers, and the Spirit of the LORD rushed upon David from that day forward.",1 Samuel 16:13
+anoint,,think,"God chose the youngest son, the one left out in the fields. God often uses the people everyone else overlooks.",
+anoint,,note,"Long after, another King from David's family was born here in Bethlehem. An angel told shepherds in the fields nearby:",
+anoint,An angel,quote,"Today in the city of David a Savior has been born to you. He is Christ the Lord!",Luke 2:11
+anoint,,think,"Christ means ""the Anointed One."" Like David, Jesus was God's chosen King.",
+samuel_leaves,,quote,"Then Samuel set out and went to Ramah.",1 Samuel 16:13
+farewell,David,say,"I should get back to the sheep.",
+farewell,,narrate,"Your device buzzes. Time to go.",
+hungry,Townsman,say,"Fresh bread and roast meat. I can hardly wait.",
+hungry_waiting,Townsman,say,"Nobody sits until the boy arrives? Then run faster!",
+disc_lion,,narrate,"Deep scratches in the rock. Claws. Years later, David will tell King Saul about days like that:",
+disc_lion,David,quote,"… whenever a lion or a bear came and carried off a lamb from the flock, I went after it, struck it down, and delivered the lamb from its mouth.",1 Samuel 17:34-35
+disc_psalm,,narrate,"A small harp, resting on a rock. David wrote songs. One of them begins like this:",
+disc_psalm,,quote,"The LORD is my shepherd; I shall not want. He makes me lie down in green pastures; He leads me beside quiet waters.",Psalm 23:1-2
+disc_horn,The LORD,quote,"Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself.",1 Samuel 16:1
+disc_heifer,The LORD,quote,"Take a heifer with you and say, ‘I have come to sacrifice to the LORD.’",1 Samuel 16:2
+disc_eight,Jesse,say,"Seven sons here. And the youngest is out with the sheep.",
+disc_eight,,quote,"Now David was the son of a man named Jesse, an Ephrathite from Bethlehem of Judah who had eight sons.",1 Samuel 17:12
+disc_taller,Neighbor,say,"A king should look like a king. Have you ever seen King Saul?",
+disc_taller,,quote,"… a head taller than any of the people.",1 Samuel 9:2
+disc_well,,note,"Years from now, far from home, David will remember this well:",
+disc_well,David,quote,"Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!",2 Samuel 23:15
+disc_ruth,,note,"Long ago, a woman named Ruth gathered grain in these fields. Her baby grew up to be Jesse's father.",
+disc_ruth,,quote,"… they named him Obed. He became the father of Jesse, the father of David.",Ruth 4:17
+look_house,,narrate,"Thick mud walls and a flat roof. It smells of bread.",
+look_oven,,note,"Bethlehem means House of Bread.",
+game_verses_intro,,note,"Tap the pieces of the verse in the right order. Press Hear it to listen first.",
+game_verses,,quote,"For man sees the outward appearance, but the LORD sees the heart.",1 Samuel 16:7
+game_verses,,quote,"The LORD is my shepherd; I shall not want.",Psalm 23:1
+game_roundup_intro,,quote,"He chose David His servant and took him from the sheepfolds",Psalm 78:70
+game_roundup_intro,,note,"The flock has scattered. Sheep run away from you, so get behind them and drive them into the fold. Use the arrow keys.",
+game_roundup_how,,note,"Get behind the sheep and drive them into the fold",
+game_roundup_done,,note,"Every sheep is safe in the fold.",
+door_hint,,note,"The glowing door behind you leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+end_truth,,quote,"For man sees the outward appearance, but the LORD sees the heart.",1 Samuel 16:7
+end_think,,think,"People look at the outside. God looks at the heart.",
+end_bible,,note,"God sent Samuel to Bethlehem to anoint one of Jesse's sons. (16:1-3)",
+end_bible,,note,"The elders trembled when Samuel arrived. (16:4-5)",
+end_bible,,note,"Samuel thought Eliab must be the one. (16:6-7)",
+end_bible,,note,"Seven sons passed by, and none was chosen. (16:8-10)",
+end_bible,,note,"David was sent for from the sheep. (16:11-12)",
+end_bible,,note,"Samuel anointed David in front of his brothers. (16:13)",
+end_imagined,,note,"You, and that you were the one sent to fetch David. The Bible only says Jesse sent for him.",
+end_imagined,,note,"The stray sheep, and what each brother was doing that morning.",
+end_imagined,,note,"Three brothers' names (Nethanel, Raddai, Ozem) come from 1 Chronicles 2:14-15. One brother is never named.",
+end_imagined,,note,"That David's harp and Psalm 23 were in these fields that day. He wrote the psalm, but the Bible does not say when.",
+end_left_out,,note,"What God said to Samuel before he set out is in 1 Samuel 16:1-3. Read it together to see how this day began.",

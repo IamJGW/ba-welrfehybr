@@ -1,0 +1,69 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. A great open plain, and above it a mountain so huge that it fills a quarter of the sky. Thousands of tents spread out below it like a second desert. The air is very still.",
+arrive,,quote,"After they had set out from Rephidim, they entered the Wilderness of Sinai, and Israel camped there in front of the mountain.",Exodus 19:2
+moses_idle,Moses,say,This is the place where God first spoke to me. Out of the bush. And now I bring all of you here.,
+message,,quote,"Then Moses went up to God, and the LORD called to him from the mountain, “This is what you are to tell the house of Jacob and explain to the sons of Israel: ‘You have seen for yourselves what I did to Egypt, and how I carried you on eagles’ wings and brought you to Myself.",Exodus 19:3-4
+message,,quote,"Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine.",Exodus 19:5
+kingdom,,quote,And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”,Exodus 19:6
+answer,,quote,"So Moses went back and summoned the elders of the people and set before them all these words that the LORD had commanded him. And all the people answered together, “We will do everything that the LORD has spoken.”",Exodus 19:7-8
+wash_ask,Moses,say,"{name}, in three days the LORD will come down on this mountain. He has told us to wash our clothes first, to be ready. Would you help at the stream?",
+aaron_idle,Aaron,say,It is a great day.,
+wash_idle,,narrate,It is not time to wash the clothes yet.,
+wash_tap,,narrate,You scrub the clothes at the stream until the water runs clear.,
+washed_done,,quote,"When Moses came down from the mountain to the people, he consecrated them, and they washed their clothes.",Exodus 19:14
+boundary_words,,quote,"And you are to set up a boundary for the people around the mountain and tell them, ‘Be careful not to go up on the mountain or touch its base. Whoever touches the mountain shall surely be put to death.",Exodus 19:12
+boundary_words,,quote,Only when the ram’s horn sounds a long blast may they approach the mountain.,Exodus 19:13
+boundary_words,Moses,say,"Go and see the boundary, {name}. The mountain is holy now. You may look, but you must not cross the line.",
+bump_boundary,,narrate,"Moses said not to go beyond this line. The mountain is holy, because the LORD is about to come down on it.",
+boundary_look,,narrate,"A line of posts runs all along the foot of the mountain. Beyond it, the slope climbs up into the clouds. Everything here is quiet and very still.",
+boundary_look,,think,"God is holy, which means He is different from everything and everyone. The boundary was not to keep people out because He did not care. It was to keep them safe, because He is so great.",
+third_day_morning,,quote,"On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain …",Exodus 19:16
+horn,,quote,"… and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled.",Exodus 19:16
+horn,,quote,"Then Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain.",Exodus 19:17
+smoke,,quote,"Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently.",Exodus 19:18
+horn_louder,,quote,"And as the sound of the ram’s horn grew louder and louder, Moses spoke and God answered him in the thunder.",Exodus 19:19
+summit,,quote,The LORD descended to the top of Mount Sinai and called Moses to the summit. So Moses went up …,Exodus 19:20
+warn,The LORD,quote,"Go down and warn the people not to break through to see the LORD, lest many of them perish.",Exodus 19:21
+god_spoke,,quote,And God spoke all these words:,Exodus 20:1
+first,The LORD,quote,"I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before Me.",Exodus 20:2-3
+idols,The LORD,quote,"You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me, but showing loving devotion to a thousand generations of those who love Me and keep My commandments.",Exodus 20:4-6
+name,The LORD,quote,"You shall not take the name of the LORD your God in vain, for the LORD will not leave anyone unpunished who takes His name in vain.",Exodus 20:7
+sabbath,The LORD,quote,"Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates. For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy.",Exodus 20:8-11
+parents,The LORD,quote,"Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you.",Exodus 20:12
+neighbor,The LORD,quote,You shall not murder. You shall not commit adultery. You shall not steal. You shall not bear false witness against your neighbor.,Exodus 20:13-16
+neighbor,The LORD,quote,"You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.",Exodus 20:17
+neighbor,,think,"The first four commandments are about loving God. The last six are about loving other people. God had just rescued His people, and now He showed them how to live as free people.",
+distance,,quote,"When all the people witnessed the thunder and lightning, the sounding of the ram’s horn, and the mountain enveloped in smoke, they trembled and stood at a distance.",Exodus 20:18
+speak_to_us,The people,quote,"Speak to us yourself and we will listen, | But do not let God speak to us, or we will die.",Exodus 20:19
+not_afraid,Moses,quote,"Do not be afraid, | For God has come to test you, so that the fear of Him may be before you, to keep you from sinning.",Exodus 20:20
+not_afraid,,quote,And the people stood at a distance as Moses approached the thick darkness where God was.,Exodus 20:21
+love,,note,"Long after, someone asked Jesus which commandment was the greatest. He said:",
+love,Jesus,quote,Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.,Matthew 22:37-40
+farewell,Moses,say,"God has given us His words, {name}. I will go up the mountain again, and He will write them for us. May we keep them.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_aaron,Aaron,say,"My brother goes up the mountain, and I stay to look after the people. I do not know why God asked me to come up halfway, but I am glad.",
+disc_aaron,,quote,"“Go down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.”",Exodus 19:24
+disc_elder,Elder,say,"We all said it together, {name}, every one of us: ""We will do everything the LORD has said."" I hope we can.",
+disc_elder,,quote,"And all the people answered together, “We will do everything that the LORD has spoken.”",Exodus 19:8
+disc_woman,Woman,say,"We wash everything. Clothes, blankets, bowls. It feels like getting ready for a wedding.",
+disc_woman,,quote,Go to the people and consecrate them today and tomorrow. They must wash their clothes and be prepared by the third day …,Exodus 19:10-11
+disc_boy,Boy,say,"The whole mountain shook. I felt it in my feet! And then the horn, and the thunder. I held on to my father's leg.",
+disc_boy,,quote,… so that all the people in the camp trembled.,Exodus 19:16
+disc_sentry,Guard,say,"No one goes past this line. Not a hand, not a toe. It is very strict. But I think it is a kindness, {name}.",
+disc_sentry,,quote,"No hand shall touch him, but he shall surely be stoned or shot with arrows—whether man or beast, he must not live.",Exodus 19:13
+disc_father,Father,say,"We have washed, and we are ready. But I do not know what to expect, {name}. I have never been so close to God.",
+disc_father,,quote,"Even the priests who approach the LORD must consecrate themselves, or the LORD will break out against them.",Exodus 19:22
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.",Exodus 20:2
+game_verses,,quote,"Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you.",Exodus 20:12
+game_verses,,quote,You shall not bear false witness against your neighbor.,Exodus 20:16
+end_truth,,quote,"I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.",Exodus 20:2
+end_think,,think,"God began the Ten Commandments by reminding the people what He had done for them. He rescued them first, and then He asked them to obey. Obeying God is a way to say thank you.",
+end_bible,,note,"Israel camped in front of Mount Sinai. God said they would be His treasured possession, a kingdom of priests and a holy nation, and the people said they would do everything He said. (19:1-8)",
+end_bible,,note,"The people washed their clothes, and a boundary was set around the mountain. On the third day there was thunder, lightning, smoke, and a loud horn. (19:9-25)",
+end_bible,,note,God spoke the Ten Commandments. The people trembled and stood at a distance while Moses approached the thick darkness. (20:1-21),
+end_imagined,,note,"You, and that you washed clothes at the stream and stood with the people at the foot of the mountain.",
+end_imagined,,note,"The elder, the woman, the boy, the guard and the father, and what they said. In the Bible, the people are named only as the Israelites.",
+end_imagined,,note,"How the thunder and smoke looked. The Bible says there was thunder, lightning, a thick cloud, a horn, smoke and fire, and that the mountain shook.",
+end_left_out,,note,"Exodus 21-23: more laws, for how to treat servants, strangers and neighbors. And Exodus 24: the people agreed to the covenant, and Moses went up the mountain for forty days.",

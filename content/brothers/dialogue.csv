@@ -1,0 +1,89 @@
+scene,speaker,kind,text,ref
+arrive,,narrate,"The device hums. Evening by a river in the hills east of the Jordan. Tents, flocks and children everywhere.",
+arrive,,narrate,"Twenty years have passed. Jacob worked for his uncle Laban in Haran, married Leah and Rachel, and has eleven sons now. God told him it was time to go home.",
+arrive,The LORD,quote,"Go back to the land of your fathers and to your kindred, and I will be with you.",Genesis 31:3
+jacob_idle,Jacob,say,"Esau... what will he do, {name}?",
+israel_idle,Jacob,say,"My hip aches, {name}. But I would not trade last night for anything.",
+news,,quote,"When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you—he and four hundred men with him.”",Genesis 32:6
+news,,quote,"In great fear and distress, Jacob divided his people into two camps, as well as the flocks and herds and camels.",Genesis 32:7
+news,Jacob,say,"Four hundred men, {name}! Twenty years ago my brother wanted to kill me. I have to pray.",
+prayer,Jacob,quote,"I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps. Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me. But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’",Genesis 32:10-12
+prayer,,think,"Jacob was afraid, and he told God so. He did not pretend he deserved help. He held on to what God had promised.",
+gift_plan,Jacob,say,"I will send gifts ahead to my brother, herd after herd. Help the drover at the ford, {name}. Bring him the goats, the camels and the donkeys, one herd at a time.",
+look_herd,,narrate,"Fine, healthy animals.",
+one_herd,,narrate,"One herd at a time.",
+herd_follows,,narrate,"The herd follows you. Take it to the drover at the ford.",
+herd_sent,,narrate,"Off they go across the ford, toward Esau.",
+drover_idle,Drover,say,"That's a lot of animals to give away.",
+drover_wait,Drover,say,"Bring me a herd, and I'll send it across.",
+gifts_sent,,quote,"Jacob spent the night there, and from what he had brought with him, he selected a gift for his brother Esau: 200 female goats, 20 male goats, 200 ewes, 20 rams, 30 milk camels with their young, 40 cows, 10 bulls, 20 female donkeys, and 10 male donkeys.",Genesis 32:13-15
+gifts_sent,,quote,"… For he thought, “I will appease Esau with the gift that is going before me. After that I can face him, and perhaps he will accept me.”",Genesis 32:20
+night,,quote,"During the night Jacob got up and took his two wives, his two maidservants, and his eleven sons, and crossed the ford of the Jabbok.",Genesis 32:22
+night,Jacob,say,"Go across with them, {name}. I will stay here a while.",
+rachel_idle,Rachel,say,"Stay close to Joseph, {name}. He is only small.",
+maid_idle,Maidservant,say,"So many children to keep track of!",
+son_idle,Jacob's son,say,"Is Uncle Esau really bringing four hundred men?",
+alone,,quote,"So Jacob was left all alone, and there a man wrestled with him until daybreak.",Genesis 32:24
+wrestle,,quote,"When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled.",Genesis 32:25
+wrestle,The man,quote,"Let me go, for it is daybreak.",Genesis 32:26
+wrestle,Jacob,quote,"I will not let you go unless you bless me.",Genesis 32:26
+wrestle,The man,quote,"What is your name?",Genesis 32:27
+wrestle,Jacob,quote,"Jacob,",Genesis 32:27
+wrestle,The man,quote,"Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.",Genesis 32:28
+wrestle,,note,"Israel means ""he struggles with God.""",
+wrestle,,think,"Jacob had always got ahead by tricks. This time he held on to God and would not let go without a blessing. God gave him a new name.",
+peniel,Jacob,quote,"Please tell me your name.",Genesis 32:29
+peniel,The man,quote,"Why do you ask my name?",Genesis 32:29
+peniel,,quote,"… Then he blessed Jacob there.",Genesis 32:29
+peniel,,quote,"So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.”",Genesis 32:30
+peniel,,note,"Peniel means ""face of God.""",
+limping,,quote,"The sun rose above him as he passed by Penuel, and he was limping because of his hip.",Genesis 32:31
+four_hundred,,quote,"Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants. He put the maidservants and their children in front, Leah and her children next, and Rachel and Joseph at the rear.",Genesis 33:1-2
+bowed,,quote,"But Jacob himself went on ahead and bowed to the ground seven times as he approached his brother.",Genesis 33:3
+embraced,,quote,"Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.",Genesis 33:4
+embraced,,think,"Twenty years of fear, and Esau ran to him with open arms. Forgiveness did what all the gifts could not.",
+embraced,,note,"Long after, Jesus told a story about a son who came home after wasting everything. Listen to how his father welcomed him:",
+embraced,Jesus,quote,"… But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him.",Luke 15:20
+embraced,,think,"That is how God welcomes everyone who comes home to Him.",
+who_are_these,Esau,quote,"Who are these with you?",Genesis 33:5
+who_are_these,Jacob,quote,"These are the children God has graciously given your servant.",Genesis 33:5
+who_are_these,Esau,quote,"What do you mean by sending this whole company to meet me?",Genesis 33:8
+who_are_these,Jacob,quote,"To find favor in your sight, my lord,",Genesis 33:8
+who_are_these,Esau,quote,"I already have plenty, my brother, | Keep what belongs to you.",Genesis 33:9
+who_are_these,Jacob,quote,"No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably.",Genesis 33:10
+esau_idle,Esau,say,"Where is my brother?",
+esau_after,Esau,say,"My brother! After all these years.",
+men_wait,Esau's man,say,"Esau told us to wait here.",
+farewell,Jacob,say,"Last night God gave me a new name, and this morning He gave me back my brother. Everything He promised me at Bethel, He has done, {name}.",
+farewell,,narrate,"Esau goes home to Seir. Jacob, now called Israel, travels on into Canaan with all his family. Your device hums. Time to go.",
+disc_camp,Messenger,say,"On the road here, Jacob says, angels came to meet him!",
+disc_camp,,quote,"Jacob also went on his way, and the angels of God met him. When Jacob saw them, he said, “This is the camp of God.” So he named that place Mahanaim.",Genesis 32:1-2
+disc_count,Herdsman,say,"Two hundred female goats, twenty males, two hundred ewes, twenty rams, thirty camels, fifty cattle, thirty donkeys... five hundred and fifty animals, not counting the baby camels! All of it earned in twenty hard years with Laban.",
+disc_count,Jacob,quote,"Thus for twenty years I have served in your household—fourteen years for your two daughters and six years for your flocks—and you have changed my wages ten times!",Genesis 31:41
+disc_judah,Leah,say,"This is my fourth son, Judah. When he was born, I said: this time I will praise the LORD.",
+disc_judah,,quote,"And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. …",Genesis 29:35
+disc_judah,,note,"Long after, King David was born into Judah's family, and so was Jesus:",
+disc_judah,,quote,"Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.",Matthew 1:2
+disc_joseph,Joseph,say,"I'm Joseph! I'm the youngest. Mother says God gave me to her.",
+disc_joseph,,quote,"She named him Joseph, and said, “May the LORD add to me another son.”",Genesis 30:24
+disc_joseph,,note,"Joseph will grow up to have a story all of his own.",
+disc_kind,Esau's man,say,"We came ready for a fight. And look at those two!",
+disc_kind,,note,"A letter, written long after:",
+disc_kind,,quote,"Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you.",Ephesians 4:32
+door_hint,,note,"The glowing door nearby leads back to your time device.",
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,"Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.",Genesis 33:4
+game_verses,,quote,"Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you.",Ephesians 4:32
+end_truth,,quote,"Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.",Genesis 33:4
+end_think,,think,"Jacob came home afraid of what he deserved, and found forgiveness instead. That is the welcome God offers every one of us through Jesus.",
+end_bible,,note,"Twenty years after he fled, Jacob came home. Hearing that Esau was coming with 400 men, he was afraid, and he prayed. (32:1-12)",
+end_bible,,note,"He sent herds ahead as a gift for his brother. (32:13-21)",
+end_bible,,note,"At night by the Jabbok a man wrestled with Jacob until daybreak and gave him a new name: Israel. (32:22-32)",
+end_bible,,note,"Jacob bowed seven times, but Esau ran to him, embraced him and kissed him, and they wept. (33:1-11)",
+end_bible,,note,"Esau went home to Seir, and Jacob went on into Canaan. (33:12-20)",
+end_imagined,,note,"You, and that you led the herds to the drover.",
+end_imagined,,note,"The drover, the messenger, the herdsman and Esau's men, and what Jacob's family said to you. Only two of Jacob's eleven sons are shown.",
+end_imagined,,note,"What the man who wrestled Jacob looked like. The Bible calls him a man; Jacob said he had seen God face to face (32:30), and Hosea 12:4 calls him an angel.",
+end_left_out,,note,"Genesis 29-31: Jacob's twenty years with Laban, who tricked him into marrying Leah before Rachel, and how Jacob's family grew.",
+end_left_out,,note,"Genesis 34 tells of a terrible wrong done to Jacob's daughter Dinah and her brothers' violent revenge. It is best read with a parent.",
+end_left_out,,note,"Genesis 35: at Bethel God called Jacob Israel again; Benjamin was born, and Rachel died.",

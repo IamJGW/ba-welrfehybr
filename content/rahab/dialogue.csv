@@ -1,0 +1,68 @@
+scene,speaker,kind,text,ref
+parent_note,,note,"Rahab, the woman in this story, is called a prostitute in the Bible (Joshua 2:1; Hebrews 11:31). The game does not dwell on that, and does not hide it either. Rahab also lies to the king's men in this chapter. The Bible reports what she did without a comment on the lie, and praises her for believing in God and helping His people.",
+arrive,,narrate,"The device hums. You stand in the shadow of a great stone wall, with a gate and towers, in the middle of a green valley. This is Jericho, the city that stands in the way of the Israelites.",
+arrive,,quote,"Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.”",Joshua 2:1
+arrive,,narrate,"Joshua leads the Israelites now. Moses has died. Two spies stand at the gate, looking nervous, and one of them nods at you.",
+spy_idle,Spy,say,"We have to be careful, {name}. We must not look like we are spying.",
+guard_idle,Guard,say,Move along. No loitering at the wall.,
+rahab_idle,Rahab,say,My house is built right into the city wall. The king's men come by often.,
+rahab_house,,narrate,"You walk through the gate and into the city with the spies. It is crowded with market stalls, donkeys, soldiers. The spies pull their hoods low. Near the wall, one of them nods at a narrow house with a window that looks out over the countryside.",
+rahab_meet,Rahab,say,"Come in, quickly, all of you. I am Rahab. I think I know who you are.",
+rahab_meet,,think,"The spies went into the home of a woman called Rahab. Rahab was not an Israelite, and she was not a person that many people respected. But she was about to show great courage.",
+king_told,,quote,"And it was reported to the king of Jericho: “Behold, some men of Israel have come here tonight to spy out the land.”",Joshua 2:2
+roof_hide,Rahab,say,"The king knows, {name}. His men will be here soon. There is flax drying on the roof. Quick: help me cover the men with it!",
+flax_idle,,narrate,There is no need for flax yet.,
+flax_hands,,narrate,Your hands are full. Take that to the spies first.,
+flax_gone,,narrate,You have already used that flax.,
+flax_take,,narrate,You gather up the flax. Take it to the spies.,
+flax_empty,,narrate,Gather some flax first.,
+flax_give,,narrate,You spread the flax over the spies.,
+king_asks,,quote,"So the king of Jericho sent to Rahab and said, “Bring out the men who came to you and entered your house, for they have come to spy out the whole land.”",Joshua 2:3
+rahab_lies,,quote,"But the woman had taken the two men and hidden them. So she said, “Yes, the men did come to me, but I did not know where they had come from. At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!”",Joshua 2:4-5
+on_roof,,quote,(But Rahab had taken them up to the roof and hidden them among the stalks of flax that she had laid out there.),Joshua 2:6
+gate_shut,,quote,"So the king’s men set out in pursuit of the spies along the road to the fords of the Jordan, and as soon as they had gone out, the gate was shut.",Joshua 2:7
+gate_shut,,think,Rahab put her own life at risk to protect strangers. She did it because she believed that their God was real.,
+roof_words,,quote,"Before the spies lay down for the night, Rahab went up on the roof and said to them, “I know that the LORD has given you this land and that the fear of you has fallen on us, so that all who dwell in the land are melting in fear of you.",Joshua 2:8-9
+roof_words2,Rahab,quote,"For we have heard how the LORD dried up the waters of the Red Sea before you when you came out of Egypt … When we heard this, our hearts melted and everyone’s courage failed because of you, for the LORD your God is God in the heavens above and on the earth below.",Joshua 2:10-11
+roof_ask,Rahab,quote,"Now therefore, please swear to me by the LORD that you will indeed show kindness to my family, because I showed kindness to you. Give me a sure sign that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them, and that you will deliver us from death.",Joshua 2:12-13
+oath,,quote,"“Our lives for your lives!” the men agreed. “If you do not report our mission, we will show you kindness and faithfulness when the LORD gives us the land.”",Joshua 2:14
+window,,quote,"Then Rahab let them down by a rope through the window, since the house where she lived was built into the wall of the city.",Joshua 2:15
+hill_country,Rahab,quote,"Go to the hill country, | so that your pursuers will not find you. Hide yourselves there for three days until they have returned; then go on your way.",Joshua 2:16
+rope_look,,narrate,"A strong rope, ready by the wall.",
+window_look,,narrate,"A small window, built into the wall of the city.",
+rope_idle,,narrate,It is not time to use the rope yet.,
+rope_tap,,narrate,"You tie the rope to the window frame and let the spies down the wall, one at a time, into the dark.",
+conditions,,quote,"The men said to her, “We will not be bound by this oath you made us swear unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother and brothers and all your family into your house.",Joshua 2:17-18
+conditions2,,quote,"If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our heads.",Joshua 2:19
+conditions2,,quote,"And if you report our mission, we will be released from the oath you made us swear.",Joshua 2:20
+tied,,quote,"“Let it be as you say,” she replied, and she sent them away. And when they had gone, she tied the scarlet cord in the window.",Joshua 2:21
+cord_idle,,narrate,It is not time to tie the cord yet.,
+cord_tap,,narrate,"You help Rahab tie the scarlet cord to the window, where anyone outside can see it.",
+report,,quote,"So the spies went out into the hill country and stayed there three days, until their pursuers had returned without finding them, having searched all along the road. Then the two men started back, came down from the hill country, and crossed the river. So they came to Joshua son of Nun and reported all that had happened to them.",Joshua 2:22-23
+report,The spies,quote,"The LORD has surely delivered the entire land into our hands, | Indeed, all who dwell in the land are melting in fear of us.",Joshua 2:24
+by_faith,,note,"Long after, the letter to the Hebrews listed Rahab among the people of faith:",
+by_faith,,quote,"By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient.",Hebrews 11:31
+line_of_jesus,,note,And Matthew's list of Jesus' family line includes her by name:,
+line_of_jesus,,quote,"Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,",Matthew 1:5
+line_of_jesus,,think,"Rahab, who was not an Israelite, became part of the family line of King David, and of Jesus. God's people include everyone who trusts Him.",
+farewell,Rahab,say,"The cord is in the window, {name}. I am ready. My whole family is here. Now we wait.",
+farewell,,narrate,Your device hums. Time to go.,
+disc_merchant,Merchant,say,"Strange times, {name}. Every trader who comes through the gate says the same thing: Israel has crossed the desert. People are not sleeping.",
+disc_merchant,,quote,"… the fear of you has fallen on us, so that all who dwell in the land are melting in fear of you.",Joshua 2:9
+disc_father,Rahab's father,say,"My daughter says something is coming, and that we have to stay inside. When she says it, she is very sure.",
+disc_father,,quote,… and unless you have brought your father and mother and brothers and all your family into your house.,Joshua 2:18
+disc_sister,Rahab's sister,say,"Rahab told us what she did. I was frightened, but I believe her. She has never been so sure of anything.",
+disc_sister,,quote,"… that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them …",Joshua 2:13
+door_hint,,note,The glowing door nearby leads back to your time device.,
+door,,note,"Your discoveries are saved. When you come back, the story picks up from this part.",
+game_verses,,quote,… for the LORD your God is God in the heavens above and on the earth below.,Joshua 2:11
+end_truth,,quote,… the LORD your God is God in the heavens above and on the earth below.,Joshua 2:11
+end_think,,think,"Rahab had heard what God had done, and she believed it, even though she lived in a city that was about to be attacked. Faith can begin with just hearing about what God has done.",
+end_bible,,note,"Joshua sent two spies to Jericho, and they stayed at the house of a woman named Rahab. The king learned of it and sent for them. (2:1-3)",
+end_bible,,note,Rahab hid the spies on her roof among stalks of flax and told the king's men they had left. (2:4-7),
+end_bible,,note,"Rahab said she believed in the LORD and asked them to spare her family. They agreed, if she tied a scarlet cord in her window. (2:8-21)",
+end_bible,,note,The spies hid in the hills for three days and then reported to Joshua. (2:22-24),
+end_imagined,,note,"You, and that you spread the flax and tied the cord.",
+end_imagined,,note,"Rahab's father and sister, the merchant and the guards, and what they said. The Bible says Rahab had a father, a mother, brothers and sisters, but names none of them.",
+end_imagined,,note,That the two spies went into the city with you. The Bible does not say they had a guide.,
+end_left_out,,note,"Joshua 2:1 and Hebrews 11:31 call Rahab a prostitute. The game does not describe her work, but does not hide it either. The Bible says she lied to the king's men, and does not explain it. It praises her for what she believed and what she did for God's people.",
